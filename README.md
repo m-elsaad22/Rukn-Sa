@@ -18,3 +18,10 @@ export WP_USER='cursor'
 export WP_APP_PASSWORD='xxxx xxxx xxxx xxxx xxxx xxxx'
 python3 scripts/rewrite_thin_city_pages.py
 ```
+
+
+## مقالات احترافية (3500+ كلمة)
+
+- [كشف تسربات المياه في الرياض](https://www.rukn-eltatawer.com/sa/water-leak-detection-riyadh/)
+- [عزل الأسطح في الرياض](https://www.rukn-eltatawer.com/sa/roof-insulation-riyadh/)
+- المعيار: [`templates/professional-article-prompt.md`](templates/professional-article-prompt.md)
