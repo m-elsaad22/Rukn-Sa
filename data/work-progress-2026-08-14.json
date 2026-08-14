@@ -1,0 +1,42 @@
+{
+  "date": "2026-08-14",
+  "actions": {
+    "phone_numbers_fixed": 45,
+    "drafts_published": 2,
+    "city_pages_rewritten": 35,
+    "hub_posts_rewritten": 9,
+    "services_updated": 12,
+    "service_typo_fixed": "خدمات كشف تسربات المياة → المياه"
+  },
+  "before_vs_after": {
+    "posts": {
+      "before": 94,
+      "after": 96
+    },
+    "under_100_words": {
+      "before": 44,
+      "after": 0
+    },
+    "bad_phones": {
+      "before": 45,
+      "after": 0
+    },
+    "avg_word_count": {
+      "before": 600,
+      "after": 954
+    },
+    "ge_900_words": {
+      "after": 56
+    },
+    "drafts": {
+      "before": 2,
+      "after": 0
+    }
+  },
+  "remaining": {
+    "under_1000_words": 78,
+    "under_300_words": 8,
+    "no_featured_image": 87,
+    "new_articles_still_needed_mvp": 75
+  }
+}
