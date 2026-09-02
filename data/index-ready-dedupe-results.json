@@ -1,0 +1,253 @@
+{
+  "updated": 767,
+  "skipped": 98,
+  "errors": 0,
+  "stretch": {
+    "far_candidates": 1293,
+    "stretched": 1292
+  },
+  "avg_new": 1014,
+  "sample": [
+    {
+      "id": 13121,
+      "title": "شركة صيانة دكتات التكييف بجدة",
+      "old": 1141,
+      "new": 1023,
+      "status": "future",
+      "bucket": "soon48"
+    },
+    {
+      "id": 11162,
+      "title": "شركة صيانة مكيفات سبليت بجدة",
+      "old": 1138,
+      "new": 1046,
+      "status": "future",
+      "bucket": "soon48"
+    },
+    {
+      "id": 13153,
+      "title": "شركة عقود صيانة تكييف دورية بجدة",
+      "old": 1156,
+      "new": 1060,
+      "status": "future",
+      "bucket": "soon48"
+    },
+    {
+      "id": 13105,
+      "title": "شركة غسيل وتنظيف مكيفات بجدة",
+      "old": 1132,
+      "new": 1040,
+      "status": "future",
+      "bucket": "soon48"
+    },
+    {
+      "id": 12682,
+      "title": "شركة التعقيم بالأوزون بمكة المكرمة",
+      "old": 812,
+      "new": 1003,
+      "status": "future",
+      "bucket": "soon48"
+    },
+    {
+      "id": 12666,
+      "title": "شركة التعقيم بالبخار بمكة المكرمة",
+      "old": 815,
+      "new": 996,
+      "status": "future",
+      "bucket": "soon48"
+    },
+    {
+      "id": 12674,
+      "title": "شركة التعقيم بالكلور بمكة المكرمة",
+      "old": 813,
+      "new": 1004,
+      "status": "future",
+      "bucket": "soon48"
+    },
+    {
+      "id": 13049,
+      "title": "شركة تأسيس كهرباء وسباكة لمبنى جديد بجدة",
+      "old": 1165,
+      "new": 1056,
+      "status": "future",
+      "bucket": "soon48"
+    },
+    {
+      "id": 12521,
+      "title": "شركة تركيب سخانات طاقة شمسية بجدة",
+      "old": 813,
+      "new": 1037,
+      "status": "future",
+      "bucket": "soon48"
+    },
+    {
+      "id": 13017,
+      "title": "شركة تركيب سخانات مياه بجدة",
+      "old": 823,
+      "new": 1011,
+      "status": "future",
+      "bucket": "soon48"
+    },
+    {
+      "id": 13065,
+      "title": "شركة تركيب وصيانة سخانات مركزية بجدة",
+      "old": 813,
+      "new": 1033,
+      "status": "future",
+      "bucket": "soon48"
+    },
+    {
+      "id": 11178,
+      "title": "شركة تركيب وصيانة مضخات مياه وصرف صحي بجدة",
+      "old": 826,
+      "new": 1045,
+      "status": "future",
+      "bucket": "soon48"
+    },
+    {
+      "id": 10922,
+      "title": "شركة تنظيف سجاد بمكة المكرمة",
+      "old": 1125,
+      "new": 1009,
+      "status": "future",
+      "bucket": "soon48"
+    },
+    {
+      "id": 10909,
+      "title": "شركة تنظيف شقق بمكة المكرمة",
+      "old": 1125,
+      "new": 1000,
+      "status": "future",
+      "bucket": "soon48"
+    },
+    {
+      "id": 10910,
+      "title": "شركة تنظيف فلل بمكة المكرمة",
+      "old": 1125,
+      "new": 1008,
+      "status": "future",
+      "bucket": "soon48"
+    },
+    {
+      "id": 10924,
+      "title": "شركة تنظيف كنب بمكة المكرمة",
+      "old": 1121,
+      "new": 1007,
+      "status": "future",
+      "bucket": "soon48"
+    },
+    {
+      "id": 10908,
+      "title": "شركة تنظيف منازل بمكة المكرمة",
+      "old": 1122,
+      "new": 1006,
+      "status": "future",
+      "bucket": "soon48"
+    },
+    {
+      "id": 10931,
+      "title": "شركة تنظيف وتعقيم شامل بمكة المكرمة",
+      "old": 823,
+      "new": 1023,
+      "status": "future",
+      "bucket": "soon48"
+    },
+    {
+      "id": 13001,
+      "title": "شركة سباك منازل بجدة",
+      "old": 802,
+      "new": 1012,
+      "status": "future",
+      "bucket": "soon48"
+    },
+    {
+      "id": 11160,
+      "title": "شركة صيانة سباكة بجدة",
+      "old": 798,
+      "new": 1007,
+      "status": "future",
+      "bucket": "soon48"
+    },
+    {
+      "id": 11174,
+      "title": "شركة صيانة سخانات بجدة",
+      "old": 795,
+      "new": 1004,
+      "status": "future",
+      "bucket": "soon48"
+    },
+    {
+      "id": 13057,
+      "title": "شركة صيانة مضخات مياه بجدة",
+      "old": 810,
+      "new": 1021,
+      "status": "future",
+      "bucket": "soon48"
+    },
+    {
+      "id": 13025,
+      "title": "شركة صيانة مواسير صرف صحي بجدة",
+      "old": 816,
+      "new": 1030,
+      "status": "future",
+      "bucket": "soon48"
+    },
+    {
+      "id": 11375,
+      "title": "شركة كشف تسربات التكييف بالمدينة المنورة",
+      "old": 827,
+      "new": 1039,
+      "status": "future",
+      "bucket": "soon48"
+    },
+    {
+      "id": 11374,
+      "title": "شركة كشف تسربات الغاز بالمدينة المنورة",
+      "old": 822,
+      "new": 1047,
+      "status": "future",
+      "bucket": "soon48"
+    },
+    {
+      "id": 11373,
+      "title": "شركة كشف تسربات المياه بالمدينة المنورة",
+      "old": 827,
+      "new": 1039,
+      "status": "future",
+      "bucket": "soon48"
+    },
+    {
+      "id": 13011,
+      "title": "شركة كشف تسريبات مواسير مياه بالمدينة المنورة",
+      "old": 823,
+      "new": 1055,
+      "status": "future",
+      "bucket": "soon48"
+    },
+    {
+      "id": 13073,
+      "title": "شركة كشف وإصلاح أعطال السباكة بجدة",
+      "old": 809,
+      "new": 1026,
+      "status": "future",
+      "bucket": "soon48"
+    },
+    {
+      "id": 12464,
+      "title": "شركة نقل أثاث خارجي بالرياض",
+      "old": 812,
+      "new": 996,
+      "status": "future",
+      "bucket": "soon48"
+    },
+    {
+      "id": 12456,
+      "title": "شركة نقل أثاث داخلي بالرياض",
+      "old": 803,
+      "new": 987,
+      "status": "future",
+      "bucket": "soon48"
+    }
+  ],
+  "error_sample": []
+}

@@ -1,0 +1,18 @@
+{
+  "verified_at": "2026-09-03T00:00:00Z",
+  "status_counts": {"publish": 183, "future": 1576, "draft": 0},
+  "checked_posts": 1759,
+  "unique_marker": 1658,
+  "template_guide_2026": 0,
+  "ar_ge_900": 1756,
+  "thin_ar900_en250": 0,
+  "badphone": 0,
+  "en_posts": {
+    "14833": {"words": 498, "url": "https://www.rukn-eltatawer.com/sa/en-water-leak-detection-riyadh/"},
+    "14834": {"words": 447, "url": "https://www.rukn-eltatawer.com/sa/en-roof-waterproofing-riyadh/"},
+    "14835": {"words": 454, "url": "https://www.rukn-eltatawer.com/sa/en-home-cleaning-riyadh/"}
+  },
+  "active_snippets": [5, 7, 8, 11, 12, 14],
+  "root_robots_missing_sa_sitemap": true,
+  "sa_robots_sitemap_ok": true
+}
