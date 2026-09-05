@@ -1,0 +1,35 @@
+{
+  "at": "2026-09-05T05:51:38.762304+00:00",
+  "status": {
+    "publish": 469,
+    "future": 1271,
+    "draft": 19
+  },
+  "checked_publish_future": 1740,
+  "dup_titles": 0,
+  "content_h1": 0,
+  "no_post_call": 0,
+  "template": 0,
+  "badphone": 0,
+  "frontend_h1_counts": {
+    "water-leak-detection-riyadh": 1,
+    "roof-insulation-riyadh": 1,
+    "artificial-grass-riyadh": 1,
+    "villa-cleaning-al-baha": 1
+  },
+  "root_robots_has_sa": true,
+  "sa_robots_ok": true,
+  "pages": [
+    {
+      "id": 7464,
+      "slug": "pricing",
+      "ar_words": 595
+    },
+    {
+      "id": 7465,
+      "slug": "cities",
+      "ar_words": 431
+    }
+  ],
+  "drafted_duplicates": 19
+}

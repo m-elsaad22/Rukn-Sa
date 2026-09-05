@@ -1,0 +1,262 @@
+[
+  {
+    "id": 12536,
+    "slug": "crawling-pest-control-riyadh",
+    "words": 457
+  },
+  {
+    "id": 12538,
+    "slug": "crawling-pest-control-mecca",
+    "words": 467
+  },
+  {
+    "id": 12541,
+    "slug": "crawling-pest-control-khobar",
+    "words": 454
+  },
+  {
+    "id": 12542,
+    "slug": "crawling-pest-control-taif",
+    "words": 453
+  },
+  {
+    "id": 12544,
+    "slug": "flying-pest-control-riyadh",
+    "words": 464
+  },
+  {
+    "id": 12546,
+    "slug": "flying-pest-control-mecca",
+    "words": 474
+  },
+  {
+    "id": 12549,
+    "slug": "flying-pest-control-khobar",
+    "words": 461
+  },
+  {
+    "id": 12550,
+    "slug": "flying-pest-control-taif",
+    "words": 460
+  },
+  {
+    "id": 12552,
+    "slug": "termite-control-riyadh",
+    "words": 473
+  },
+  {
+    "id": 12554,
+    "slug": "termite-control-mecca",
+    "words": 483
+  },
+  {
+    "id": 12557,
+    "slug": "termite-control-khobar",
+    "words": 470
+  },
+  {
+    "id": 12558,
+    "slug": "termite-control-taif",
+    "words": 469
+  },
+  {
+    "id": 12560,
+    "slug": "ant-control-riyadh",
+    "words": 454
+  },
+  {
+    "id": 12562,
+    "slug": "ant-control-mecca",
+    "words": 464
+  },
+  {
+    "id": 12565,
+    "slug": "ant-control-khobar",
+    "words": 451
+  },
+  {
+    "id": 12566,
+    "slug": "ant-control-taif",
+    "words": 450
+  },
+  {
+    "id": 12568,
+    "slug": "cockroach-control-riyadh",
+    "words": 451
+  },
+  {
+    "id": 12570,
+    "slug": "cockroach-control-mecca",
+    "words": 461
+  },
+  {
+    "id": 12573,
+    "slug": "cockroach-control-khobar",
+    "words": 448
+  },
+  {
+    "id": 12574,
+    "slug": "cockroach-control-taif",
+    "words": 447
+  },
+  {
+    "id": 12576,
+    "slug": "bed-bug-control-riyadh",
+    "words": 469
+  },
+  {
+    "id": 12578,
+    "slug": "bed-bug-control-mecca",
+    "words": 479
+  },
+  {
+    "id": 12581,
+    "slug": "bed-bug-control-khobar",
+    "words": 466
+  },
+  {
+    "id": 12582,
+    "slug": "bed-bug-control-taif",
+    "words": 465
+  },
+  {
+    "id": 12584,
+    "slug": "rodent-control-riyadh",
+    "words": 462
+  },
+  {
+    "id": 12586,
+    "slug": "rodent-control-mecca",
+    "words": 472
+  },
+  {
+    "id": 12589,
+    "slug": "rodent-control-khobar",
+    "words": 459
+  },
+  {
+    "id": 12590,
+    "slug": "rodent-control-taif",
+    "words": 458
+  },
+  {
+    "id": 12592,
+    "slug": "snake-control-riyadh",
+    "words": 456
+  },
+  {
+    "id": 12594,
+    "slug": "snake-control-mecca",
+    "words": 466
+  },
+  {
+    "id": 12597,
+    "slug": "snake-control-khobar",
+    "words": 453
+  },
+  {
+    "id": 12598,
+    "slug": "snake-control-taif",
+    "words": 452
+  },
+  {
+    "id": 12600,
+    "slug": "scorpion-control-riyadh",
+    "words": 456
+  },
+  {
+    "id": 12602,
+    "slug": "scorpion-control-mecca",
+    "words": 466
+  },
+  {
+    "id": 12605,
+    "slug": "scorpion-control-khobar",
+    "words": 453
+  },
+  {
+    "id": 12606,
+    "slug": "scorpion-control-taif",
+    "words": 452
+  },
+  {
+    "id": 12608,
+    "slug": "flea-control-riyadh",
+    "words": 456
+  },
+  {
+    "id": 12610,
+    "slug": "flea-control-mecca",
+    "words": 466
+  },
+  {
+    "id": 12613,
+    "slug": "flea-control-khobar",
+    "words": 453
+  },
+  {
+    "id": 12614,
+    "slug": "flea-control-taif",
+    "words": 452
+  },
+  {
+    "id": 12616,
+    "slug": "lizard-control-riyadh",
+    "words": 457
+  },
+  {
+    "id": 12618,
+    "slug": "lizard-control-mecca",
+    "words": 467
+  },
+  {
+    "id": 12621,
+    "slug": "lizard-control-khobar",
+    "words": 454
+  },
+  {
+    "id": 12622,
+    "slug": "lizard-control-taif",
+    "words": 453
+  },
+  {
+    "id": 12624,
+    "slug": "bird-control-riyadh",
+    "words": 451
+  },
+  {
+    "id": 12626,
+    "slug": "bird-control-mecca",
+    "words": 461
+  },
+  {
+    "id": 12629,
+    "slug": "bird-control-khobar",
+    "words": 448
+  },
+  {
+    "id": 12630,
+    "slug": "bird-control-taif",
+    "words": 447
+  },
+  {
+    "id": 12632,
+    "slug": "mosquito-fly-control-riyadh",
+    "words": 464
+  },
+  {
+    "id": 12634,
+    "slug": "mosquito-fly-control-mecca",
+    "words": 474
+  },
+  {
+    "id": 12637,
+    "slug": "mosquito-fly-control-khobar",
+    "words": 461
+  },
+  {
+    "id": 12638,
+    "slug": "mosquito-fly-control-taif",
+    "words": 460
+  }
+]
