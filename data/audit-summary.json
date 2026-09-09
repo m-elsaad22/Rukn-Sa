@@ -1,0 +1,83 @@
+{
+  "total": 1725,
+  "thin": 347,
+  "mismatch": 18,
+  "similar_groups": 200,
+  "similar_posts": 599,
+  "empty_blocks": 1723,
+  "missing_post_call": 0,
+  "needs_rewrite": 1723,
+  "by_topic": {
+    "paint": {
+      "n": 128,
+      "needs": 128,
+      "thin": 35
+    },
+    "insul": {
+      "n": 73,
+      "needs": 72,
+      "thin": 0
+    },
+    "maint": {
+      "n": 177,
+      "needs": 177,
+      "thin": 56
+    },
+    "other": {
+      "n": 482,
+      "needs": 482,
+      "thin": 133
+    },
+    "ac": {
+      "n": 113,
+      "needs": 113,
+      "thin": 0
+    },
+    "pest": {
+      "n": 104,
+      "needs": 104,
+      "thin": 52
+    },
+    "leak": {
+      "n": 113,
+      "needs": 112,
+      "thin": 0
+    },
+    "clean": {
+      "n": 246,
+      "needs": 246,
+      "thin": 3
+    },
+    "pool": {
+      "n": 16,
+      "needs": 16,
+      "thin": 6
+    },
+    "move": {
+      "n": 32,
+      "needs": 32,
+      "thin": 10
+    },
+    "garden": {
+      "n": 56,
+      "needs": 56,
+      "thin": 16
+    },
+    "plumb": {
+      "n": 97,
+      "needs": 97,
+      "thin": 21
+    },
+    "elec": {
+      "n": 88,
+      "needs": 88,
+      "thin": 15
+    }
+  },
+  "word_buckets": {
+    "lt500": 54,
+    "lt1000": 347,
+    "lt1500": 1717,
+    "ge1500": 8
+  }
+}
