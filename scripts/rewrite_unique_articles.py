@@ -10,7 +10,9 @@ import re
 import sys
 import time
 import urllib.parse
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
+from threading import Lock
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from geo_packs import CITIES, city_pack, ALIASES
@@ -613,42 +615,50 @@ def build_article(post: dict, index: dict) -> dict:
 
 TAG_CACHE: dict[str, int] = {}
 CITY_CACHE: dict[str, int] = {}
+CACHE_LOCK = Lock()
 
 
 def ensure_tag(name: str) -> int | None:
     name = (name or "").strip()
     if not name:
         return None
-    if name in TAG_CACHE:
-        return TAG_CACHE[name]
+    with CACHE_LOCK:
+        if name in TAG_CACHE:
+            return TAG_CACHE[name]
     try:
         body, _ = get("/wp/v2/tags?per_page=1&search=" + urllib.parse.quote(name))
         if body and body[0].get("name") == name:
-            TAG_CACHE[name] = body[0]["id"]
+            with CACHE_LOCK:
+                TAG_CACHE[name] = body[0]["id"]
             return body[0]["id"]
         created, _ = post("/wp/v2/tags", {"name": name})
-        TAG_CACHE[name] = created["id"]
+        with CACHE_LOCK:
+            TAG_CACHE[name] = created["id"]
         return created["id"]
     except Exception:
         try:
             created, _ = post("/wp/v2/tags", {"name": name})
-            TAG_CACHE[name] = created["id"]
+            with CACHE_LOCK:
+                TAG_CACHE[name] = created["id"]
             return created["id"]
         except Exception:
             return None
 
 
 def ensure_city(name: str) -> int | None:
-    if name in CITY_CACHE:
-        return CITY_CACHE[name]
-    try:
-        body, _ = get("/wp/v2/cities?per_page=100")
-        for t in body or []:
-            CITY_CACHE[t["name"]] = t["id"]
+    with CACHE_LOCK:
         if name in CITY_CACHE:
             return CITY_CACHE[name]
+    try:
+        body, _ = get("/wp/v2/cities?per_page=100")
+        with CACHE_LOCK:
+            for t in body or []:
+                CITY_CACHE[t["name"]] = t["id"]
+            if name in CITY_CACHE:
+                return CITY_CACHE[name]
         created, _ = post("/wp/v2/cities", {"name": name})
-        CITY_CACHE[name] = created["id"]
+        with CACHE_LOCK:
+            CITY_CACHE[name] = created["id"]
         return created["id"]
     except Exception:
         return None
@@ -701,21 +711,35 @@ def main():
     targets = [r for r in rows if r["id"] not in SKIP_IDS and r.get("needs_rewrite") and r["id"] not in done]
     print(f"Targets {len(targets)} (done {len(done)})", flush=True)
     ok = fail = 0
-    for i, row in enumerate(targets, 1):
-        try:
-            rec = rewrite_one(row, index)
-            rec["ok"] = True
-            log.append(rec)
-            ok += 1
-            print(f"[{i}/{len(targets)}] OK {row['id']} words={rec['words']} {row['title'][:40]}", flush=True)
-        except Exception as e:
-            fail += 1
-            log.append({"id": row["id"], "ok": False, "error": str(e)[:400], "title": row["title"]})
-            print(f"[{i}/{len(targets)}] FAIL {row['id']} {e}", flush=True)
-            time.sleep(1.2)
-        if i % 15 == 0:
-            progress_path.write_text(json.dumps(log, ensure_ascii=False), encoding="utf-8")
-        time.sleep(0.18)
+    log_lock = Lock()
+    workers = 2
+
+    def job(row, idx):
+        rec = rewrite_one(row, index)
+        rec["ok"] = True
+        rec["_i"] = idx
+        return rec
+
+    with ThreadPoolExecutor(max_workers=workers) as ex:
+        futs = {ex.submit(job, row, i): row for i, row in enumerate(targets, 1)}
+        finished = 0
+        for fut in as_completed(futs):
+            row = futs[fut]
+            finished += 1
+            try:
+                rec = fut.result()
+                with log_lock:
+                    log.append(rec)
+                    ok += 1
+                print(f"[{finished}/{len(targets)}] OK {row['id']} words={rec['words']} {row['title'][:40]}", flush=True)
+            except Exception as e:
+                with log_lock:
+                    log.append({"id": row["id"], "ok": False, "error": str(e)[:400], "title": row["title"]})
+                    fail += 1
+                print(f"[{finished}/{len(targets)}] FAIL {row['id']} {e}", flush=True)
+            if finished % 20 == 0:
+                with log_lock:
+                    progress_path.write_text(json.dumps(log, ensure_ascii=False), encoding="utf-8")
     progress_path.write_text(json.dumps(log, ensure_ascii=False), encoding="utf-8")
     summary = {
         "ok": ok,

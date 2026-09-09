@@ -30,15 +30,28 @@ HEADERS = {
 def _req(method: str, path: str, payload: dict | None = None, timeout: int = 120) -> tuple[Any, dict]:
     url = path if path.startswith("http") else BASE + path
     data = None if payload is None else json.dumps(payload, ensure_ascii=False).encode("utf-8")
-    r = urllib.request.Request(url, data=data, headers=HEADERS, method=method)
-    try:
-        with urllib.request.urlopen(r, timeout=timeout) as resp:
-            raw = resp.read().decode("utf-8")
-            body = json.loads(raw) if raw else None
-            return body, dict(resp.headers)
-    except urllib.error.HTTPError as e:
-        err = e.read().decode("utf-8", errors="replace")[:2000]
-        raise RuntimeError(f"HTTP {e.code} {method} {url}: {err}") from e
+    last_err = None
+    for attempt in range(5):
+        r = urllib.request.Request(url, data=data, headers=HEADERS, method=method)
+        try:
+            with urllib.request.urlopen(r, timeout=timeout) as resp:
+                raw = resp.read().decode("utf-8")
+                body = json.loads(raw) if raw else None
+                return body, dict(resp.headers)
+        except urllib.error.HTTPError as e:
+            err = e.read().decode("utf-8", errors="replace")[:2000]
+            last_err = RuntimeError(f"HTTP {e.code} {method} {url}: {err}")
+            if e.code in (429, 500, 502, 503, 504) and attempt < 4:
+                time.sleep(2.5 * (attempt + 1))
+                continue
+            raise last_err from e
+        except Exception as e:
+            last_err = e
+            if attempt < 4:
+                time.sleep(2.0 * (attempt + 1))
+                continue
+            raise
+    raise last_err  # type: ignore
 
 
 def get(path: str, timeout: int = 120) -> tuple[Any, dict]:
