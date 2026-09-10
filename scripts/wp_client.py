@@ -41,7 +41,7 @@ def _req(method: str, path: str, payload: dict | None = None, timeout: int = 120
         except urllib.error.HTTPError as e:
             err = e.read().decode("utf-8", errors="replace")[:2000]
             last_err = RuntimeError(f"HTTP {e.code} {method} {url}: {err}")
-            if e.code in (429, 500, 502, 503, 504) and attempt < 4:
+            if e.code in (429, 502, 503, 504) and attempt < 4:
                 time.sleep(2.5 * (attempt + 1))
                 continue
             raise last_err from e

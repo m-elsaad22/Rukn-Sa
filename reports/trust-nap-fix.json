@@ -1,0 +1,140 @@
+{
+  "snippets": [
+    {
+      "action": "created",
+      "id": 15,
+      "active": true
+    },
+    {
+      "action": "updated",
+      "id": 5,
+      "active": true
+    },
+    {
+      "action": "updated",
+      "id": 12,
+      "active": true
+    }
+  ],
+  "apply_trust_fix": {
+    "ok": true,
+    "report": {
+      "options": {
+        "phonenumber": {
+          "old": "0568060309",
+          "new": "0568060309"
+        },
+        "contact_number": {
+          "old": false,
+          "new": "0568060309"
+        },
+        "phone": {
+          "old": "0568060309",
+          "new": "0568060309"
+        },
+        "info_contact": {
+          "old": "0568060309",
+          "new": "0568060309"
+        },
+        "whatsapp_number": {
+          "old": "+966568060309",
+          "new": "+966568060309"
+        },
+        "whatsapp": {
+          "old": "+966568060309",
+          "new": "+966568060309"
+        },
+        "kayan_country_sa_phone": {
+          "old": false,
+          "new": "0568060309"
+        },
+        "kayan_country_sa_whatsapp": {
+          "old": false,
+          "new": "966568060309"
+        },
+        "kayan_show_call_buttons": {
+          "old": false,
+          "new": "1"
+        },
+        "hide__floating__call": {
+          "old": "on",
+          "new": ""
+        },
+        "kayan_homepage_brand_first": {
+          "old": false,
+          "new": "ركن"
+        },
+        "kayan_homepage_brand_second": {
+          "old": false,
+          "new": "التطور"
+        },
+        "sitename": {
+          "old": "ركن التطور",
+          "new": "شركة ركن التطور - السعودية"
+        }
+      },
+      "copyrights": {
+        "copyrights": "حقوق النشر {%YEAR%} © جميع الحقوق محفوظة لصالح \"شركة ركن التطور - السعودية\"   <a href=\"https://wa.me/201151481000?text=السلام%20عليكم%20-%20شركة%20كيان%20ويب%20للتسويق%20الإلكتروني\" target=\"_blank\" rel=\"nofollow noopener\"> KAYAN WEB</a>  <a",
+        "Copyrights": "حقوق النشر {%YEAR%} © جميع الحقوق محفوظة لصالح \"شركة ركن التطور - السعودية\"   <a href=\"https://wa.me/201151481000?text=السلام%20عليكم%20-%20شركة%20كيان%20ويب%20للتسويق%20الإلكتروني\" target=\"_blank\" rel=\"nofollow noopener\"> KAYAN WEB</a>  <a"
+      },
+      "stats": [
+        {
+          "label": "خدمة أساسية",
+          "count": "12",
+          "suffix": "",
+          "dec": ""
+        },
+        {
+          "label": "مدينة نغطيها",
+          "count": "18",
+          "suffix": "+",
+          "dec": ""
+        },
+        {
+          "label": "سنوات عمل",
+          "count": "10",
+          "suffix": "+",
+          "dec": ""
+        }
+      ],
+      "reviews": "cleared_uae_placeholders",
+      "cache": "litespeed_purge_all_action"
+    }
+  },
+  "dump_keys": {
+    "phonenumber": "0568060309",
+    "whatsapp_number": "+966568060309",
+    "contact_number": "0568060309",
+    "copyrights": "حقوق النشر {%YEAR%} © جميع الحقوق محفوظة لصالح \"شركة ركن التطور - السعودية\"",
+    "Copyrights": "حقوق النشر {%YEAR%} © جميع الحقوق محفوظة لصالح \"شركة ركن التطور - السعودية\"",
+    "kayan_country_sa_phone": "0568060309",
+    "kayan_country_sa_whatsapp": "966568060309",
+    "kayan_hp_stats_items": [
+      {
+        "label": "خدمة أساسية",
+        "count": "12",
+        "suffix": "",
+        "dec": ""
+      },
+      {
+        "label": "مدينة نغطيها",
+        "count": "18",
+        "suffix": "+",
+        "dec": ""
+      },
+      {
+        "label": "سنوات عمل",
+        "count": "10",
+        "suffix": "+",
+        "dec": ""
+      }
+    ],
+    "kayan_hp_hero_title": false,
+    "kayan_homepage_brand_first": "ركن",
+    "kayan_seo_home_reviews": [],
+    "sitename": "شركة ركن التطور - السعودية",
+    "kayan_show_call_buttons": "1",
+    "hide__floating__call": ""
+  },
+  "deactivated_inspect": 6
+}

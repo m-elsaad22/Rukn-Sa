@@ -39,6 +39,8 @@ add_action(
 				$html = str_replace( '01556644443', '0568060309', $html );
 				$html = str_replace( '+201151481000', '+966568060309', $html );
 				$html = str_replace( '201151481000', '966568060309', $html );
+				$html = str_replace( 'data-count="20"', 'data-count="12"', $html );
+				$html = str_replace( 'href="tel:"', 'href="tel:0568060309"', $html );
 				return $html;
 			}
 		);

@@ -646,14 +646,26 @@ def ensure_tag(name: str) -> int | None:
 
 
 def ensure_city(name: str) -> int | None:
+    # Prefer the populated Riyadh term (slug الرياض-ar) over any duplicate.
+    if name == "الرياض":
+        with CACHE_LOCK:
+            CITY_CACHE[name] = 3327
+        return 3327
     with CACHE_LOCK:
         if name in CITY_CACHE:
             return CITY_CACHE[name]
     try:
         body, _ = get("/wp/v2/cities?per_page=100")
         with CACHE_LOCK:
+            best: dict[str, tuple[int, int]] = {}
             for t in body or []:
-                CITY_CACHE[t["name"]] = t["id"]
+                n = t["name"]
+                pair = (int(t.get("count") or 0), int(t["id"]))
+                if n not in best or pair[0] > best[n][0]:
+                    best[n] = pair
+            for n, (_count, tid) in best.items():
+                CITY_CACHE[n] = tid
+            CITY_CACHE["الرياض"] = 3327
             if name in CITY_CACHE:
                 return CITY_CACHE[name]
         created, _ = post("/wp/v2/cities", {"name": name})

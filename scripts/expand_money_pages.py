@@ -141,12 +141,16 @@ def main() -> None:
 
             tag_ids = [tid for t in built["tags"] if (tid := ensure_tag(t))]
             city_id = ensure_city(built["city"])
-            payload = {"content": built["content"], "excerpt": built["excerpt"], "meta": built["meta"]}
+            payload = {"content": built["content"], "excerpt": built["excerpt"]}
             if tag_ids:
                 payload["tags"] = tag_ids
             if city_id:
                 payload["cities"] = [city_id]
             put(f"/wp/v2/posts/{row['id']}", payload)
+            try:
+                put(f"/wp/v2/posts/{row['id']}", {"meta": built["meta"]})
+            except Exception as meta_err:
+                print("META", row["id"], str(meta_err)[:120], flush=True)
             update_rankmath(row["id"], built["rank_math"])
             results.append({"id": row["id"], "title": row["title"], "words": built["words"], "city": city, "svc": svc})
             print("OK", row["id"], built["words"], row["title"][:60], flush=True)

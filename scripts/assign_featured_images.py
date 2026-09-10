@@ -93,7 +93,7 @@ def update_one(item: dict) -> dict:
         return {"id": pid, "skipped": "protected", "current": current}
     if current == wanted:
         return {"id": pid, "skipped": "already", "current": current}
-    put(f"/wp/v2/posts/{pid}", {"featured_media": wanted})
+    put(f"/wp/v2/posts/{pid}", {"featured_media": wanted}, timeout=40)
     return {"id": pid, "from": current, "to": wanted, "title": title}
 
 
@@ -110,9 +110,11 @@ def main() -> None:
     changed = []
     skipped = 0
     errors = []
-    with ThreadPoolExecutor(max_workers=4) as ex:
+    with ThreadPoolExecutor(max_workers=2) as ex:
         futs = [ex.submit(update_one, r) for r in rows]
+        done = 0
         for fut in as_completed(futs):
+            done += 1
             try:
                 res = fut.result()
                 if res.get("to"):
@@ -121,6 +123,8 @@ def main() -> None:
                     skipped += 1
             except Exception as e:
                 errors.append(str(e)[:250])
+            if done % 80 == 0:
+                print(f"progress {done}/{len(rows)} changed={len(changed)} err={len(errors)}", flush=True)
 
     for sid, mid in SERVICE_MEDIA.items():
         try:
