@@ -1,0 +1,27 @@
+{
+  "services_set": {
+    "1866": 2733,
+    "1868": 2896,
+    "1870": 2706,
+    "1872": 2600,
+    "1874": 2733,
+    "1876": 2881,
+    "1877": 10623,
+    "1879": 11080,
+    "1881": 2824,
+    "1883": 2702,
+    "1885": 2684,
+    "1887": 2788
+  },
+  "money_pages_checked": {
+    "12576": 2788,
+    "10281": 2684,
+    "12472": 2733,
+    "11136": 2702,
+    "11349": 10623,
+    "9282": 10623,
+    "12580": 2788,
+    "12064": 2824
+  },
+  "note": "Bulk assignment of 1725 posts was partially completed; REST timeouts left some older posts with leftover stock photos. Re-run scripts/assign_featured_images.py to continue."
+}
