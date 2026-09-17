@@ -1,0 +1,37 @@
+{
+  "note": "Combined apply results. Stage 3 blocked: LLM_API_KEY not present in this cloud workspace (.env was not synced).",
+  "stage1": {
+    "tasks": ["images", "cannibal"],
+    "images_ok": 3,
+    "cannibal_drafted": 54,
+    "failed": 0,
+    "run_id": "20260917T112326Z"
+  },
+  "stage2": {
+    "task": "boilerplate",
+    "ok": 1635,
+    "skipped": 70,
+    "failed": 0,
+    "run_id": "20260917T112536Z",
+    "elapsed_ms": 3746713
+  },
+  "stage3": {
+    "task": "intent",
+    "limit": 2,
+    "ok": 0,
+    "failed": 2,
+    "errors": ["LLM_API_KEY is missing"],
+    "intended_posts": [
+      {
+        "id": 12801,
+        "url": "https://www.rukn-eltatawer.com/sa/car-shipping-jeddah/"
+      },
+      {
+        "id": 12804,
+        "url": "https://www.rukn-eltatawer.com/sa/car-shipping-dammam/"
+      }
+    ],
+    "modified": false,
+    "run_id": "20260917T122848Z"
+  }
+}

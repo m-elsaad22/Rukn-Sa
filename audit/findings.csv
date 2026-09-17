@@ -1,0 +1,71 @@
+id,severity,area,url,issue
+T01,critical,NAP,https://www.rukn-eltatawer.com/sa/,واتساب الهيدر/الفوتر/الزر العائم رقم إماراتي +971586634710
+T02,critical,NAP,site option whatsapp_number,الخيار العام whatsapp_number ما زال +971586634710 رغم وجود kayan_country_sa_whatsapp الصحيح
+T03,critical,NAP,window.RuknCS,call_show=false وcall_number فارغ — زر الاتصال مخفي
+T04,critical,NAP,https://www.rukn-eltatawer.com/sa/contact-us/,أزرار وهمية tel:+966000000000 وwa.me/966000000000
+T05,critical,NAP,https://www.rukn-eltatawer.com/sa/contact-us/,href مكتوب كماركداون داخل HTML: [https://wa.me/966000000000](...) فالرابط معطوب
+T06,critical,clone-UAE,https://www.rukn-eltatawer.com/sa/category/water-leak-detection/,العنوان والوصف: كشف تسربات في الإمارات مع قائمة مدن دبي وأبوظبي والشارقة...
+T07,critical,clone-UAE,https://www.rukn-eltatawer.com/sa/category/sewer-drainage/,تسليك مجاري في الإمارات 🇦🇪 + دولة الإمارات العربية المتحدة
+T08,critical,clone-UAE,https://www.rukn-eltatawer.com/sa/category/moving-storing/,نقل أثاث وتخزين في الإمارات وواتساب 971 داخل الوصف
+T09,critical,clone-UAE,https://www.rukn-eltatawer.com/sa/category/leak-detection-and-insulation/,كشف تسربات وعزل أسطح في الإمارات
+T10,critical,clone-UAE,https://www.rukn-eltatawer.com/sa/privacy-policy/,مقدمة الصفحة: ركن التطور للخدمات المنزلية في الإمارات
+T11,critical,template,https://www.rukn-eltatawer.com/sa/services/,أرشيف فارغ وH1 إنجليزي services وعنوان Archive
+T12,critical,template,https://www.rukn-eltatawer.com/sa/pricing/,أرشيف فارغ وH1 إنجليزي pricing رغم وعود أدلة الأسعار
+T13,critical,i18n,https://www.rukn-eltatawer.com/sa/en/,نسخة إنجليزية عربية بالكامل html lang=ar
+T14,high,homepage,https://www.rukn-eltatawer.com/sa/,عدادات معكوسة: الواجهة 18 خدمة/12 مدينة والإعداد 12 خدمة/18 مدينة
+T15,high,homepage,https://www.rukn-eltatawer.com/sa/en/,عدادات مختلفة مرة ثالثة: 17 خدمة / 11 مدينة
+T16,high,homepage,https://www.rukn-eltatawer.com/sa/,بدون JS العدادات تظهر 0 (data-count على قيمة صفر)
+T17,high,homepage,https://www.rukn-eltatawer.com/sa/,تناقض الخبرة 15 عاماً مقابل إحصاء 10+ سنوات
+T18,high,homepage,https://www.rukn-eltatawer.com/sa/,قسم الشركاء بدون شعارات — نص رمادي وأيقونة صندوق وتكرار Weber
+T19,high,homepage,https://www.rukn-eltatawer.com/sa/,CSS خريطة المدن ما زال .uae-svg (خريطة الإمارات)
+T20,high,homepage,https://www.rukn-eltatawer.com/sa/,18 مدينة تُعرض «خدماتنا متوفرة» لكل الخدمات بينما 10 مدن بلا كتالوج
+T21,high,nav,menu main-menu 2836,روابط #services #areas #projects #blog #why #faq بدون IDs في HTML
+T22,high,nav,Polylang nav_menus,قائمة العربية مربوطة بـ 2372 بينما المعروض 2836
+T23,high,nav,footer أهم خدماتنا,الفوتر يرسل لتصنيفات الإمارات (water-leak-detection وغيرها)
+T24,high,schema,JSON-LD homepage,ثلاث كتل متعارضة وتقييمات 4.9/6481 مقابل 5841 عميل مقابل 16948 في المقال
+T25,high,schema,https://www.rukn-eltatawer.com/sa/sa/,مسار مكرر /sa/sa/ مفهرس في CollectionPage ويفتح 200
+T26,high,schema,article Service,address/areaServed فارغة وpriceRange دولار $
+T27,high,schema,article CreativeWorkSeries,تقييم وهمي 5 نجوم و16948 مراجعة
+T28,high,media,article template,صورة يوتيوب vi/الفيديو/0.jpg وقناة @rukn-eltatawer.com1
+T29,high,social,twitter.com/RuknEltatwer,حساب تويتر 404 وخطأ إملائي في الاسم
+T30,high,social,facebook.com/melsaadgroup,فيسبوك مجموعة الأم لا صفحة السعودية
+T31,high,template,https://www.rukn-eltatawer.com/sa/cities/,الأرشيف يعرض بطاقة الرياض فقط + excerpt مقطوع «البا...»
+T32,high,template,city taxonomy slugs,سلاق مرمّز URL و/city/riyadh/ يعيد للرئيسية
+T33,high,template,CPT,reviews/faqs/pricing/portfolio/before_after كلها صفر
+T34,high,template,services CPT,12 خدمة بلا مدن وبلا service_categories ولا نقل أثاث
+T35,medium,pages,https://www.rukn-eltatawer.com/sa/about/,تكرار «في السعودية في السعودية 2026» وH1 مزدوج
+T36,medium,pages,https://www.rukn-eltatawer.com/sa/contact-us/,H1 مزدوج ولا نموذج تواصل HTML
+T37,medium,pages,privacy/about/contact/faq/blog,عناوين Rank Math بإيموجي ♻ 🇸🇦
+T38,medium,pages,https://www.rukn-eltatawer.com/sa/sitemap/,كلمات مكسورة: المضمون ة / الـ سريع ة
+T39,medium,pages,https://www.rukn-eltatawer.com/sa/blog/,المدونة تسرد صفحات الخدمات كأنها تدوينات (cannibalization)
+T40,medium,seo,category sitemap,"تصنيفات بقايا leak/insul/maint/clean/service/service-en بعناوين ♻ فقط"
+T41,medium,seo,city archive title,title يحتوي &raquo; حرفياً: » المدن » الرياض
+T42,medium,seo,hreflang,لا hreflang على الرئيسية العربية وsnippet يغطي 3 مقالات EN فقط
+T43,medium,seo,Polylang browser=true,قد يحوّل الزائر إلى /en/ فيجد محتوى عربي
+T44,medium,seo,Rank Math,1699 درجة 0 و1641 مقالاً يتيماً
+T45,medium,schema,hasMap,ترميز &amp; مزدوج داخل JSON-LD
+T46,medium,identity,emails,admin@ في الإعدادات مقابل m@ في السكيما
+T47,medium,identity,site_logo,site_logo=null وملف الشعار باسم أرقام عربية ٠٠٠.webp
+T48,medium,template,EZ-TOC,كلمة Toggle الإنجليزية داخل محتويات المقال
+T49,medium,template,CSS,text-transform:capitalize على input يكسر العربية
+T50,medium,template,CSS typos,shadwo / defualt / categoet / uitrans في القالب
+T51,medium,template,textdomain,KAYAN 1.4.2 ما زال yourcolor
+T52,medium,template,nav.menu,عنصر nav.menu فارغ في HTML الصفحات الداخلية
+T53,medium,content,ac-cleaning-washing-jeddah,FAQ عن رخام وخشب في صفحة غسيل مكيفات
+T54,medium,content,car-shipping-riyadh,FAQ يسأل هل الخدمة للشقق والفلل في شحن سيارات
+T55,medium,content,posts without city,95 مقالاً بلا تصنيف مدينة منها تنظيف الرياض
+T56,medium,content,duplicate titles,19 عنواناً مكرراً (تنظيف/عشب)
+T57,medium,content,images,صور 2020-2021 وملفات *-ae* من النسخة الإماراتية
+T58,medium,trust,widget rating,ودجت 98.7% و5 نجوم ثابت بدون CPT تقييمات
+T59,medium,config,dump-keys REST,المسار /wp-json/rukn/v1/dump-keys عام بدون مصادقة
+T60,medium,config,comments,default_comment_status=open مع صفر تعليقات
+T61,medium,config,show_on_front,posts وpage_on_front=0 رغم هوم مخصّص
+T62,medium,config,snippets,ترقيع NAP/robots/schema نشط لكنه لا يصلح المصدر
+T63,low,a11y,headers,لا CSP ولا X-Frame-Options ولا X-Content-Type-Options
+T64,low,i18n,en/category/service-en/,تصنيف إنجليزي H1 عربي «الخدمات»
+T65,low,homepage,partners,تكرار اسم Weber في الشريط
+T66,low,footer,copy,نص فوتر عام بإيموجي على كل الأرشيفات
+T67,low,social,youtube handle,اسم القناة @rukn-eltatawer.com1 غير احترافي
+T68,content,inventory,CSV vs WP,328 مقال CSV ناقص (سيارات/قانونية/معاملات — لا تُنشر) و423 إضافياً قالبياً
+T69,content,geo,10 promised cities,الجبيل الأحساء القطيف تبوك خميس مشيط بريدة حائل جازان نجران ينبع شبه فارغة
+T70,content,en stubs,3 EN posts,ثلاث مقالات إنجليزية فقط ودرجة سيو 0

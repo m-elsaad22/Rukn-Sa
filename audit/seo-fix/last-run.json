@@ -1,0 +1,18 @@
+{
+  "run_id": "20260917T122848Z",
+  "apply": true,
+  "tasks": {
+    "intent": {
+      "ok": 0,
+      "skipped": 0,
+      "failed": 2,
+      "planned": 2,
+      "errors": [
+        "intent 12801: LLM_API_KEY is missing",
+        "intent 12804: LLM_API_KEY is missing"
+      ]
+    }
+  },
+  "redirects_csv": "/workspace/audit/seo-fix/redirects.csv",
+  "log": "/workspace/audit/seo-fix/logs/run-20260917T122848Z.jsonl"
+}
