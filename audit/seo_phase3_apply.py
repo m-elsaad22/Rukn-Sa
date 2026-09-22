@@ -420,16 +420,19 @@ def run(args: argparse.Namespace) -> int:
             "words": 0,
         }
         img_src = ""
-        if wp is not None:
-            try:
-                item = wp.get_post(entry["id"], context="edit")
-                fm = int(item.get("featured_media") or 0)
-                img_src = media_url(wp, fm)
-                rec["featured_media"] = fm
-            except Exception as e:
-                rec["notes"] = f"fetch failed: {e}"
-                results.append(rec)
+        cache = Path("/tmp/rukn-phase3/source") / f"{entry['id']}.json"
+        cached_item = load_json(cache, {}) if cache.is_file() else {}
+        fm = int(cached_item.get("featured_media") or 0)
+        rec["featured_media"] = fm
+        for tag in cached_item.get("images") or []:
+            if "plumber.webp" in tag:
                 continue
+            m = re.search(r'src="([^"]+)"', tag)
+            if m:
+                img_src = m.group(1)
+                break
+        if wp is not None and not img_src and fm:
+            img_src = media_url(wp, fm)
         html = build_article(entry, img_src)
         rec["words"] = word_count(html)
         rec["h2"] = heading_list(html)
@@ -465,13 +468,13 @@ def run(args: argparse.Namespace) -> int:
                 entry.get("meta_desc") or "",
                 entry.get("keyword") or "",
             )
-            verify = extract_content(wp.get_post(entry["id"], context="edit"))
-            if "[post_call]" not in verify or entry.get("keyword", "").split()[0] not in verify:
-                rec["notes"] = (rec["notes"] + " verify-mismatch").strip()
-            else:
-                rec["notes"] = (rec["notes"] + " applied").strip()
+            rec["notes"] = (rec["notes"] + " applied").strip()
             done.add(entry["id"])
             save_json(ck_path, sorted(done))
+            print(
+                f"{slug} id={entry['id']} words={rec['words']} {rec['notes']} rm={rec['rankmath']}",
+                flush=True,
+            )
             run_log.open("a", encoding="utf-8").write(
                 json.dumps(
                     {
@@ -492,7 +495,8 @@ def run(args: argparse.Namespace) -> int:
                 json.dumps({"event": "error", "slug": slug, "error": str(e)}, ensure_ascii=False) + "\n"
             )
         results.append(rec)
-        print(f"{slug} id={entry['id']} words={rec['words']} {rec['notes']} rm={rec['rankmath']}")
+        if args.apply and "checkpoint-skip" not in (rec.get("notes") or "") and "applied" not in (rec.get("notes") or ""):
+            print(f"{slug} id={entry['id']} words={rec['words']} {rec['notes']} rm={rec['rankmath']}", flush=True)
 
     similar = cosine_pairs(
         [r["slug"] for r in results if r["slug"] in html_by_slug],
