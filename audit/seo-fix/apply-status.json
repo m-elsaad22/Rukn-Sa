@@ -1,7 +1,10 @@
 {
-  "note": "Combined apply results. Stage 3 blocked: LLM_API_KEY not present in this cloud workspace (.env was not synced).",
+  "note": "Stage 3 uses Cloud Agent unique catalog (no LLM_API_KEY). UAE WhatsApp kept; tel hidden.",
   "stage1": {
-    "tasks": ["images", "cannibal"],
+    "tasks": [
+      "images",
+      "cannibal"
+    ],
     "images_ok": 3,
     "cannibal_drafted": 54,
     "failed": 0,
@@ -17,21 +20,13 @@
   },
   "stage3": {
     "task": "intent",
-    "limit": 2,
+    "engine": "cloud-agent-catalog",
     "ok": 0,
-    "failed": 2,
-    "errors": ["LLM_API_KEY is missing"],
-    "intended_posts": [
-      {
-        "id": 12801,
-        "url": "https://www.rukn-eltatawer.com/sa/car-shipping-jeddah/"
-      },
-      {
-        "id": 12804,
-        "url": "https://www.rukn-eltatawer.com/sa/car-shipping-dammam/"
-      }
-    ],
+    "planned": 38,
+    "failed": 0,
+    "similar_pairs_ge_0_90": 0,
     "modified": false,
-    "run_id": "20260917T122848Z"
+    "run_id": "20260922T022924Z",
+    "report": "audit/seo-fix/phase-3-report.md"
   }
 }
