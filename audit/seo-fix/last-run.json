@@ -1,0 +1,15 @@
+{
+  "run_id": "20260922T100542Z",
+  "apply": true,
+  "tasks": {
+    "intent": {
+      "ok": 1,
+      "skipped": 1,
+      "failed": 0,
+      "planned": 1,
+      "errors": []
+    }
+  },
+  "redirects_csv": "/workspace/audit/seo-fix/redirects.csv",
+  "log": "/workspace/audit/seo-fix/logs/run-20260922T100542Z.jsonl"
+}

@@ -1,0 +1,41 @@
+keeper_id,keeper_slug,keeper_url,cluster_size,draft_slugs
+11349,water-leak-detection-jeddah,https://www.rukn-eltatawer.com/sa/water-leak-detection-jeddah/,5,water-leak-detection-south-jeddah water-leak-detection-east-jeddah water-leak-detection-north-jeddah water-leak-detection-jeddah-center
+9278,water-leak-detection-riyadh-center,https://www.rukn-eltatawer.com/sa/water-leak-detection-riyadh-center/,5,water-leak-detection-east-riyadh water-leak-detection-north-riyadh water-leak-detection-south-riyadh water-leak-detection-west-riyadh
+12153,gypsum-board-jeddah,https://www.rukn-eltatawer.com/sa/gypsum-board-jeddah/,3,gypsum-tech-jeddah gypsum-board-decor-jeddah
+12154,gypsum-board-mecca,https://www.rukn-eltatawer.com/sa/gypsum-board-mecca/,3,gypsum-tech-mecca gypsum-board-decor-mecca
+12158,gypsum-board-taif,https://www.rukn-eltatawer.com/sa/gypsum-board-taif/,3,gypsum-tech-taif gypsum-board-decor-taif
+12159,gypsum-board-abha,https://www.rukn-eltatawer.com/sa/gypsum-board-abha/,3,gypsum-board-decor-abha gypsum-tech-abha
+12157,gypsum-board-khobar,https://www.rukn-eltatawer.com/sa/gypsum-board-khobar/,3,gypsum-tech-khobar gypsum-board-decor-khobar
+12152,gypsum-board-riyadh,https://www.rukn-eltatawer.com/sa/gypsum-board-riyadh/,3,gypsum-tech-riyadh gypsum-board-decor-riyadh
+12156,gypsum-board-dammam,https://www.rukn-eltatawer.com/sa/gypsum-board-dammam/,3,gypsum-tech-dammam gypsum-board-decor-dammam
+12155,gypsum-board-medina,https://www.rukn-eltatawer.com/sa/gypsum-board-medina/,3,gypsum-tech-medina gypsum-board-decor-medina
+12697,home-electrician-jeddah,https://www.rukn-eltatawer.com/sa/home-electrician-jeddah/,2,home-electrician-elec-jeddah
+12690,home-plumber-mecca,https://www.rukn-eltatawer.com/sa/home-plumber-mecca/,2,home-plumber-elec-mecca
+12689,home-plumber-jeddah,https://www.rukn-eltatawer.com/sa/home-plumber-jeddah/,2,home-plumber-elec-jeddah
+12694,home-plumber-taif,https://www.rukn-eltatawer.com/sa/home-plumber-taif/,2,home-plumber-elec-taif
+12699,home-electrician-medina,https://www.rukn-eltatawer.com/sa/home-electrician-medina/,2,home-electrician-elec-medina
+12688,home-plumber-riyadh,https://www.rukn-eltatawer.com/sa/home-plumber-riyadh/,2,home-plumber-elec-riyadh
+12695,home-plumber-abha,https://www.rukn-eltatawer.com/sa/home-plumber-abha/,2,home-plumber-elec-abha
+12698,home-electrician-mecca,https://www.rukn-eltatawer.com/sa/home-electrician-mecca/,2,home-electrician-elec-mecca
+12702,home-electrician-taif,https://www.rukn-eltatawer.com/sa/home-electrician-taif/,2,home-electrician-elec-taif
+12703,home-electrician-abha,https://www.rukn-eltatawer.com/sa/home-electrician-abha/,2,home-electrician-elec-abha
+12701,home-electrician-khobar,https://www.rukn-eltatawer.com/sa/home-electrician-khobar/,2,home-electrician-elec-khobar
+12696,home-electrician-riyadh,https://www.rukn-eltatawer.com/sa/home-electrician-riyadh/,2,home-electrician-elec-riyadh
+11373,water-leak-detection-medina,https://www.rukn-eltatawer.com/sa/water-leak-detection-medina/,2,water-leak-detection-madinah
+12700,home-electrician-dammam,https://www.rukn-eltatawer.com/sa/home-electrician-dammam/,2,home-electrician-elec-dammam
+12693,home-plumber-khobar,https://www.rukn-eltatawer.com/sa/home-plumber-khobar/,2,home-plumber-elec-khobar
+12692,home-plumber-dammam,https://www.rukn-eltatawer.com/sa/home-plumber-dammam/,2,home-plumber-elec-dammam
+12691,home-plumber-medina,https://www.rukn-eltatawer.com/sa/home-plumber-medina/,2,home-plumber-elec-medina
+12403,wall-grass-medina,https://www.rukn-eltatawer.com/sa/wall-grass-medina/,2,artificial-grass-grdn-medina
+12405,wall-grass-khobar,https://www.rukn-eltatawer.com/sa/wall-grass-khobar/,2,artificial-grass-grdn-khobar
+12402,wall-grass-mecca,https://www.rukn-eltatawer.com/sa/wall-grass-mecca/,2,artificial-grass-grdn-mecca
+12407,wall-grass-abha,https://www.rukn-eltatawer.com/sa/wall-grass-abha/,2,artificial-grass-grdn-abha
+12406,wall-grass-taif,https://www.rukn-eltatawer.com/sa/wall-grass-taif/,2,artificial-grass-grdn-taif
+12401,wall-grass-jeddah,https://www.rukn-eltatawer.com/sa/wall-grass-jeddah/,2,artificial-grass-grdn-jeddah
+12400,wall-grass-riyadh,https://www.rukn-eltatawer.com/sa/wall-grass-riyadh/,2,artificial-grass-grdn-riyadh
+12404,wall-grass-dammam,https://www.rukn-eltatawer.com/sa/wall-grass-dammam/,2,artificial-grass-grdn-dammam
+11237,electrical-maintenance-dammam,https://www.rukn-eltatawer.com/sa/electrical-maintenance-dammam/,2,electric-panel-maintenance-dammam
+11133,electrical-maintenance-riyadh,https://www.rukn-eltatawer.com/sa/electrical-maintenance-riyadh/,2,electric-panel-maintenance-riyadh
+11185,electrical-maintenance-mecca,https://www.rukn-eltatawer.com/sa/electrical-maintenance-mecca/,2,electric-panel-maintenance-mecca
+12390,automatic-irrigation-taif,https://www.rukn-eltatawer.com/sa/automatic-irrigation-taif/,2,modern-irrigation-taif
+12386,automatic-irrigation-mecca,https://www.rukn-eltatawer.com/sa/automatic-irrigation-mecca/,2,modern-irrigation-mecca

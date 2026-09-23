@@ -1,0 +1,34 @@
+{
+  "note": "Stage 3 uses Cloud Agent unique catalog (no LLM_API_KEY). UAE WhatsApp kept; tel hidden.",
+  "stage1": {
+    "tasks": [
+      "images",
+      "cannibal"
+    ],
+    "images_ok": 3,
+    "cannibal_drafted": 54,
+    "failed": 0,
+    "run_id": "20260917T112326Z"
+  },
+  "stage2": {
+    "task": "boilerplate",
+    "ok": 1635,
+    "skipped": 70,
+    "failed": 0,
+    "run_id": "20260917T112536Z",
+    "elapsed_ms": 3746713
+  },
+  "stage3": {
+    "task": "intent",
+    "engine": "cloud-agent-catalog",
+    "ok": 38,
+    "planned": 38,
+    "failed": 0,
+    "similar_pairs_ge_0_90": 0,
+    "modified": true,
+    "faq_meta_updated": 38,
+    "nap_meta_scrubbed": 38,
+    "run_id": "20260922T024538Z",
+    "report": "audit/seo-fix/phase-3-report.md"
+  }
+}
