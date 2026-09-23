@@ -1,0 +1,19 @@
+severity,area,where,finding,visitor_facing,uae_leftover
+critical,seo-template,most inner pages and singles,No HTML title or og:title (exceptions: home; /cities/; /sitemap/),yes,no
+critical,uae-source,category REST sewer-drainage,Description still lists Abu Dhabi/Dubai/Sharjah/Ajman/UAQ/RAK/Fujairah ("إمارات الدولة"); archive truncates so HTML hide is incomplete,partial,yes
+critical,uae-source,category REST leak-detection-and-insulation,UAE districts + old phone +971568060309 (not the approved 971586634710),partial,yes
+critical,theme-js,almost every inner page,KayanBookingConfig currency AED taxRate 5 (UAE VAT); tanceq pay gateway AED,code,yes
+critical,theme-widget,/water-leak-detection-riyadh/ and jeddah,Packages show 199/349 ريال with data-currency=AED,yes,yes
+high,nap,~1666 posts REST match,0568060309 still in body/schema while tel buttons hidden and header WA is 971,yes,mixed
+high,schema,homepage + singles,Fake AggregateRating 4.9/6481 and 5/16948; reviews CPT=0,yes,no
+high,security,/wp-json/rukn/v1/dump-keys,Unauthenticated 200 returns whatsapp_number and homepage settings (repo snippet 15 requires manage_options),api,no
+medium,country-switcher,header,data-country=ae labeled الإمارات but flag is Saudi 🇸🇦,yes,yes
+medium,media,/en/category/service-en/,roof-insulation-ae.webp still displayed,yes,yes
+medium,template,all sampled singles,YouTube placeholder img.youtube.com/vi/الفيديو/0.jpg,yes,no
+medium,duplicate,/sa/sa/,200 duplicate of homepage without title,yes,no
+medium,taxonomy,/city/riyadh/,404; city REST missing,yes,no
+medium,en,/en/,lang=en dir=ltr but mixed AR/EN H1 and no title; no hreflang in sample,yes,no
+low,social,footer,facebook.com/melsaadgroup instagram elsaad_group youtube @rukn-eltatawer.com1,yes,no
+low,vendor,CSS,YourColor/yourcolor class names; input text-transform capitalize; Toggle leftover,code,no
+info,policy,header/footer/FAB,UAE WhatsApp +971586634710 and hidden tel are intentional until KSA number exists,yes,intentional
+fixed-since-sep16,copy,category HTML archives,Visible Dubai/Abu Dhabi category intros and .uae-svg gone on homepage; /services/ /pricing/ no longer empty English CPT archives,yes,was
