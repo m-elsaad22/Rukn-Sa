@@ -306,11 +306,11 @@ def main() -> int:
     existing = pages_by_slug(wp)
     cities_id = int(existing.get("cities", {}).get("id") or 0)
     print("== city pages parent", cities_id, "==")
-    for slug, name, sample in CITIES:
+    for slug, name in CITIES:
         spec = {
             "title": f"خدمات ركن التطور في {name}",
             "excerpt": f"روابط خدمات ركن التطور المرتبطة بمدينة {name} في السعودية.",
-            "content": city_page(slug, name, sample),
+            "content": city_page(slug, name),
             "rm_title": f"{name} | ركن التطور السعودية",
             "rm_desc": f"خدمات منزلية في {name}: روابط المقالات المرتبطة بالمدينة دون أرقام وصول مخترعة.",
             "kw": f"ركن التطور {name}",

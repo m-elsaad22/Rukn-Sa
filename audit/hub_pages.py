@@ -27,15 +27,82 @@ SERVICES = [
 ]
 
 CITIES = [
-    ("riyadh", "الرياض", "water-leak-detection-riyadh"),
-    ("jeddah", "جدة", "water-leak-detection-jeddah"),
-    ("makkah", "مكة المكرمة", "water-leak-detection-makkah"),
-    ("madinah", "المدينة المنورة", "domestic-shipping-madinah"),
-    ("dammam", "الدمام", "duct-cleaning-dammam"),
-    ("khobar", "الخبر", "domestic-shipping-khobar"),
-    ("taif", "الطائف", "water-leak-detection-taif"),
-    ("abha", "أبها", "water-leak-detection-abha"),
+    ("riyadh", "الرياض"),
+    ("jeddah", "جدة"),
+    ("makkah", "مكة المكرمة"),
+    ("madinah", "المدينة المنورة"),
+    ("dammam", "الدمام"),
+    ("khobar", "الخبر"),
+    ("taif", "الطائف"),
+    ("abha", "أبها"),
 ]
+
+CITY_LINKS = {
+    "riyadh": [
+        ("كشف تسربات المياه", "water-leak-detection-riyadh"),
+        ("تنظيف منازل", "home-cleaning-riyadh"),
+        ("شحن سيارات", "car-shipping-riyadh"),
+        ("شحن أثاث", "furniture-shipping-riyadh"),
+        ("تنظيف دكت", "duct-cleaning-riyadh"),
+        ("شحن داخلي", "domestic-shipping-riyadh"),
+    ],
+    "jeddah": [
+        ("كشف تسربات المياه", "water-leak-detection-jeddah"),
+        ("تنظيف منازل", "home-cleaning-jeddah"),
+        ("شحن سيارات", "car-shipping-jeddah"),
+        ("شحن أثاث", "furniture-shipping-jeddah"),
+        ("تنظيف دكت", "duct-cleaning-jeddah"),
+        ("شحن داخلي", "domestic-shipping-jeddah"),
+    ],
+    "makkah": [
+        ("كشف تسربات المياه", "water-leak-detection-makkah"),
+        ("تنظيف منازل", "home-cleaning-mecca"),
+        ("شحن سيارات", "car-shipping-mecca"),
+        ("شحن أثاث", "furniture-shipping-mecca"),
+        ("تنظيف دكت", "duct-cleaning-mecca"),
+        ("شحن داخلي", "domestic-shipping-mecca"),
+    ],
+    "madinah": [
+        ("كشف تسربات المياه", "water-leak-detection-medina"),
+        ("تنظيف منازل", "home-cleaning-medina"),
+        ("شحن سيارات", "car-shipping-medina"),
+        ("شحن أثاث", "furniture-shipping-medina"),
+        ("تنظيف دكت", "duct-cleaning-medina"),
+        ("شحن داخلي", "domestic-shipping-medina"),
+    ],
+    "dammam": [
+        ("كشف تسربات المياه", "water-leak-detection-dammam"),
+        ("تنظيف منازل", "home-cleaning-dammam"),
+        ("شحن سيارات", "car-shipping-dammam"),
+        ("شحن أثاث", "furniture-shipping-dammam"),
+        ("تنظيف دكت", "duct-cleaning-dammam"),
+        ("شحن داخلي", "domestic-shipping-dammam"),
+    ],
+    "khobar": [
+        ("كشف تسربات المياه", "water-leak-detection-khobar"),
+        ("تنظيف منازل", "home-cleaning-khobar"),
+        ("شحن سيارات", "car-shipping-khobar"),
+        ("شحن أثاث", "furniture-shipping-khobar"),
+        ("تنظيف دكت", "duct-cleaning-khobar"),
+        ("شحن داخلي", "domestic-shipping-khobar"),
+    ],
+    "taif": [
+        ("كشف تسربات المياه", "water-leak-detection-taif"),
+        ("تنظيف منازل", "home-cleaning-taif"),
+        ("شحن سيارات", "car-shipping-taif"),
+        ("شحن أثاث", "furniture-shipping-taif"),
+        ("تنظيف دكت", "duct-cleaning-taif"),
+        ("شحن داخلي", "domestic-shipping-taif"),
+    ],
+    "abha": [
+        ("كشف تسربات المياه", "water-leak-detection-abha"),
+        ("تنظيف منازل", "home-cleaning-abha"),
+        ("شحن سيارات", "car-shipping-abha"),
+        ("شحن أثاث", "furniture-shipping-abha"),
+        ("تنظيف دكت", "duct-cleaning-abha"),
+        ("شحن داخلي", "domestic-shipping-abha"),
+    ],
+}
 
 
 def about() -> str:
@@ -126,11 +193,11 @@ def services() -> str:
 
 def cities() -> str:
     cards = []
-    for slug, name, sample in CITIES:
+    for slug, name in CITIES:
         url = f"{HOME}/cities/{slug}/"
         cards.append(
             f"""<a href="{url}" class="citycard">
-          <div class="cc-in"><h3>{name}</h3><small><i class="fas fa-location-dot"></i> صفحات الخدمة المرتبطة بهذه المدينة</small></div>
+          <div class="cc-in"><h3>{name}</h3><small><i class="fas fa-location-dot"></i> روابط خدمات منشورة لهذه المدينة</small></div>
         </a>"""
         )
     return f"""
@@ -146,16 +213,8 @@ def cities() -> str:
 """.strip()
 
 
-def city_page(slug: str, name: str, sample: str) -> str:
-    links = [
-        ("كشف تسربات المياه", f"water-leak-detection-{slug}"),
-        ("تنظيف منازل", f"home-cleaning-{slug}"),
-        ("شحن سيارات", f"car-shipping-{slug}"),
-        ("شحن أثاث", f"furniture-shipping-{slug}"),
-        ("تنظيف دكت", f"duct-cleaning-{slug}"),
-        ("غسيل مكيفات", f"ac-cleaning-{slug}"),
-        ("شحن داخلي", f"domestic-shipping-{slug}"),
-    ]
+def city_page(slug: str, name: str, sample: str = "") -> str:
+    links = CITY_LINKS.get(slug) or []
     items = "".join(
         f'<li><a href="{HOME}/{s}/"><i class="fas fa-chevron-left"></i> {label} في {name}</a></li>'
         for label, s in links
@@ -166,7 +225,7 @@ def city_page(slug: str, name: str, sample: str) -> str:
     <div class="article-body">
       <div class="prose">
         <h2>خدمات ركن التطور في {name}</h2>
-        <p>هذه الصفحة تجمع روابط مقالات الخدمة المرتبطة بمدينة {name}. إن لم يُفتح أحد الروابط فالصفحة غير منشورة لهذه المدينة بعد — استخدم واتساب واذكر الحي.</p>
+        <p>هذه الصفحة تجمع روابط مقالات الخدمة المنشورة المرتبطة بمدينة {name}. للخدمات غير المدرجة راسلنا عبر واتساب واذكر الحي.</p>
         <ul>{items}</ul>
       </div>
     </div>
@@ -296,7 +355,7 @@ def pricing() -> str:
 
 def sitemap() -> str:
     city_links = "".join(
-        f'<li><a href="{HOME}/cities/{slug}/">{name}</a></li>' for slug, name, _ in CITIES
+        f'<li><a href="{HOME}/cities/{slug}/">{name}</a></li>' for slug, name in CITIES
     )
     svc_links = "".join(
         f'<li><a href="{HOME}/services/{slug}/">{name}</a></li>' for slug, name, _, _ in SERVICES
