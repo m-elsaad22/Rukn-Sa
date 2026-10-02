@@ -1,0 +1,21 @@
+{
+  "cities": {
+    "id": 7465,
+    "terms": 21
+  },
+  "pricing": {
+    "id": 7464
+  },
+  "about": {
+    "id": 7460,
+    "scrubbed": true
+  },
+  "contact": {
+    "id": 7461,
+    "scrubbed": true
+  },
+  "services": {
+    "id": 7463,
+    "scrubbed": true
+  }
+}
