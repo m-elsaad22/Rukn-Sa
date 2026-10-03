@@ -1,0 +1,132 @@
+{
+  "hubs": [
+    {
+      "id": 10422,
+      "title": "أهمية الصيانة الدورية للمنازل في السعودية",
+      "new_wc": 351,
+      "link": "https://www.rukn-eltatawer.com/sa/ahmyh-alsyanh-aldwryh/"
+    },
+    {
+      "id": 10421,
+      "title": "متى تحتاج لفحص تسربات المياه؟ العلامات التي لا تتجاهلها",
+      "new_wc": 276,
+      "link": "https://www.rukn-eltatawer.com/sa/mta-thtaj-lfhs-altsrbat/"
+    },
+    {
+      "id": 10420,
+      "title": "نصائح للعناية بالمنزل طوال العام",
+      "new_wc": 179,
+      "link": "https://www.rukn-eltatawer.com/sa/nsayh-llanayh-balmnzl/"
+    },
+    {
+      "id": 10409,
+      "title": "سباكة وصيانة عامة للمنازل — حلول سريعة ومعتمدة",
+      "new_wc": 152,
+      "link": "https://www.rukn-eltatawer.com/sa/sbakh-wsyanh-aamh/"
+    },
+    {
+      "id": 10408,
+      "title": "مكافحة الحشرات في المنازل — حماية فعالة وآمنة",
+      "new_wc": 144,
+      "link": "https://www.rukn-eltatawer.com/sa/mkafhh-alhshrat/"
+    },
+    {
+      "id": 10407,
+      "title": "تنظيف وتعقيم المنازل — نظافة عميقة تدوم",
+      "new_wc": 158,
+      "link": "https://www.rukn-eltatawer.com/sa/tnzyf-wtaqym/"
+    },
+    {
+      "id": 10406,
+      "title": "صيانة التكييف — تبريد أقوى واستهلاك أقل",
+      "new_wc": 128,
+      "link": "https://www.rukn-eltatawer.com/sa/syanh-altkyyf/"
+    },
+    {
+      "id": 10405,
+      "title": "عزل الأسطح — حماية من الرطوبة والحرارة",
+      "new_wc": 136,
+      "link": "https://www.rukn-eltatawer.com/sa/azl-alasth/"
+    },
+    {
+      "id": 10404,
+      "title": "كشف تسربات المياه — دليل الخدمة من ركن التطور",
+      "new_wc": 162,
+      "link": "https://www.rukn-eltatawer.com/sa/kshf-tsrbat-almyah/"
+    }
+  ],
+  "services": [
+    {
+      "id": 1866,
+      "slug": "construction-and-maintenance-of-buildings",
+      "new_wc": 53,
+      "link": "https://www.rukn-eltatawer.com/sa/services/construction-and-maintenance-of-buildings/"
+    },
+    {
+      "id": 1868,
+      "slug": "construction-and-maintenance-of-swimming-pools",
+      "new_wc": 52,
+      "link": "https://www.rukn-eltatawer.com/sa/services/construction-and-maintenance-of-swimming-pools/"
+    },
+    {
+      "id": 1870,
+      "slug": "landscaping",
+      "new_wc": 54,
+      "link": "https://www.rukn-eltatawer.com/sa/services/landscaping/"
+    },
+    {
+      "id": 1872,
+      "slug": "parquet-installation",
+      "new_wc": 49,
+      "link": "https://www.rukn-eltatawer.com/sa/services/parquet-installation/"
+    },
+    {
+      "id": 1874,
+      "slug": "gypsum-board-installation",
+      "new_wc": 49,
+      "link": "https://www.rukn-eltatawer.com/sa/services/gypsum-board-installation/"
+    },
+    {
+      "id": 1876,
+      "slug": "sound-insulation-installation",
+      "new_wc": 53,
+      "link": "https://www.rukn-eltatawer.com/sa/services/sound-insulation-installation/"
+    },
+    {
+      "id": 1877,
+      "slug": "water-leak-detection",
+      "new_wc": 71,
+      "link": "https://www.rukn-eltatawer.com/sa/services/water-leak-detection/"
+    },
+    {
+      "id": 1879,
+      "slug": "insulation-of-roofs-and-cabinets",
+      "new_wc": 58,
+      "link": "https://www.rukn-eltatawer.com/sa/services/insulation-of-roofs-and-cabinets/"
+    },
+    {
+      "id": 1881,
+      "slug": "sewer-wiring",
+      "new_wc": 54,
+      "link": "https://www.rukn-eltatawer.com/sa/services/sewer-wiring/"
+    },
+    {
+      "id": 1883,
+      "slug": "air-conditioner-maintenance-and-installation",
+      "new_wc": 54,
+      "link": "https://www.rukn-eltatawer.com/sa/services/air-conditioner-maintenance-and-installation/"
+    },
+    {
+      "id": 1885,
+      "slug": "cleaning-and-sterilization",
+      "new_wc": 62,
+      "link": "https://www.rukn-eltatawer.com/sa/services/cleaning-and-sterilization/"
+    },
+    {
+      "id": 1887,
+      "slug": "pest-control",
+      "new_wc": 60,
+      "link": "https://www.rukn-eltatawer.com/sa/services/pest-control/"
+    }
+  ]
+}
