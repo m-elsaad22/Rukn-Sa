@@ -1,0 +1,532 @@
+{
+  "pages": [
+    {
+      "id": 23077,
+      "slug": "abha",
+      "title": "خدمات ركن التطور في أبها",
+      "ar": 58,
+      "en": 0,
+      "link": "https://www.rukn-eltatawer.com/sa/cities/abha/",
+      "has_call": false
+    },
+    {
+      "id": 23076,
+      "slug": "taif",
+      "title": "خدمات ركن التطور في الطائف",
+      "ar": 58,
+      "en": 0,
+      "link": "https://www.rukn-eltatawer.com/sa/cities/taif/",
+      "has_call": false
+    },
+    {
+      "id": 23075,
+      "slug": "khobar",
+      "title": "خدمات ركن التطور في الخبر",
+      "ar": 58,
+      "en": 0,
+      "link": "https://www.rukn-eltatawer.com/sa/cities/khobar/",
+      "has_call": false
+    },
+    {
+      "id": 23074,
+      "slug": "dammam",
+      "title": "خدمات ركن التطور في الدمام",
+      "ar": 58,
+      "en": 0,
+      "link": "https://www.rukn-eltatawer.com/sa/cities/dammam/",
+      "has_call": false
+    },
+    {
+      "id": 23073,
+      "slug": "madinah",
+      "title": "خدمات ركن التطور في المدينة المنورة",
+      "ar": 67,
+      "en": 0,
+      "link": "https://www.rukn-eltatawer.com/sa/cities/madinah/",
+      "has_call": false
+    },
+    {
+      "id": 23072,
+      "slug": "makkah",
+      "title": "خدمات ركن التطور في مكة المكرمة",
+      "ar": 67,
+      "en": 0,
+      "link": "https://www.rukn-eltatawer.com/sa/cities/makkah/",
+      "has_call": false
+    },
+    {
+      "id": 23071,
+      "slug": "jeddah",
+      "title": "خدمات ركن التطور في جدة",
+      "ar": 58,
+      "en": 0,
+      "link": "https://www.rukn-eltatawer.com/sa/cities/jeddah/",
+      "has_call": false
+    },
+    {
+      "id": 23070,
+      "slug": "riyadh",
+      "title": "خدمات ركن التطور في الرياض",
+      "ar": 58,
+      "en": 0,
+      "link": "https://www.rukn-eltatawer.com/sa/cities/riyadh/",
+      "has_call": false
+    },
+    {
+      "id": 23069,
+      "slug": "terms",
+      "title": "الشروط والأحكام",
+      "ar": 87,
+      "en": 0,
+      "link": "https://www.rukn-eltatawer.com/sa/terms/",
+      "has_call": false
+    },
+    {
+      "id": 7458,
+      "slug": "sitemap",
+      "title": "خريطة الموقع",
+      "ar": 60,
+      "en": 0,
+      "link": "https://www.rukn-eltatawer.com/sa/sitemap/",
+      "has_call": false
+    },
+    {
+      "id": 7467,
+      "slug": "faq",
+      "title": "الأسئلة الشائعة",
+      "ar": 133,
+      "en": 1,
+      "link": "https://www.rukn-eltatawer.com/sa/faq/",
+      "has_call": false
+    },
+    {
+      "id": 7465,
+      "slug": "cities",
+      "title": "المدن",
+      "ar": 66,
+      "en": 0,
+      "link": "https://www.rukn-eltatawer.com/sa/cities/",
+      "has_call": false
+    },
+    {
+      "id": 7464,
+      "slug": "pricing",
+      "title": "الأسعار",
+      "ar": 53,
+      "en": 0,
+      "link": "https://www.rukn-eltatawer.com/sa/pricing/",
+      "has_call": false
+    },
+    {
+      "id": 7463,
+      "slug": "services",
+      "title": "خدماتنا",
+      "ar": 163,
+      "en": 0,
+      "link": "https://www.rukn-eltatawer.com/sa/services/",
+      "has_call": false
+    },
+    {
+      "id": 7462,
+      "slug": "privacy-policy",
+      "title": "سياسة الخصوصية",
+      "ar": 94,
+      "en": 0,
+      "link": "https://www.rukn-eltatawer.com/sa/privacy-policy/",
+      "has_call": false
+    },
+    {
+      "id": 7461,
+      "slug": "contact-us",
+      "title": "اتصل بنا",
+      "ar": 80,
+      "en": 4,
+      "link": "https://www.rukn-eltatawer.com/sa/contact-us/",
+      "has_call": false
+    },
+    {
+      "id": 7460,
+      "slug": "about",
+      "title": "من نحن",
+      "ar": 89,
+      "en": 0,
+      "link": "https://www.rukn-eltatawer.com/sa/about/",
+      "has_call": false
+    },
+    {
+      "id": 2453,
+      "slug": "blog",
+      "title": "المدونة",
+      "ar": 12,
+      "en": 0,
+      "link": "https://www.rukn-eltatawer.com/sa/blog/",
+      "has_call": false
+    }
+  ],
+  "html": [
+    {
+      "url": "https://www.rukn-eltatawer.com/sa/",
+      "title": "شركة ركن التطور | صيانة عامة وكشف تسربات المياه والعزل في السعودية",
+      "h1_count": 1,
+      "h1s": [
+        "ركن التطور السعودية — الخدمات المنزلية المتكاملة في مدن المملكة"
+      ],
+      "robots": null,
+      "canonical": "https://www.rukn-eltatawer.com/sa/",
+      "hreflang": [
+        "ar",
+        "en"
+      ],
+      "schema_phones": [],
+      "wrong_phone": false,
+      "uae_early": false,
+      "geo": [
+        [
+          "addressLocality",
+          "Riyadh"
+        ],
+        [
+          "addressCountry",
+          "SA"
+        ]
+      ],
+      "ok_phone": false
+    },
+    {
+      "url": "https://www.rukn-eltatawer.com/sa/water-leak-detection-riyadh/",
+      "title": "شركة كشف تسربات المياه بالرياض 📞 01151481000 📢 الإعلان للإيجار",
+      "h1_count": 1,
+      "h1s": [
+        "شركة كشف تسربات المياه بالرياض"
+      ],
+      "robots": null,
+      "canonical": "https://www.rukn-eltatawer.com/sa/water-leak-detection-riyadh/",
+      "hreflang": [],
+      "schema_phones": [],
+      "wrong_phone": false,
+      "uae_early": false,
+      "geo": [
+        [
+          "addressLocality",
+          "الرياض"
+        ],
+        [
+          "addressCountry",
+          "SA"
+        ]
+      ],
+      "ok_phone": false
+    },
+    {
+      "url": "https://www.rukn-eltatawer.com/sa/roof-insulation-riyadh/",
+      "title": "شركة عزل أسطح بالرياض 📞 01151481000 📢 الإعلان للإيجار",
+      "h1_count": 1,
+      "h1s": [
+        "شركة عزل أسطح بالرياض"
+      ],
+      "robots": null,
+      "canonical": "https://www.rukn-eltatawer.com/sa/roof-insulation-riyadh/",
+      "hreflang": [],
+      "schema_phones": [],
+      "wrong_phone": false,
+      "uae_early": false,
+      "geo": [
+        [
+          "addressLocality",
+          "الرياض"
+        ],
+        [
+          "addressCountry",
+          "SA"
+        ]
+      ],
+      "ok_phone": false
+    },
+    {
+      "url": "https://www.rukn-eltatawer.com/sa/termite-control-mecca/",
+      "title": "شركة مكافحة النمل الأبيض (الرمة) بمكة المكرمة 📞 01151481000 📢 الإعلان للإيجار",
+      "h1_count": 1,
+      "h1s": [
+        "شركة مكافحة النمل الأبيض (الرمة) بمكة المكرمة"
+      ],
+      "robots": null,
+      "canonical": "https://www.rukn-eltatawer.com/sa/termite-control-mecca/",
+      "hreflang": [],
+      "schema_phones": [],
+      "wrong_phone": false,
+      "uae_early": false,
+      "geo": [
+        [
+          "addressLocality",
+          "مكة المكرمة"
+        ],
+        [
+          "addressCountry",
+          "SA"
+        ]
+      ],
+      "ok_phone": false
+    },
+    {
+      "url": "https://www.rukn-eltatawer.com/sa/en-home-cleaning-riyadh/",
+      "title": "Home Cleaning in Riyadh | Rukn Eltatawer 📞 01151481000 📢 الإعلان للإيجار",
+      "h1_count": 1,
+      "h1s": [
+        "Home Cleaning in Riyadh | Rukn Eltatawer"
+      ],
+      "robots": "noindex, follow",
+      "canonical": "https://www.rukn-eltatawer.com/sa/en-home-cleaning-riyadh/",
+      "hreflang": [
+        "en",
+        "ar",
+        "x-default"
+      ],
+      "schema_phones": [],
+      "wrong_phone": false,
+      "uae_early": false,
+      "geo": [
+        [
+          "addressLocality",
+          "السعودية"
+        ],
+        [
+          "addressCountry",
+          "SA"
+        ]
+      ],
+      "ok_phone": false
+    },
+    {
+      "url": "https://www.rukn-eltatawer.com/sa/en-water-leak-detection-riyadh/",
+      "title": "Water Leak Detection in Riyadh | Rukn Eltatawer 📞 01151481000 📢 الإعلان للإيجار",
+      "h1_count": 1,
+      "h1s": [
+        "Water Leak Detection in Riyadh | Rukn Eltatawer"
+      ],
+      "robots": "noindex, follow",
+      "canonical": "https://www.rukn-eltatawer.com/sa/en-water-leak-detection-riyadh/",
+      "hreflang": [
+        "en",
+        "ar",
+        "x-default"
+      ],
+      "schema_phones": [],
+      "wrong_phone": false,
+      "uae_early": false,
+      "geo": [
+        [
+          "addressLocality",
+          "السعودية"
+        ],
+        [
+          "addressCountry",
+          "SA"
+        ]
+      ],
+      "ok_phone": false
+    },
+    {
+      "url": "https://www.rukn-eltatawer.com/sa/house-cleaning-in-riyadh/",
+      "title": "شركة تنظيف منازل بالرياض 📞 01151481000 📢 الإعلان للإيجار",
+      "h1_count": 1,
+      "h1s": [
+        "شركة تنظيف منازل بالرياض"
+      ],
+      "robots": null,
+      "canonical": "https://www.rukn-eltatawer.com/sa/house-cleaning-in-riyadh/",
+      "hreflang": [],
+      "schema_phones": [],
+      "wrong_phone": false,
+      "uae_early": false,
+      "geo": [
+        [
+          "addressLocality",
+          "الرياض"
+        ],
+        [
+          "addressCountry",
+          "SA"
+        ]
+      ],
+      "ok_phone": false
+    },
+    {
+      "url": "https://www.rukn-eltatawer.com/sa/pricing/",
+      "title": "الأسعار | ركن التطور السعودية",
+      "h1_count": 1,
+      "h1s": [
+        "الأسعار"
+      ],
+      "robots": null,
+      "canonical": "https://www.rukn-eltatawer.com/sa/pricing/",
+      "hreflang": [],
+      "schema_phones": [],
+      "wrong_phone": false,
+      "uae_early": false,
+      "geo": [],
+      "ok_phone": false
+    },
+    {
+      "url": "https://www.rukn-eltatawer.com/sa/cities/",
+      "title": "المدن | ركن التطور السعودية",
+      "h1_count": 1,
+      "h1s": [
+        "المدن"
+      ],
+      "robots": null,
+      "canonical": "https://www.rukn-eltatawer.com/sa/cities/",
+      "hreflang": [],
+      "schema_phones": [],
+      "wrong_phone": false,
+      "uae_early": false,
+      "geo": [],
+      "ok_phone": false
+    }
+  ],
+  "issues": [
+    {
+      "sev": "medium",
+      "code": "THIN_PAGE",
+      "id": 23077,
+      "slug": "abha",
+      "ar": 58
+    },
+    {
+      "sev": "medium",
+      "code": "THIN_PAGE",
+      "id": 23076,
+      "slug": "taif",
+      "ar": 58
+    },
+    {
+      "sev": "medium",
+      "code": "THIN_PAGE",
+      "id": 23075,
+      "slug": "khobar",
+      "ar": 58
+    },
+    {
+      "sev": "medium",
+      "code": "THIN_PAGE",
+      "id": 23074,
+      "slug": "dammam",
+      "ar": 58
+    },
+    {
+      "sev": "medium",
+      "code": "THIN_PAGE",
+      "id": 23073,
+      "slug": "madinah",
+      "ar": 67
+    },
+    {
+      "sev": "medium",
+      "code": "THIN_PAGE",
+      "id": 23072,
+      "slug": "makkah",
+      "ar": 67
+    },
+    {
+      "sev": "medium",
+      "code": "THIN_PAGE",
+      "id": 23071,
+      "slug": "jeddah",
+      "ar": 58
+    },
+    {
+      "sev": "medium",
+      "code": "THIN_PAGE",
+      "id": 23070,
+      "slug": "riyadh",
+      "ar": 58
+    },
+    {
+      "sev": "medium",
+      "code": "THIN_PAGE",
+      "id": 23069,
+      "slug": "terms",
+      "ar": 87
+    },
+    {
+      "sev": "medium",
+      "code": "THIN_PAGE",
+      "id": 7467,
+      "slug": "faq",
+      "ar": 133
+    },
+    {
+      "sev": "medium",
+      "code": "THIN_PAGE",
+      "id": 7465,
+      "slug": "cities",
+      "ar": 66
+    },
+    {
+      "sev": "medium",
+      "code": "THIN_PAGE",
+      "id": 7464,
+      "slug": "pricing",
+      "ar": 53
+    },
+    {
+      "sev": "medium",
+      "code": "THIN_PAGE",
+      "id": 7463,
+      "slug": "services",
+      "ar": 163
+    },
+    {
+      "sev": "medium",
+      "code": "THIN_PAGE",
+      "id": 7461,
+      "slug": "contact-us",
+      "ar": 80
+    },
+    {
+      "sev": "medium",
+      "code": "THIN_PAGE",
+      "id": 7460,
+      "slug": "about",
+      "ar": 89
+    },
+    {
+      "sev": "medium",
+      "code": "THIN_PAGE",
+      "id": 2453,
+      "slug": "blog",
+      "ar": 12
+    },
+    {
+      "sev": "high",
+      "code": "THIN_EN",
+      "id": 14833,
+      "ew": 185,
+      "slug": "en-water-leak-detection-riyadh"
+    },
+    {
+      "sev": "high",
+      "code": "THIN_EN",
+      "id": 14834,
+      "ew": 167,
+      "slug": "en-roof-waterproofing-riyadh"
+    },
+    {
+      "sev": "high",
+      "code": "THIN_EN",
+      "id": 14835,
+      "ew": 167,
+      "slug": "en-home-cleaning-riyadh"
+    },
+    {
+      "sev": "critical",
+      "code": "NOINDEX",
+      "url": "https://www.rukn-eltatawer.com/sa/en-home-cleaning-riyadh/"
+    },
+    {
+      "sev": "critical",
+      "code": "NOINDEX",
+      "url": "https://www.rukn-eltatawer.com/sa/en-water-leak-detection-riyadh/"
+    }
+  ],
+  "sitemap_urls": 1738
+}
