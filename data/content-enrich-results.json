@@ -1,0 +1,647 @@
+{
+  "cities": [
+    {
+      "id": 9352,
+      "city": "شرورة",
+      "old_wc": 599,
+      "new_wc": 1313,
+      "featured": 10622
+    },
+    {
+      "id": 9351,
+      "city": "أملج",
+      "old_wc": 575,
+      "new_wc": 1295,
+      "featured": 10623
+    },
+    {
+      "id": 9350,
+      "city": "المندق",
+      "old_wc": 575,
+      "new_wc": 1273,
+      "featured": 10624
+    },
+    {
+      "id": 9349,
+      "city": "صامطة",
+      "old_wc": 605,
+      "new_wc": 1277,
+      "featured": 10625
+    },
+    {
+      "id": 9348,
+      "city": "النعيرية",
+      "old_wc": 579,
+      "new_wc": 1280,
+      "featured": 10626
+    },
+    {
+      "id": 9347,
+      "city": "تنومة",
+      "old_wc": 562,
+      "new_wc": 1265,
+      "featured": 10627
+    },
+    {
+      "id": 9346,
+      "city": "النماص",
+      "old_wc": 570,
+      "new_wc": 1260,
+      "featured": 10628
+    },
+    {
+      "id": 9345,
+      "city": "البكيرية",
+      "old_wc": 594,
+      "new_wc": 1288,
+      "featured": 10629
+    },
+    {
+      "id": 9344,
+      "city": "الرس",
+      "old_wc": 577,
+      "new_wc": 1271,
+      "featured": 10630
+    },
+    {
+      "id": 9343,
+      "city": "المخواة",
+      "old_wc": 563,
+      "new_wc": 1255,
+      "featured": 10631
+    },
+    {
+      "id": 9342,
+      "city": "بلجرشي",
+      "old_wc": 586,
+      "new_wc": 1260,
+      "featured": 10632
+    },
+    {
+      "id": 9341,
+      "city": "ظهران الجنوب",
+      "old_wc": 613,
+      "new_wc": 1297,
+      "featured": 10633
+    },
+    {
+      "id": 9340,
+      "city": "تثليث",
+      "old_wc": 586,
+      "new_wc": 1266,
+      "featured": 10634
+    },
+    {
+      "id": 9339,
+      "city": "الحناكية",
+      "old_wc": 572,
+      "new_wc": 1266,
+      "featured": 10635
+    },
+    {
+      "id": 9338,
+      "city": "المهد",
+      "old_wc": 557,
+      "new_wc": 1240,
+      "featured": 10636
+    },
+    {
+      "id": 9337,
+      "city": "العلا",
+      "old_wc": 566,
+      "new_wc": 1259,
+      "featured": 10614
+    },
+    {
+      "id": 9336,
+      "city": "بدر",
+      "old_wc": 560,
+      "new_wc": 1247,
+      "featured": 10615
+    },
+    {
+      "id": 9335,
+      "city": "الجموم",
+      "old_wc": 573,
+      "new_wc": 1245,
+      "featured": 10616
+    },
+    {
+      "id": 9334,
+      "city": "رابغ",
+      "old_wc": 573,
+      "new_wc": 1257,
+      "featured": 10617
+    },
+    {
+      "id": 9332,
+      "city": "حفر الباطن",
+      "old_wc": 625,
+      "new_wc": 1321,
+      "featured": 10619
+    },
+    {
+      "id": 9331,
+      "city": "ضباء",
+      "old_wc": 575,
+      "new_wc": 1258,
+      "featured": 10620
+    },
+    {
+      "id": 9330,
+      "city": "الوجه",
+      "old_wc": 570,
+      "new_wc": 1262,
+      "featured": 10621
+    },
+    {
+      "id": 9329,
+      "city": "دومة الجندل",
+      "old_wc": 621,
+      "new_wc": 1289,
+      "featured": 10622
+    },
+    {
+      "id": 9328,
+      "city": "القريات",
+      "old_wc": 579,
+      "new_wc": 1260,
+      "featured": 10623
+    },
+    {
+      "id": 9327,
+      "city": "طريف",
+      "old_wc": 569,
+      "new_wc": 1254,
+      "featured": 10624
+    },
+    {
+      "id": 9326,
+      "city": "رفحاء",
+      "old_wc": 578,
+      "new_wc": 1254,
+      "featured": 10625
+    },
+    {
+      "id": 9325,
+      "city": "أبو عريش",
+      "old_wc": 605,
+      "new_wc": 1308,
+      "featured": 10626
+    },
+    {
+      "id": 9324,
+      "city": "صبيا",
+      "old_wc": 576,
+      "new_wc": 1258,
+      "featured": 10627
+    },
+    {
+      "id": 9323,
+      "city": "سراة عبيدة",
+      "old_wc": 612,
+      "new_wc": 1288,
+      "featured": 10628
+    },
+    {
+      "id": 9322,
+      "city": "محايل عسير",
+      "old_wc": 616,
+      "new_wc": 1311,
+      "featured": 10629
+    },
+    {
+      "id": 9321,
+      "city": "بيشة",
+      "old_wc": 588,
+      "new_wc": 1278,
+      "featured": 10630
+    },
+    {
+      "id": 9320,
+      "city": "الأفلاج",
+      "old_wc": 568,
+      "new_wc": 1254,
+      "featured": 10631
+    },
+    {
+      "id": 9319,
+      "city": "وادي الدواسر",
+      "old_wc": 640,
+      "new_wc": 1322,
+      "featured": 10632
+    },
+    {
+      "id": 9318,
+      "city": "المجمعة",
+      "old_wc": 583,
+      "new_wc": 1266,
+      "featured": 10633
+    },
+    {
+      "id": 9317,
+      "city": "شقراء",
+      "old_wc": 569,
+      "new_wc": 1257,
+      "featured": 10634
+    },
+    {
+      "id": 9314,
+      "city": "الخرج",
+      "old_wc": 1040,
+      "new_wc": 1277,
+      "featured": 10614
+    },
+    {
+      "id": 9313,
+      "city": "رأس تنورة",
+      "old_wc": 997,
+      "new_wc": 1329,
+      "featured": 10615
+    },
+    {
+      "id": 9312,
+      "city": "القطيف",
+      "old_wc": 998,
+      "new_wc": 1259,
+      "featured": 10616
+    },
+    {
+      "id": 9311,
+      "city": "الجبيل",
+      "old_wc": 594,
+      "new_wc": 1275,
+      "featured": 10617
+    },
+    {
+      "id": 9310,
+      "city": "المبرز",
+      "old_wc": 1042,
+      "new_wc": 1270,
+      "featured": 10618
+    },
+    {
+      "id": 9309,
+      "city": "الهفوف",
+      "old_wc": 565,
+      "new_wc": 1257,
+      "featured": 10619
+    },
+    {
+      "id": 9308,
+      "city": "الأحساء",
+      "old_wc": 984,
+      "new_wc": 1301,
+      "featured": 10620
+    },
+    {
+      "id": 9307,
+      "city": "الليث",
+      "old_wc": 888,
+      "new_wc": 1267,
+      "featured": 10621
+    },
+    {
+      "id": 9306,
+      "city": "القنفذة",
+      "old_wc": 962,
+      "new_wc": 1260,
+      "featured": 10622
+    },
+    {
+      "id": 9305,
+      "city": "ينبع",
+      "old_wc": 575,
+      "new_wc": 1265,
+      "featured": 10623
+    },
+    {
+      "id": 9304,
+      "city": "الباحة",
+      "old_wc": 945,
+      "new_wc": 1264,
+      "featured": 10624
+    },
+    {
+      "id": 9303,
+      "city": "عرعر",
+      "old_wc": 575,
+      "new_wc": 1270,
+      "featured": 10625
+    },
+    {
+      "id": 9302,
+      "city": "سكاكا",
+      "old_wc": 895,
+      "new_wc": 1270,
+      "featured": 10626
+    },
+    {
+      "id": 9301,
+      "city": "جازان",
+      "old_wc": 954,
+      "new_wc": 1261,
+      "featured": 10627
+    },
+    {
+      "id": 9300,
+      "city": "نجران",
+      "old_wc": 572,
+      "new_wc": 1259,
+      "featured": 10628
+    },
+    {
+      "id": 9299,
+      "city": "حائل",
+      "old_wc": 580,
+      "new_wc": 1270,
+      "featured": 10629
+    },
+    {
+      "id": 9298,
+      "city": "عنيزة",
+      "old_wc": 580,
+      "new_wc": 1261,
+      "featured": 10630
+    },
+    {
+      "id": 9297,
+      "city": "بريدة",
+      "old_wc": 947,
+      "new_wc": 1272,
+      "featured": 10631
+    },
+    {
+      "id": 9296,
+      "city": "تبوك",
+      "old_wc": 582,
+      "new_wc": 1271,
+      "featured": 10632
+    },
+    {
+      "id": 9295,
+      "city": "الطائف",
+      "old_wc": 898,
+      "new_wc": 1281,
+      "featured": 10633
+    },
+    {
+      "id": 9294,
+      "city": "خميس مشيط",
+      "old_wc": 635,
+      "new_wc": 1304,
+      "featured": 10634
+    },
+    {
+      "id": 9293,
+      "city": "أبها",
+      "old_wc": 919,
+      "new_wc": 1298,
+      "featured": 10635
+    },
+    {
+      "id": 9292,
+      "city": "الظهران",
+      "old_wc": 580,
+      "new_wc": 1277,
+      "featured": 10636
+    },
+    {
+      "id": 9291,
+      "city": "الخبر",
+      "old_wc": 585,
+      "new_wc": 1280,
+      "featured": 10614
+    },
+    {
+      "id": 9290,
+      "city": "الدمام",
+      "old_wc": 569,
+      "new_wc": 1277,
+      "featured": 10615
+    },
+    {
+      "id": 9288,
+      "city": "أحياء مكة",
+      "old_wc": 873,
+      "new_wc": 1354,
+      "featured": 10617
+    },
+    {
+      "id": 9286,
+      "city": "جنوب جدة",
+      "old_wc": 854,
+      "new_wc": 1327,
+      "featured": 10619
+    },
+    {
+      "id": 9285,
+      "city": "شرق جدة",
+      "old_wc": 876,
+      "new_wc": 1320,
+      "featured": 10620
+    },
+    {
+      "id": 9284,
+      "city": "شمال جدة",
+      "old_wc": 804,
+      "new_wc": 1365,
+      "featured": 10621
+    },
+    {
+      "id": 9283,
+      "city": "جدة",
+      "old_wc": 821,
+      "new_wc": 1306,
+      "featured": 10622
+    },
+    {
+      "id": 9282,
+      "city": "جنوب الرياض",
+      "old_wc": 791,
+      "new_wc": 1353,
+      "featured": 10623
+    },
+    {
+      "id": 9281,
+      "city": "غرب الرياض",
+      "old_wc": 829,
+      "new_wc": 1340,
+      "featured": 10624
+    },
+    {
+      "id": 9280,
+      "city": "شرق الرياض",
+      "old_wc": 834,
+      "new_wc": 1334,
+      "featured": 10625
+    },
+    {
+      "id": 9279,
+      "city": "شمال الرياض",
+      "old_wc": 836,
+      "new_wc": 1351,
+      "featured": 10626
+    },
+    {
+      "id": 9278,
+      "city": "وسط الرياض",
+      "old_wc": 519,
+      "new_wc": 1368,
+      "featured": 10627
+    }
+  ],
+  "cleaning": [
+    {
+      "id": 10280,
+      "title": "تنظيف شقق",
+      "old_wc": 460,
+      "new_wc": 1014
+    },
+    {
+      "id": 10282,
+      "title": "تنظيف كنب بالبخار",
+      "old_wc": 467,
+      "new_wc": 1027
+    },
+    {
+      "id": 10279,
+      "title": "تنظيف فلل فاخرة",
+      "old_wc": 484,
+      "new_wc": 1024
+    },
+    {
+      "id": 10278,
+      "title": "تنظيف فلل",
+      "old_wc": 485,
+      "new_wc": 1013
+    },
+    {
+      "id": 10281,
+      "title": "تنظيف شامل للمنازل",
+      "old_wc": 490,
+      "new_wc": 1022
+    },
+    {
+      "id": 10283,
+      "title": "تنظيف سجاد وموكيت",
+      "old_wc": 491,
+      "new_wc": 1023
+    },
+    {
+      "id": 10277,
+      "title": "تنظيف منازل مع التعقيم",
+      "old_wc": 597,
+      "new_wc": 1040
+    },
+    {
+      "id": 10275,
+      "title": "أفضل ممارسات تنظيف المنازل",
+      "old_wc": 709,
+      "new_wc": 1040
+    },
+    {
+      "id": 10276,
+      "title": "أسعار وتنظيف المنازل",
+      "old_wc": 715,
+      "new_wc": 1039
+    }
+  ],
+  "services": [
+    {
+      "id": 1866,
+      "title": "إنشاء وصيانة المباني",
+      "words": 944
+    },
+    {
+      "id": 1868,
+      "title": "إنشاء وصيانة المسابح",
+      "words": 946
+    },
+    {
+      "id": 1870,
+      "title": "تنسيق الحدائق",
+      "words": 930
+    },
+    {
+      "id": 1872,
+      "title": "تركيب الباركيه",
+      "words": 919
+    },
+    {
+      "id": 1874,
+      "title": "تركيب جبس بورد",
+      "words": 935
+    },
+    {
+      "id": 1876,
+      "title": "تركيب عازل الصوت",
+      "words": 935
+    },
+    {
+      "id": 1877,
+      "title": "كشف تسربات المياه",
+      "words": 938
+    },
+    {
+      "id": 1879,
+      "title": "عزل الأسطح والخزانات",
+      "words": 936
+    },
+    {
+      "id": 1881,
+      "title": "تسليك المجاري",
+      "words": 919
+    },
+    {
+      "id": 1883,
+      "title": "صيانة وتركيب المكيفات",
+      "words": 933
+    },
+    {
+      "id": 1885,
+      "title": "تنظيف عميق وتعقيم",
+      "words": 931
+    },
+    {
+      "id": 1887,
+      "title": "مكافحة الحشرات",
+      "words": 918
+    }
+  ],
+  "skipped": [
+    {
+      "id": 10603,
+      "city": "الرياض 2026",
+      "reason": "already-2875"
+    },
+    {
+      "id": 9316,
+      "city": "الزلفي",
+      "reason": "already-1270"
+    },
+    {
+      "id": 9315,
+      "city": "الدوادمي",
+      "reason": "already-1614"
+    },
+    {
+      "id": 9289,
+      "city": "المدينة المنورة",
+      "reason": "already-1224"
+    },
+    {
+      "id": 9287,
+      "city": "مكة",
+      "reason": "already-2127"
+    }
+  ],
+  "featured_backfill": 8,
+  "services_bumped_avg": 1016,
+  "notes": [
+    "70 city leak pages enriched to ~1284 words avg with featured+excerpt",
+    "9 Riyadh cleaning posts rewritten ~1014-1040 words",
+    "12 CPT services expanded to ~1000-1030 words",
+    "8 additional featured images set on previously long posts"
+  ]
+}
