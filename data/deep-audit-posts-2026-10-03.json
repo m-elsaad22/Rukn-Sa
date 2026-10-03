@@ -1,0 +1,2054 @@
+{
+  "at": "2026-10-03T22:48:35.200514+00:00",
+  "checked": 1759,
+  "dup_titles": 35,
+  "dup_titles_list": [
+    {
+      "title": "شركة تنظيف منازل بالرياض",
+      "items": [
+        {
+          "id": 10274,
+          "slug": "house-cleaning-in-riyadh",
+          "status": "publish"
+        },
+        {
+          "id": 10856,
+          "slug": "home-cleaning-riyadh",
+          "status": "publish"
+        }
+      ]
+    },
+    {
+      "title": "شركة تنظيف فلل بالرياض",
+      "items": [
+        {
+          "id": 10278,
+          "slug": "sharikat-tanzif-filla-bilriyadh",
+          "status": "publish"
+        },
+        {
+          "id": 10858,
+          "slug": "villa-cleaning-riyadh",
+          "status": "publish"
+        }
+      ]
+    },
+    {
+      "title": "شركة تنظيف شقق بالرياض",
+      "items": [
+        {
+          "id": 10280,
+          "slug": "apartment-cleaning-in-riyadh",
+          "status": "publish"
+        },
+        {
+          "id": 10857,
+          "slug": "apartment-cleaning-riyadh",
+          "status": "publish"
+        }
+      ]
+    },
+    {
+      "title": "شركة تركيب عشب صناعي بالرياض",
+      "items": [
+        {
+          "id": 12240,
+          "slug": "artificial-grass-riyadh",
+          "status": "publish"
+        },
+        {
+          "id": 12392,
+          "slug": "artificial-grass-grdn-riyadh",
+          "status": "publish"
+        }
+      ]
+    },
+    {
+      "title": "شركة تركيب عشب صناعي بجدة",
+      "items": [
+        {
+          "id": 12241,
+          "slug": "artificial-grass-jeddah",
+          "status": "publish"
+        },
+        {
+          "id": 12393,
+          "slug": "artificial-grass-grdn-jeddah",
+          "status": "publish"
+        }
+      ]
+    },
+    {
+      "title": "شركة تركيب عشب صناعي بمكة المكرمة",
+      "items": [
+        {
+          "id": 12242,
+          "slug": "artificial-grass-mecca",
+          "status": "publish"
+        },
+        {
+          "id": 12394,
+          "slug": "artificial-grass-grdn-mecca",
+          "status": "publish"
+        }
+      ]
+    },
+    {
+      "title": "شركة تركيب عشب صناعي بالمدينة المنورة",
+      "items": [
+        {
+          "id": 12243,
+          "slug": "artificial-grass-medina",
+          "status": "publish"
+        },
+        {
+          "id": 12395,
+          "slug": "artificial-grass-grdn-medina",
+          "status": "publish"
+        }
+      ]
+    },
+    {
+      "title": "شركة تركيب عشب صناعي بالدمام",
+      "items": [
+        {
+          "id": 12244,
+          "slug": "artificial-grass-dammam",
+          "status": "publish"
+        },
+        {
+          "id": 12396,
+          "slug": "artificial-grass-grdn-dammam",
+          "status": "publish"
+        }
+      ]
+    },
+    {
+      "title": "شركة تركيب عشب صناعي بالخبر",
+      "items": [
+        {
+          "id": 12245,
+          "slug": "artificial-grass-khobar",
+          "status": "publish"
+        },
+        {
+          "id": 12397,
+          "slug": "artificial-grass-grdn-khobar",
+          "status": "publish"
+        }
+      ]
+    },
+    {
+      "title": "شركة تركيب عشب صناعي بالطائف",
+      "items": [
+        {
+          "id": 12246,
+          "slug": "artificial-grass-taif",
+          "status": "publish"
+        },
+        {
+          "id": 12398,
+          "slug": "artificial-grass-grdn-taif",
+          "status": "publish"
+        }
+      ]
+    },
+    {
+      "title": "شركة تركيب عشب صناعي بأبها",
+      "items": [
+        {
+          "id": 12247,
+          "slug": "artificial-grass-abha",
+          "status": "publish"
+        },
+        {
+          "id": 12399,
+          "slug": "artificial-grass-grdn-abha",
+          "status": "publish"
+        }
+      ]
+    },
+    {
+      "title": "شركة تركيب عشب جداري بالرياض",
+      "items": [
+        {
+          "id": 12248,
+          "slug": "grass-wall-riyadh",
+          "status": "publish"
+        },
+        {
+          "id": 12400,
+          "slug": "wall-grass-riyadh",
+          "status": "publish"
+        }
+      ]
+    },
+    {
+      "title": "شركة تركيب عشب جداري بجدة",
+      "items": [
+        {
+          "id": 12249,
+          "slug": "grass-wall-jeddah",
+          "status": "publish"
+        },
+        {
+          "id": 12401,
+          "slug": "wall-grass-jeddah",
+          "status": "publish"
+        }
+      ]
+    },
+    {
+      "title": "شركة تركيب عشب جداري بمكة المكرمة",
+      "items": [
+        {
+          "id": 12250,
+          "slug": "grass-wall-mecca",
+          "status": "publish"
+        },
+        {
+          "id": 12402,
+          "slug": "wall-grass-mecca",
+          "status": "publish"
+        }
+      ]
+    },
+    {
+      "title": "شركة تركيب عشب جداري بالمدينة المنورة",
+      "items": [
+        {
+          "id": 12251,
+          "slug": "grass-wall-medina",
+          "status": "publish"
+        },
+        {
+          "id": 12403,
+          "slug": "wall-grass-medina",
+          "status": "publish"
+        }
+      ]
+    },
+    {
+      "title": "شركة تركيب عشب جداري بالدمام",
+      "items": [
+        {
+          "id": 12252,
+          "slug": "grass-wall-dammam",
+          "status": "publish"
+        },
+        {
+          "id": 12404,
+          "slug": "wall-grass-dammam",
+          "status": "publish"
+        }
+      ]
+    },
+    {
+      "title": "شركة تركيب عشب جداري بالخبر",
+      "items": [
+        {
+          "id": 12253,
+          "slug": "grass-wall-khobar",
+          "status": "publish"
+        },
+        {
+          "id": 12405,
+          "slug": "wall-grass-khobar",
+          "status": "publish"
+        }
+      ]
+    },
+    {
+      "title": "شركة تركيب عشب جداري بالطائف",
+      "items": [
+        {
+          "id": 12254,
+          "slug": "grass-wall-taif",
+          "status": "publish"
+        },
+        {
+          "id": 12406,
+          "slug": "wall-grass-taif",
+          "status": "publish"
+        }
+      ]
+    },
+    {
+      "title": "شركة تركيب عشب جداري بأبها",
+      "items": [
+        {
+          "id": 12255,
+          "slug": "grass-wall-abha",
+          "status": "publish"
+        },
+        {
+          "id": 12407,
+          "slug": "wall-grass-abha",
+          "status": "publish"
+        }
+      ]
+    },
+    {
+      "title": "سباك منازل بالرياض",
+      "items": [
+        {
+          "id": 12688,
+          "slug": "home-plumber-riyadh",
+          "status": "publish"
+        },
+        {
+          "id": 13000,
+          "slug": "home-plumber-elec-riyadh",
+          "status": "publish"
+        }
+      ]
+    },
+    {
+      "title": "سباك منازل بجدة",
+      "items": [
+        {
+          "id": 12689,
+          "slug": "home-plumber-jeddah",
+          "status": "publish"
+        },
+        {
+          "id": 13001,
+          "slug": "home-plumber-elec-jeddah",
+          "status": "publish"
+        }
+      ]
+    },
+    {
+      "title": "سباك منازل بمكة المكرمة",
+      "items": [
+        {
+          "id": 12690,
+          "slug": "home-plumber-mecca",
+          "status": "publish"
+        },
+        {
+          "id": 13002,
+          "slug": "home-plumber-elec-mecca",
+          "status": "publish"
+        }
+      ]
+    },
+    {
+      "title": "سباك منازل بالمدينة المنورة",
+      "items": [
+        {
+          "id": 12691,
+          "slug": "home-plumber-medina",
+          "status": "publish"
+        },
+        {
+          "id": 13003,
+          "slug": "home-plumber-elec-medina",
+          "status": "publish"
+        }
+      ]
+    },
+    {
+      "title": "سباك منازل بالدمام",
+      "items": [
+        {
+          "id": 12692,
+          "slug": "home-plumber-dammam",
+          "status": "publish"
+        },
+        {
+          "id": 13004,
+          "slug": "home-plumber-elec-dammam",
+          "status": "publish"
+        }
+      ]
+    },
+    {
+      "title": "سباك منازل بالخبر",
+      "items": [
+        {
+          "id": 12693,
+          "slug": "home-plumber-khobar",
+          "status": "publish"
+        },
+        {
+          "id": 13005,
+          "slug": "home-plumber-elec-khobar",
+          "status": "publish"
+        }
+      ]
+    },
+    {
+      "title": "سباك منازل بالطائف",
+      "items": [
+        {
+          "id": 12694,
+          "slug": "home-plumber-taif",
+          "status": "publish"
+        },
+        {
+          "id": 13006,
+          "slug": "home-plumber-elec-taif",
+          "status": "publish"
+        }
+      ]
+    },
+    {
+      "title": "سباك منازل بأبها",
+      "items": [
+        {
+          "id": 12695,
+          "slug": "home-plumber-abha",
+          "status": "publish"
+        },
+        {
+          "id": 13007,
+          "slug": "home-plumber-elec-abha",
+          "status": "publish"
+        }
+      ]
+    },
+    {
+      "title": "كهربائي منازل بالرياض",
+      "items": [
+        {
+          "id": 12696,
+          "slug": "home-electrician-riyadh",
+          "status": "publish"
+        },
+        {
+          "id": 12960,
+          "slug": "home-electrician-elec-riyadh",
+          "status": "publish"
+        }
+      ]
+    },
+    {
+      "title": "كهربائي منازل بجدة",
+      "items": [
+        {
+          "id": 12697,
+          "slug": "home-electrician-jeddah",
+          "status": "publish"
+        },
+        {
+          "id": 12961,
+          "slug": "home-electrician-elec-jeddah",
+          "status": "publish"
+        }
+      ]
+    },
+    {
+      "title": "كهربائي منازل بمكة المكرمة",
+      "items": [
+        {
+          "id": 12698,
+          "slug": "home-electrician-mecca",
+          "status": "publish"
+        },
+        {
+          "id": 12962,
+          "slug": "home-electrician-elec-mecca",
+          "status": "publish"
+        }
+      ]
+    },
+    {
+      "title": "كهربائي منازل بالمدينة المنورة",
+      "items": [
+        {
+          "id": 12699,
+          "slug": "home-electrician-medina",
+          "status": "publish"
+        },
+        {
+          "id": 12963,
+          "slug": "home-electrician-elec-medina",
+          "status": "publish"
+        }
+      ]
+    },
+    {
+      "title": "كهربائي منازل بالدمام",
+      "items": [
+        {
+          "id": 12700,
+          "slug": "home-electrician-dammam",
+          "status": "publish"
+        },
+        {
+          "id": 12964,
+          "slug": "home-electrician-elec-dammam",
+          "status": "publish"
+        }
+      ]
+    },
+    {
+      "title": "كهربائي منازل بالخبر",
+      "items": [
+        {
+          "id": 12701,
+          "slug": "home-electrician-khobar",
+          "status": "publish"
+        },
+        {
+          "id": 12965,
+          "slug": "home-electrician-elec-khobar",
+          "status": "publish"
+        }
+      ]
+    },
+    {
+      "title": "كهربائي منازل بالطائف",
+      "items": [
+        {
+          "id": 12702,
+          "slug": "home-electrician-taif",
+          "status": "publish"
+        },
+        {
+          "id": 12966,
+          "slug": "home-electrician-elec-taif",
+          "status": "publish"
+        }
+      ]
+    },
+    {
+      "title": "كهربائي منازل بأبها",
+      "items": [
+        {
+          "id": 12703,
+          "slug": "home-electrician-abha",
+          "status": "publish"
+        },
+        {
+          "id": 12967,
+          "slug": "home-electrician-elec-abha",
+          "status": "publish"
+        }
+      ]
+    }
+  ],
+  "exact_content_dups": 0,
+  "exact_content_list": [],
+  "near_openers": 0,
+  "near_openers_top": [],
+  "thin_count": 38,
+  "thin_sample": [
+    {
+      "id": 10880,
+      "title": "شركة تنظيف وصيانة دكتات المكيفات بالرياض",
+      "aw": 476,
+      "ew": 4,
+      "status": "publish",
+      "slug": "duct-cleaning-riyadh",
+      "lang": "ar"
+    },
+    {
+      "id": 10906,
+      "title": "شركة تنظيف وصيانة دكتات المكيفات بجدة",
+      "aw": 460,
+      "ew": 4,
+      "status": "publish",
+      "slug": "duct-cleaning-jeddah",
+      "lang": "ar"
+    },
+    {
+      "id": 10932,
+      "title": "شركة تنظيف وصيانة دكتات المكيفات بمكة المكرمة",
+      "aw": 420,
+      "ew": 4,
+      "status": "publish",
+      "slug": "duct-cleaning-mecca",
+      "lang": "ar"
+    },
+    {
+      "id": 10958,
+      "title": "شركة تنظيف وصيانة دكتات المكيفات بالمدينة المنورة",
+      "aw": 421,
+      "ew": 4,
+      "status": "publish",
+      "slug": "duct-cleaning-medina",
+      "lang": "ar"
+    },
+    {
+      "id": 10984,
+      "title": "شركة تنظيف وصيانة دكتات المكيفات بالدمام",
+      "aw": 554,
+      "ew": 4,
+      "status": "publish",
+      "slug": "duct-cleaning-dammam",
+      "lang": "ar"
+    },
+    {
+      "id": 11010,
+      "title": "شركة تنظيف وصيانة دكتات المكيفات بالخبر",
+      "aw": 464,
+      "ew": 4,
+      "status": "publish",
+      "slug": "duct-cleaning-khobar",
+      "lang": "ar"
+    },
+    {
+      "id": 11036,
+      "title": "شركة تنظيف وصيانة دكتات المكيفات بالطائف",
+      "aw": 406,
+      "ew": 4,
+      "status": "publish",
+      "slug": "duct-cleaning-taif",
+      "lang": "ar"
+    },
+    {
+      "id": 12792,
+      "title": "شركة شحن أثاث بالرياض",
+      "aw": 451,
+      "ew": 4,
+      "status": "publish",
+      "slug": "furniture-shipping-riyadh",
+      "lang": "ar"
+    },
+    {
+      "id": 12793,
+      "title": "شركة شحن أثاث بجدة",
+      "aw": 432,
+      "ew": 4,
+      "status": "publish",
+      "slug": "furniture-shipping-jeddah",
+      "lang": "ar"
+    },
+    {
+      "id": 12795,
+      "title": "شركة شحن أثاث بالمدينة المنورة",
+      "aw": 389,
+      "ew": 4,
+      "status": "publish",
+      "slug": "furniture-shipping-medina",
+      "lang": "ar"
+    },
+    {
+      "id": 12796,
+      "title": "شركة شحن أثاث بالدمام",
+      "aw": 463,
+      "ew": 4,
+      "status": "publish",
+      "slug": "furniture-shipping-dammam",
+      "lang": "ar"
+    },
+    {
+      "id": 12797,
+      "title": "شركة شحن أثاث بالخبر",
+      "aw": 428,
+      "ew": 4,
+      "status": "publish",
+      "slug": "furniture-shipping-khobar",
+      "lang": "ar"
+    },
+    {
+      "id": 12798,
+      "title": "شركة شحن أثاث بالطائف",
+      "aw": 407,
+      "ew": 4,
+      "status": "publish",
+      "slug": "furniture-shipping-taif",
+      "lang": "ar"
+    },
+    {
+      "id": 12799,
+      "title": "شركة شحن أثاث بأبها",
+      "aw": 431,
+      "ew": 4,
+      "status": "publish",
+      "slug": "furniture-shipping-abha",
+      "lang": "ar"
+    },
+    {
+      "id": 12802,
+      "title": "شركة شحن سيارات بمكة المكرمة",
+      "aw": 574,
+      "ew": 4,
+      "status": "publish",
+      "slug": "car-shipping-mecca",
+      "lang": "ar"
+    },
+    {
+      "id": 12803,
+      "title": "شركة شحن سيارات بالمدينة المنورة",
+      "aw": 522,
+      "ew": 4,
+      "status": "publish",
+      "slug": "car-shipping-medina",
+      "lang": "ar"
+    },
+    {
+      "id": 12805,
+      "title": "شركة شحن سيارات بالخبر",
+      "aw": 552,
+      "ew": 4,
+      "status": "publish",
+      "slug": "car-shipping-khobar",
+      "lang": "ar"
+    },
+    {
+      "id": 12806,
+      "title": "شركة شحن سيارات بالطائف",
+      "aw": 512,
+      "ew": 4,
+      "status": "publish",
+      "slug": "car-shipping-taif",
+      "lang": "ar"
+    },
+    {
+      "id": 12807,
+      "title": "شركة شحن سيارات بأبها",
+      "aw": 494,
+      "ew": 4,
+      "status": "publish",
+      "slug": "car-shipping-abha",
+      "lang": "ar"
+    },
+    {
+      "id": 12816,
+      "title": "شركة شحن داخلي داخل بالرياض",
+      "aw": 461,
+      "ew": 4,
+      "status": "publish",
+      "slug": "domestic-shipping-riyadh",
+      "lang": "ar"
+    },
+    {
+      "id": 12817,
+      "title": "شركة شحن داخلي داخل بجدة",
+      "aw": 480,
+      "ew": 4,
+      "status": "publish",
+      "slug": "domestic-shipping-jeddah",
+      "lang": "ar"
+    },
+    {
+      "id": 12818,
+      "title": "شركة شحن داخلي داخل بمكة المكرمة",
+      "aw": 406,
+      "ew": 4,
+      "status": "publish",
+      "slug": "domestic-shipping-mecca",
+      "lang": "ar"
+    },
+    {
+      "id": 12819,
+      "title": "شركة شحن داخلي داخل بالمدينة المنورة",
+      "aw": 363,
+      "ew": 4,
+      "status": "publish",
+      "slug": "domestic-shipping-medina",
+      "lang": "ar"
+    },
+    {
+      "id": 12820,
+      "title": "شركة شحن داخلي داخل بالدمام",
+      "aw": 591,
+      "ew": 4,
+      "status": "publish",
+      "slug": "domestic-shipping-dammam",
+      "lang": "ar"
+    },
+    {
+      "id": 12821,
+      "title": "شركة شحن داخلي داخل بالخبر",
+      "aw": 453,
+      "ew": 4,
+      "status": "publish",
+      "slug": "domestic-shipping-khobar",
+      "lang": "ar"
+    },
+    {
+      "id": 12822,
+      "title": "شركة شحن داخلي داخل بالطائف",
+      "aw": 373,
+      "ew": 4,
+      "status": "publish",
+      "slug": "domestic-shipping-taif",
+      "lang": "ar"
+    },
+    {
+      "id": 12823,
+      "title": "شركة شحن داخلي داخل بأبها",
+      "aw": 380,
+      "ew": 4,
+      "status": "publish",
+      "slug": "domestic-shipping-abha",
+      "lang": "ar"
+    },
+    {
+      "id": 13104,
+      "title": "شركة غسيل وتنظيف مكيفات بالرياض",
+      "aw": 500,
+      "ew": 4,
+      "status": "publish",
+      "slug": "ac-cleaning-washing-riyadh",
+      "lang": "ar"
+    },
+    {
+      "id": 13105,
+      "title": "شركة غسيل وتنظيف مكيفات بجدة",
+      "aw": 475,
+      "ew": 4,
+      "status": "publish",
+      "slug": "ac-cleaning-washing-jeddah",
+      "lang": "ar"
+    },
+    {
+      "id": 13106,
+      "title": "شركة غسيل وتنظيف مكيفات بمكة المكرمة",
+      "aw": 416,
+      "ew": 4,
+      "status": "publish",
+      "slug": "ac-cleaning-washing-mecca",
+      "lang": "ar"
+    },
+    {
+      "id": 13107,
+      "title": "شركة غسيل وتنظيف مكيفات بالمدينة المنورة",
+      "aw": 413,
+      "ew": 4,
+      "status": "publish",
+      "slug": "ac-cleaning-washing-medina",
+      "lang": "ar"
+    },
+    {
+      "id": 13108,
+      "title": "شركة غسيل وتنظيف مكيفات بالدمام",
+      "aw": 390,
+      "ew": 4,
+      "status": "publish",
+      "slug": "ac-cleaning-washing-dammam",
+      "lang": "ar"
+    },
+    {
+      "id": 13109,
+      "title": "شركة غسيل وتنظيف مكيفات بالخبر",
+      "aw": 391,
+      "ew": 4,
+      "status": "publish",
+      "slug": "ac-cleaning-washing-khobar",
+      "lang": "ar"
+    },
+    {
+      "id": 13110,
+      "title": "شركة غسيل وتنظيف مكيفات بالطائف",
+      "aw": 415,
+      "ew": 4,
+      "status": "publish",
+      "slug": "ac-cleaning-washing-taif",
+      "lang": "ar"
+    },
+    {
+      "id": 13111,
+      "title": "شركة غسيل وتنظيف مكيفات بأبها",
+      "aw": 466,
+      "ew": 4,
+      "status": "publish",
+      "slug": "ac-cleaning-washing-abha",
+      "lang": "ar"
+    },
+    {
+      "id": 14833,
+      "title": "Water Leak Detection in Riyadh | Rukn Eltatawer",
+      "aw": 1208,
+      "ew": 185,
+      "status": "publish",
+      "slug": "en-water-leak-detection-riyadh",
+      "lang": "en"
+    },
+    {
+      "id": 14834,
+      "title": "Roof Waterproofing in Riyadh | Rukn Eltatawer",
+      "aw": 1214,
+      "ew": 167,
+      "status": "publish",
+      "slug": "en-roof-waterproofing-riyadh",
+      "lang": "en"
+    },
+    {
+      "id": 14835,
+      "title": "Home Cleaning in Riyadh | Rukn Eltatawer",
+      "aw": 1212,
+      "ew": 167,
+      "status": "publish",
+      "slug": "en-home-cleaning-riyadh",
+      "lang": "en"
+    }
+  ],
+  "thin_en": [
+    {
+      "id": 14833,
+      "title": "Water Leak Detection in Riyadh | Rukn Eltatawer",
+      "aw": 1208,
+      "ew": 185,
+      "status": "publish",
+      "slug": "en-water-leak-detection-riyadh",
+      "lang": "en"
+    },
+    {
+      "id": 14834,
+      "title": "Roof Waterproofing in Riyadh | Rukn Eltatawer",
+      "aw": 1214,
+      "ew": 167,
+      "status": "publish",
+      "slug": "en-roof-waterproofing-riyadh",
+      "lang": "en"
+    },
+    {
+      "id": 14835,
+      "title": "Home Cleaning in Riyadh | Rukn Eltatawer",
+      "aw": 1212,
+      "ew": 167,
+      "status": "publish",
+      "slug": "en-home-cleaning-riyadh",
+      "lang": "en"
+    }
+  ],
+  "badphones": [],
+  "uae": [],
+  "templates": [],
+  "no_post_call": 2,
+  "no_post_call_sample": [
+    12801,
+    12804
+  ],
+  "no_unique_marker": 1694,
+  "content_h1": [],
+  "content_h1_count": 0,
+  "short_excerpt": 0,
+  "noindex": [],
+  "ugly_slug": [],
+  "en_posts": [
+    {
+      "id": 9287,
+      "slug": "water-leak-detection-makkah-center",
+      "title": "كشف تسربات المياه في مكة",
+      "aw": 922,
+      "ew": 1783,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/water-leak-detection-makkah-center/"
+    },
+    {
+      "id": 14833,
+      "slug": "en-water-leak-detection-riyadh",
+      "title": "Water Leak Detection in Riyadh | Rukn Eltatawer",
+      "aw": 1208,
+      "ew": 185,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/en/en-water-leak-detection-riyadh/"
+    },
+    {
+      "id": 14834,
+      "slug": "en-roof-waterproofing-riyadh",
+      "title": "Roof Waterproofing in Riyadh | Rukn Eltatawer",
+      "aw": 1214,
+      "ew": 167,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/en/en-roof-waterproofing-riyadh/"
+    },
+    {
+      "id": 14835,
+      "slug": "en-home-cleaning-riyadh",
+      "title": "Home Cleaning in Riyadh | Rukn Eltatawer",
+      "aw": 1212,
+      "ew": 167,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/en/en-home-cleaning-riyadh/"
+    }
+  ],
+  "mismatches_count": 39,
+  "mismatches_by_fam": {
+    "insul": 19,
+    "move": 12,
+    "plumb": 8
+  },
+  "mismatches_sample": [
+    {
+      "id": 11343,
+      "title": "شركة عزل مطابخ بالرياض",
+      "slug": "kitchen-insulation-riyadh",
+      "fam": "insul",
+      "own": 1,
+      "dom": [
+        "leak",
+        9
+      ],
+      "scores": {
+        "pest": 6,
+        "ac": 0,
+        "leak": 9,
+        "insul": 1,
+        "clean": 0,
+        "grass": 0,
+        "elec": 0,
+        "plumb": 0,
+        "move": 0
+      }
+    },
+    {
+      "id": 11355,
+      "title": "شركة عزل مطابخ بجدة",
+      "slug": "kitchen-insulation-jeddah",
+      "fam": "insul",
+      "own": 1,
+      "dom": [
+        "leak",
+        16
+      ],
+      "scores": {
+        "pest": 8,
+        "ac": 0,
+        "leak": 16,
+        "insul": 1,
+        "clean": 0,
+        "grass": 0,
+        "elec": 0,
+        "plumb": 0,
+        "move": 0
+      }
+    },
+    {
+      "id": 11366,
+      "title": "شركة عزل حمامات بمكة المكرمة",
+      "slug": "bathroom-insulation-mecca",
+      "fam": "insul",
+      "own": 6,
+      "dom": [
+        "pest",
+        46
+      ],
+      "scores": {
+        "pest": 46,
+        "ac": 0,
+        "leak": 7,
+        "insul": 6,
+        "clean": 0,
+        "grass": 0,
+        "elec": 0,
+        "plumb": 0,
+        "move": 0
+      }
+    },
+    {
+      "id": 11367,
+      "title": "شركة عزل مطابخ بمكة المكرمة",
+      "slug": "kitchen-insulation-mecca",
+      "fam": "insul",
+      "own": 1,
+      "dom": [
+        "pest",
+        48
+      ],
+      "scores": {
+        "pest": 48,
+        "ac": 0,
+        "leak": 9,
+        "insul": 1,
+        "clean": 0,
+        "grass": 0,
+        "elec": 0,
+        "plumb": 0,
+        "move": 0
+      }
+    },
+    {
+      "id": 11379,
+      "title": "شركة عزل مطابخ بالمدينة المنورة",
+      "slug": "kitchen-insulation-medina",
+      "fam": "insul",
+      "own": 1,
+      "dom": [
+        "leak",
+        10
+      ],
+      "scores": {
+        "pest": 5,
+        "ac": 0,
+        "leak": 10,
+        "insul": 1,
+        "clean": 0,
+        "grass": 0,
+        "elec": 0,
+        "plumb": 0,
+        "move": 0
+      }
+    },
+    {
+      "id": 11389,
+      "title": "شركة عزل حمامات بالدمام",
+      "slug": "bathroom-insulation-dammam",
+      "fam": "insul",
+      "own": 6,
+      "dom": [
+        "leak",
+        13
+      ],
+      "scores": {
+        "pest": 4,
+        "ac": 1,
+        "leak": 13,
+        "insul": 6,
+        "clean": 0,
+        "grass": 0,
+        "elec": 0,
+        "plumb": 0,
+        "move": 0
+      }
+    },
+    {
+      "id": 11390,
+      "title": "شركة عزل مطابخ بالدمام",
+      "slug": "kitchen-insulation-dammam",
+      "fam": "insul",
+      "own": 1,
+      "dom": [
+        "leak",
+        16
+      ],
+      "scores": {
+        "pest": 6,
+        "ac": 1,
+        "leak": 16,
+        "insul": 1,
+        "clean": 0,
+        "grass": 0,
+        "elec": 0,
+        "plumb": 0,
+        "move": 0
+      }
+    },
+    {
+      "id": 11400,
+      "title": "شركة عزل حمامات بالخبر",
+      "slug": "bathroom-insulation-khobar",
+      "fam": "insul",
+      "own": 6,
+      "dom": [
+        "leak",
+        14
+      ],
+      "scores": {
+        "pest": 4,
+        "ac": 0,
+        "leak": 14,
+        "insul": 6,
+        "clean": 0,
+        "grass": 0,
+        "elec": 0,
+        "plumb": 0,
+        "move": 0
+      }
+    },
+    {
+      "id": 11401,
+      "title": "شركة عزل مطابخ بالخبر",
+      "slug": "kitchen-insulation-khobar",
+      "fam": "insul",
+      "own": 1,
+      "dom": [
+        "leak",
+        18
+      ],
+      "scores": {
+        "pest": 5,
+        "ac": 0,
+        "leak": 18,
+        "insul": 1,
+        "clean": 0,
+        "grass": 0,
+        "elec": 0,
+        "plumb": 0,
+        "move": 0
+      }
+    },
+    {
+      "id": 11412,
+      "title": "شركة عزل مطابخ بالطائف",
+      "slug": "kitchen-insulation-taif",
+      "fam": "insul",
+      "own": 1,
+      "dom": [
+        "leak",
+        14
+      ],
+      "scores": {
+        "pest": 8,
+        "ac": 0,
+        "leak": 14,
+        "insul": 1,
+        "clean": 0,
+        "grass": 0,
+        "elec": 0,
+        "plumb": 0,
+        "move": 0
+      }
+    },
+    {
+      "id": 11967,
+      "title": "شركة عزل مطابخ بأبها",
+      "slug": "kitchen-insulation-abha",
+      "fam": "insul",
+      "own": 1,
+      "dom": [
+        "leak",
+        10
+      ],
+      "scores": {
+        "pest": 5,
+        "ac": 0,
+        "leak": 10,
+        "insul": 1,
+        "clean": 0,
+        "grass": 0,
+        "elec": 0,
+        "plumb": 0,
+        "move": 0
+      }
+    },
+    {
+      "id": 12457,
+      "title": "شركة نقل أثاث داخلي بجدة",
+      "slug": "indoor-moving-jeddah",
+      "fam": "move",
+      "own": 0,
+      "dom": [
+        "leak",
+        9
+      ],
+      "scores": {
+        "pest": 7,
+        "ac": 0,
+        "leak": 9,
+        "insul": 0,
+        "clean": 0,
+        "grass": 0,
+        "elec": 0,
+        "plumb": 0,
+        "move": 0
+      }
+    },
+    {
+      "id": 12458,
+      "title": "شركة نقل أثاث داخلي بمكة المكرمة",
+      "slug": "indoor-moving-mecca",
+      "fam": "move",
+      "own": 0,
+      "dom": [
+        "pest",
+        46
+      ],
+      "scores": {
+        "pest": 46,
+        "ac": 0,
+        "leak": 2,
+        "insul": 0,
+        "clean": 0,
+        "grass": 0,
+        "elec": 0,
+        "plumb": 0,
+        "move": 0
+      }
+    },
+    {
+      "id": 12460,
+      "title": "شركة نقل أثاث داخلي بالدمام",
+      "slug": "indoor-moving-dammam",
+      "fam": "move",
+      "own": 0,
+      "dom": [
+        "leak",
+        8
+      ],
+      "scores": {
+        "pest": 4,
+        "ac": 1,
+        "leak": 8,
+        "insul": 0,
+        "clean": 0,
+        "grass": 0,
+        "elec": 0,
+        "plumb": 0,
+        "move": 0
+      }
+    },
+    {
+      "id": 12461,
+      "title": "شركة نقل أثاث داخلي بالخبر",
+      "slug": "indoor-moving-khobar",
+      "fam": "move",
+      "own": 0,
+      "dom": [
+        "leak",
+        10
+      ],
+      "scores": {
+        "pest": 4,
+        "ac": 0,
+        "leak": 10,
+        "insul": 0,
+        "clean": 0,
+        "grass": 0,
+        "elec": 0,
+        "plumb": 0,
+        "move": 0
+      }
+    },
+    {
+      "id": 12465,
+      "title": "شركة نقل أثاث خارجي بجدة",
+      "slug": "outdoor-moving-jeddah",
+      "fam": "move",
+      "own": 0,
+      "dom": [
+        "leak",
+        9
+      ],
+      "scores": {
+        "pest": 6,
+        "ac": 0,
+        "leak": 9,
+        "insul": 0,
+        "clean": 0,
+        "grass": 0,
+        "elec": 0,
+        "plumb": 0,
+        "move": 0
+      }
+    },
+    {
+      "id": 12466,
+      "title": "شركة نقل أثاث خارجي بمكة المكرمة",
+      "slug": "outdoor-moving-mecca",
+      "fam": "move",
+      "own": 0,
+      "dom": [
+        "pest",
+        46
+      ],
+      "scores": {
+        "pest": 46,
+        "ac": 0,
+        "leak": 2,
+        "insul": 0,
+        "clean": 0,
+        "grass": 0,
+        "elec": 0,
+        "plumb": 0,
+        "move": 0
+      }
+    },
+    {
+      "id": 12468,
+      "title": "شركة نقل أثاث خارجي بالدمام",
+      "slug": "outdoor-moving-dammam",
+      "fam": "move",
+      "own": 0,
+      "dom": [
+        "leak",
+        8
+      ],
+      "scores": {
+        "pest": 4,
+        "ac": 1,
+        "leak": 8,
+        "insul": 0,
+        "clean": 0,
+        "grass": 0,
+        "elec": 0,
+        "plumb": 0,
+        "move": 0
+      }
+    },
+    {
+      "id": 12469,
+      "title": "شركة نقل أثاث خارجي بالخبر",
+      "slug": "outdoor-moving-khobar",
+      "fam": "move",
+      "own": 0,
+      "dom": [
+        "leak",
+        9
+      ],
+      "scores": {
+        "pest": 4,
+        "ac": 0,
+        "leak": 9,
+        "insul": 0,
+        "clean": 0,
+        "grass": 0,
+        "elec": 0,
+        "plumb": 0,
+        "move": 0
+      }
+    },
+    {
+      "id": 12481,
+      "title": "شركة نقل بيانو بجدة",
+      "slug": "piano-moving-jeddah",
+      "fam": "move",
+      "own": 0,
+      "dom": [
+        "leak",
+        8
+      ],
+      "scores": {
+        "pest": 6,
+        "ac": 0,
+        "leak": 8,
+        "insul": 0,
+        "clean": 0,
+        "grass": 0,
+        "elec": 0,
+        "plumb": 0,
+        "move": 0
+      }
+    },
+    {
+      "id": 12482,
+      "title": "شركة نقل بيانو بمكة المكرمة",
+      "slug": "piano-moving-mecca",
+      "fam": "move",
+      "own": 0,
+      "dom": [
+        "pest",
+        47
+      ],
+      "scores": {
+        "pest": 47,
+        "ac": 0,
+        "leak": 2,
+        "insul": 0,
+        "clean": 0,
+        "grass": 0,
+        "elec": 0,
+        "plumb": 0,
+        "move": 0
+      }
+    },
+    {
+      "id": 12484,
+      "title": "شركة نقل بيانو بالدمام",
+      "slug": "piano-moving-dammam",
+      "fam": "move",
+      "own": 0,
+      "dom": [
+        "leak",
+        9
+      ],
+      "scores": {
+        "pest": 4,
+        "ac": 1,
+        "leak": 9,
+        "insul": 0,
+        "clean": 0,
+        "grass": 0,
+        "elec": 0,
+        "plumb": 0,
+        "move": 0
+      }
+    },
+    {
+      "id": 12485,
+      "title": "شركة نقل بيانو بالخبر",
+      "slug": "piano-moving-khobar",
+      "fam": "move",
+      "own": 0,
+      "dom": [
+        "leak",
+        9
+      ],
+      "scores": {
+        "pest": 5,
+        "ac": 0,
+        "leak": 9,
+        "insul": 0,
+        "clean": 0,
+        "grass": 0,
+        "elec": 0,
+        "plumb": 0,
+        "move": 0
+      }
+    },
+    {
+      "id": 12689,
+      "title": "سباك منازل بجدة",
+      "slug": "home-plumber-jeddah",
+      "fam": "plumb",
+      "own": 5,
+      "dom": [
+        "leak",
+        10
+      ],
+      "scores": {
+        "pest": 7,
+        "ac": 0,
+        "leak": 10,
+        "insul": 0,
+        "clean": 0,
+        "grass": 0,
+        "elec": 0,
+        "plumb": 5,
+        "move": 0
+      }
+    },
+    {
+      "id": 12690,
+      "title": "سباك منازل بمكة المكرمة",
+      "slug": "home-plumber-mecca",
+      "fam": "plumb",
+      "own": 5,
+      "dom": [
+        "pest",
+        46
+      ],
+      "scores": {
+        "pest": 46,
+        "ac": 0,
+        "leak": 4,
+        "insul": 0,
+        "clean": 0,
+        "grass": 0,
+        "elec": 0,
+        "plumb": 5,
+        "move": 0
+      }
+    },
+    {
+      "id": 12692,
+      "title": "سباك منازل بالدمام",
+      "slug": "home-plumber-dammam",
+      "fam": "plumb",
+      "own": 5,
+      "dom": [
+        "leak",
+        11
+      ],
+      "scores": {
+        "pest": 4,
+        "ac": 1,
+        "leak": 11,
+        "insul": 0,
+        "clean": 0,
+        "grass": 0,
+        "elec": 0,
+        "plumb": 5,
+        "move": 0
+      }
+    },
+    {
+      "id": 12693,
+      "title": "سباك منازل بالخبر",
+      "slug": "home-plumber-khobar",
+      "fam": "plumb",
+      "own": 5,
+      "dom": [
+        "leak",
+        11
+      ],
+      "scores": {
+        "pest": 4,
+        "ac": 0,
+        "leak": 11,
+        "insul": 0,
+        "clean": 0,
+        "grass": 0,
+        "elec": 0,
+        "plumb": 5,
+        "move": 0
+      }
+    },
+    {
+      "id": 12896,
+      "title": "شركة عزل ودهان أسطح بالرياض",
+      "slug": "roof-insulation-painting-riyadh",
+      "fam": "insul",
+      "own": 0,
+      "dom": [
+        "pest",
+        8
+      ],
+      "scores": {
+        "pest": 8,
+        "ac": 0,
+        "leak": 7,
+        "insul": 0,
+        "clean": 0,
+        "grass": 0,
+        "elec": 0,
+        "plumb": 0,
+        "move": 0
+      }
+    },
+    {
+      "id": 12897,
+      "title": "شركة عزل ودهان أسطح بجدة",
+      "slug": "roof-insulation-painting-jeddah",
+      "fam": "insul",
+      "own": 0,
+      "dom": [
+        "leak",
+        13
+      ],
+      "scores": {
+        "pest": 12,
+        "ac": 0,
+        "leak": 13,
+        "insul": 0,
+        "clean": 0,
+        "grass": 0,
+        "elec": 0,
+        "plumb": 0,
+        "move": 0
+      }
+    },
+    {
+      "id": 12898,
+      "title": "شركة عزل ودهان أسطح بمكة المكرمة",
+      "slug": "roof-insulation-painting-mecca",
+      "fam": "insul",
+      "own": 0,
+      "dom": [
+        "pest",
+        50
+      ],
+      "scores": {
+        "pest": 50,
+        "ac": 0,
+        "leak": 7,
+        "insul": 0,
+        "clean": 0,
+        "grass": 0,
+        "elec": 0,
+        "plumb": 0,
+        "move": 0
+      }
+    },
+    {
+      "id": 12899,
+      "title": "شركة عزل ودهان أسطح بالمدينة المنورة",
+      "slug": "roof-insulation-painting-medina",
+      "fam": "insul",
+      "own": 0,
+      "dom": [
+        "pest",
+        9
+      ],
+      "scores": {
+        "pest": 9,
+        "ac": 0,
+        "leak": 7,
+        "insul": 0,
+        "clean": 0,
+        "grass": 0,
+        "elec": 0,
+        "plumb": 0,
+        "move": 0
+      }
+    },
+    {
+      "id": 12900,
+      "title": "شركة عزل ودهان أسطح بالدمام",
+      "slug": "roof-insulation-painting-dammam",
+      "fam": "insul",
+      "own": 0,
+      "dom": [
+        "leak",
+        13
+      ],
+      "scores": {
+        "pest": 10,
+        "ac": 1,
+        "leak": 13,
+        "insul": 0,
+        "clean": 0,
+        "grass": 0,
+        "elec": 0,
+        "plumb": 0,
+        "move": 0
+      }
+    },
+    {
+      "id": 12901,
+      "title": "شركة عزل ودهان أسطح بالخبر",
+      "slug": "roof-insulation-painting-khobar",
+      "fam": "insul",
+      "own": 0,
+      "dom": [
+        "leak",
+        15
+      ],
+      "scores": {
+        "pest": 10,
+        "ac": 0,
+        "leak": 15,
+        "insul": 0,
+        "clean": 0,
+        "grass": 0,
+        "elec": 0,
+        "plumb": 0,
+        "move": 0
+      }
+    },
+    {
+      "id": 12902,
+      "title": "شركة عزل ودهان أسطح بالطائف",
+      "slug": "roof-insulation-painting-taif",
+      "fam": "insul",
+      "own": 0,
+      "dom": [
+        "leak",
+        11
+      ],
+      "scores": {
+        "pest": 10,
+        "ac": 0,
+        "leak": 11,
+        "insul": 0,
+        "clean": 0,
+        "grass": 0,
+        "elec": 0,
+        "plumb": 0,
+        "move": 0
+      }
+    },
+    {
+      "id": 12903,
+      "title": "شركة عزل ودهان أسطح بأبها",
+      "slug": "roof-insulation-painting-abha",
+      "fam": "insul",
+      "own": 0,
+      "dom": [
+        "pest",
+        8
+      ],
+      "scores": {
+        "pest": 8,
+        "ac": 0,
+        "leak": 7,
+        "insul": 0,
+        "clean": 0,
+        "grass": 0,
+        "elec": 0,
+        "plumb": 0,
+        "move": 0
+      }
+    },
+    {
+      "id": 13001,
+      "title": "سباك منازل بجدة",
+      "slug": "home-plumber-elec-jeddah",
+      "fam": "plumb",
+      "own": 5,
+      "dom": [
+        "leak",
+        10
+      ],
+      "scores": {
+        "pest": 8,
+        "ac": 0,
+        "leak": 10,
+        "insul": 0,
+        "clean": 0,
+        "grass": 0,
+        "elec": 0,
+        "plumb": 5,
+        "move": 0
+      }
+    },
+    {
+      "id": 13002,
+      "title": "سباك منازل بمكة المكرمة",
+      "slug": "home-plumber-elec-mecca",
+      "fam": "plumb",
+      "own": 5,
+      "dom": [
+        "pest",
+        46
+      ],
+      "scores": {
+        "pest": 46,
+        "ac": 0,
+        "leak": 4,
+        "insul": 0,
+        "clean": 0,
+        "grass": 0,
+        "elec": 0,
+        "plumb": 5,
+        "move": 0
+      }
+    },
+    {
+      "id": 13004,
+      "title": "سباك منازل بالدمام",
+      "slug": "home-plumber-elec-dammam",
+      "fam": "plumb",
+      "own": 5,
+      "dom": [
+        "leak",
+        10
+      ],
+      "scores": {
+        "pest": 5,
+        "ac": 1,
+        "leak": 10,
+        "insul": 0,
+        "clean": 0,
+        "grass": 0,
+        "elec": 0,
+        "plumb": 5,
+        "move": 0
+      }
+    },
+    {
+      "id": 13005,
+      "title": "سباك منازل بالخبر",
+      "slug": "home-plumber-elec-khobar",
+      "fam": "plumb",
+      "own": 5,
+      "dom": [
+        "leak",
+        11
+      ],
+      "scores": {
+        "pest": 5,
+        "ac": 0,
+        "leak": 11,
+        "insul": 0,
+        "clean": 0,
+        "grass": 0,
+        "elec": 0,
+        "plumb": 5,
+        "move": 0
+      }
+    }
+  ],
+  "bleed_count": 30,
+  "bleed_by_code": {
+    "ac_network": 5,
+    "maint_line": 17,
+    "network_stress": 2,
+    "maint_failures": 2,
+    "plumb_bleed": 2,
+    "roof_bleed": 2
+  },
+  "bleed_sample": [
+    {
+      "id": 10856,
+      "slug": "home-cleaning-riyadh",
+      "title": "شركة تنظيف منازل بالرياض",
+      "code": "ac_network",
+      "fam": "clean"
+    },
+    {
+      "id": 10857,
+      "slug": "apartment-cleaning-riyadh",
+      "title": "شركة تنظيف شقق بالرياض",
+      "code": "ac_network",
+      "fam": "clean"
+    },
+    {
+      "id": 10858,
+      "slug": "villa-cleaning-riyadh",
+      "title": "شركة تنظيف فلل بالرياض",
+      "code": "ac_network",
+      "fam": "clean"
+    },
+    {
+      "id": 12392,
+      "slug": "artificial-grass-grdn-riyadh",
+      "title": "شركة تركيب عشب صناعي بالرياض",
+      "code": "ac_network",
+      "fam": "grass"
+    },
+    {
+      "id": 12392,
+      "slug": "artificial-grass-grdn-riyadh",
+      "title": "شركة تركيب عشب صناعي بالرياض",
+      "code": "maint_line",
+      "fam": "grass"
+    },
+    {
+      "id": 12393,
+      "slug": "artificial-grass-grdn-jeddah",
+      "title": "شركة تركيب عشب صناعي بجدة",
+      "code": "maint_line",
+      "fam": "grass"
+    },
+    {
+      "id": 12394,
+      "slug": "artificial-grass-grdn-mecca",
+      "title": "شركة تركيب عشب صناعي بمكة المكرمة",
+      "code": "network_stress",
+      "fam": "grass"
+    },
+    {
+      "id": 12394,
+      "slug": "artificial-grass-grdn-mecca",
+      "title": "شركة تركيب عشب صناعي بمكة المكرمة",
+      "code": "maint_failures",
+      "fam": "grass"
+    },
+    {
+      "id": 12394,
+      "slug": "artificial-grass-grdn-mecca",
+      "title": "شركة تركيب عشب صناعي بمكة المكرمة",
+      "code": "maint_line",
+      "fam": "grass"
+    },
+    {
+      "id": 12395,
+      "slug": "artificial-grass-grdn-medina",
+      "title": "شركة تركيب عشب صناعي بالمدينة المنورة",
+      "code": "maint_line",
+      "fam": "grass"
+    },
+    {
+      "id": 12396,
+      "slug": "artificial-grass-grdn-dammam",
+      "title": "شركة تركيب عشب صناعي بالدمام",
+      "code": "maint_line",
+      "fam": "grass"
+    },
+    {
+      "id": 12397,
+      "slug": "artificial-grass-grdn-khobar",
+      "title": "شركة تركيب عشب صناعي بالخبر",
+      "code": "plumb_bleed",
+      "fam": "grass"
+    },
+    {
+      "id": 12397,
+      "slug": "artificial-grass-grdn-khobar",
+      "title": "شركة تركيب عشب صناعي بالخبر",
+      "code": "maint_line",
+      "fam": "grass"
+    },
+    {
+      "id": 12398,
+      "slug": "artificial-grass-grdn-taif",
+      "title": "شركة تركيب عشب صناعي بالطائف",
+      "code": "roof_bleed",
+      "fam": "grass"
+    },
+    {
+      "id": 12398,
+      "slug": "artificial-grass-grdn-taif",
+      "title": "شركة تركيب عشب صناعي بالطائف",
+      "code": "maint_line",
+      "fam": "grass"
+    },
+    {
+      "id": 12399,
+      "slug": "artificial-grass-grdn-abha",
+      "title": "شركة تركيب عشب صناعي بأبها",
+      "code": "maint_line",
+      "fam": "grass"
+    },
+    {
+      "id": 12400,
+      "slug": "wall-grass-riyadh",
+      "title": "شركة تركيب عشب جداري بالرياض",
+      "code": "ac_network",
+      "fam": "grass"
+    },
+    {
+      "id": 12400,
+      "slug": "wall-grass-riyadh",
+      "title": "شركة تركيب عشب جداري بالرياض",
+      "code": "maint_line",
+      "fam": "grass"
+    },
+    {
+      "id": 12401,
+      "slug": "wall-grass-jeddah",
+      "title": "شركة تركيب عشب جداري بجدة",
+      "code": "maint_line",
+      "fam": "grass"
+    },
+    {
+      "id": 12402,
+      "slug": "wall-grass-mecca",
+      "title": "شركة تركيب عشب جداري بمكة المكرمة",
+      "code": "network_stress",
+      "fam": "grass"
+    },
+    {
+      "id": 12402,
+      "slug": "wall-grass-mecca",
+      "title": "شركة تركيب عشب جداري بمكة المكرمة",
+      "code": "maint_failures",
+      "fam": "grass"
+    },
+    {
+      "id": 12402,
+      "slug": "wall-grass-mecca",
+      "title": "شركة تركيب عشب جداري بمكة المكرمة",
+      "code": "maint_line",
+      "fam": "grass"
+    },
+    {
+      "id": 12403,
+      "slug": "wall-grass-medina",
+      "title": "شركة تركيب عشب جداري بالمدينة المنورة",
+      "code": "maint_line",
+      "fam": "grass"
+    },
+    {
+      "id": 12404,
+      "slug": "wall-grass-dammam",
+      "title": "شركة تركيب عشب جداري بالدمام",
+      "code": "maint_line",
+      "fam": "grass"
+    },
+    {
+      "id": 12405,
+      "slug": "wall-grass-khobar",
+      "title": "شركة تركيب عشب جداري بالخبر",
+      "code": "plumb_bleed",
+      "fam": "grass"
+    },
+    {
+      "id": 12405,
+      "slug": "wall-grass-khobar",
+      "title": "شركة تركيب عشب جداري بالخبر",
+      "code": "maint_line",
+      "fam": "grass"
+    },
+    {
+      "id": 12406,
+      "slug": "wall-grass-taif",
+      "title": "شركة تركيب عشب جداري بالطائف",
+      "code": "roof_bleed",
+      "fam": "grass"
+    },
+    {
+      "id": 12406,
+      "slug": "wall-grass-taif",
+      "title": "شركة تركيب عشب جداري بالطائف",
+      "code": "maint_line",
+      "fam": "grass"
+    },
+    {
+      "id": 12407,
+      "slug": "wall-grass-abha",
+      "title": "شركة تركيب عشب جداري بأبها",
+      "code": "maint_line",
+      "fam": "grass"
+    },
+    {
+      "id": 12794,
+      "slug": "furniture-shipping-mecca",
+      "title": "شركة شحن أثاث بمكة المكرمة",
+      "code": "maint_line",
+      "fam": null
+    }
+  ],
+  "word_buckets": {
+    "ar_ge_1100": 1686,
+    "ar_900_1099": 33,
+    "ar_lt_900": 36
+  }
+}
