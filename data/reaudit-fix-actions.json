@@ -1,0 +1,122 @@
+{
+  "drafted_exact_dups": [
+    {
+      "id": 12392,
+      "slug": "artificial-grass-grdn-riyadh",
+      "title": "شركة تركيب عشب صناعي بالرياض"
+    },
+    {
+      "id": 12393,
+      "slug": "artificial-grass-grdn-jeddah",
+      "title": "شركة تركيب عشب صناعي بجدة"
+    },
+    {
+      "id": 12394,
+      "slug": "artificial-grass-grdn-mecca",
+      "title": "شركة تركيب عشب صناعي بمكة المكرمة"
+    },
+    {
+      "id": 12395,
+      "slug": "artificial-grass-grdn-medina",
+      "title": "شركة تركيب عشب صناعي بالمدينة المنورة"
+    },
+    {
+      "id": 12396,
+      "slug": "artificial-grass-grdn-dammam",
+      "title": "شركة تركيب عشب صناعي بالدمام"
+    },
+    {
+      "id": 12397,
+      "slug": "artificial-grass-grdn-khobar",
+      "title": "شركة تركيب عشب صناعي بالخبر"
+    },
+    {
+      "id": 12398,
+      "slug": "artificial-grass-grdn-taif",
+      "title": "شركة تركيب عشب صناعي بالطائف"
+    },
+    {
+      "id": 12399,
+      "slug": "artificial-grass-grdn-abha",
+      "title": "شركة تركيب عشب صناعي بأبها"
+    },
+    {
+      "id": 12400,
+      "slug": "wall-grass-riyadh",
+      "title": "شركة تركيب عشب جداري بالرياض"
+    },
+    {
+      "id": 12401,
+      "slug": "wall-grass-jeddah",
+      "title": "شركة تركيب عشب جداري بجدة"
+    },
+    {
+      "id": 12402,
+      "slug": "wall-grass-mecca",
+      "title": "شركة تركيب عشب جداري بمكة المكرمة"
+    },
+    {
+      "id": 12403,
+      "slug": "wall-grass-medina",
+      "title": "شركة تركيب عشب جداري بالمدينة المنورة"
+    },
+    {
+      "id": 12404,
+      "slug": "wall-grass-dammam",
+      "title": "شركة تركيب عشب جداري بالدمام"
+    },
+    {
+      "id": 12405,
+      "slug": "wall-grass-khobar",
+      "title": "شركة تركيب عشب جداري بالخبر"
+    },
+    {
+      "id": 12406,
+      "slug": "wall-grass-taif",
+      "title": "شركة تركيب عشب جداري بالطائف"
+    },
+    {
+      "id": 12407,
+      "slug": "wall-grass-abha",
+      "title": "شركة تركيب عشب جداري بأبها"
+    },
+    {
+      "id": 10856,
+      "slug": "home-cleaning-riyadh",
+      "canonical_to": "https://www.rukn-eltatawer.com/sa/house-cleaning-in-riyadh/",
+      "reason": "title_cannibal"
+    },
+    {
+      "id": 10857,
+      "slug": "apartment-cleaning-riyadh",
+      "canonical_to": "https://www.rukn-eltatawer.com/sa/apartment-cleaning-in-riyadh/",
+      "reason": "title_cannibal"
+    },
+    {
+      "id": 10858,
+      "slug": "villa-cleaning-riyadh",
+      "canonical_to": "https://www.rukn-eltatawer.com/sa/sharikat-tanzif-filla-bilriyadh/",
+      "reason": "title_cannibal"
+    }
+  ],
+  "title_fixed": [],
+  "h1_to_h2": [
+    10603,
+    10604,
+    9315,
+    9316,
+    10274,
+    10292,
+    10293
+  ],
+  "post_call_added": [
+    9287,
+    9315,
+    9316,
+    10274,
+    10292,
+    10293
+  ],
+  "errors": [],
+  "at": "2026-09-05T05:42:48.443477+00:00"
+}

@@ -1,0 +1,473 @@
+{
+  "fixed": 52,
+  "items": [
+    {
+      "id": 12536,
+      "slug": "crawling-pest-control-riyadh",
+      "title": "شركة مكافحة الحشرات الزاحفة بالرياض",
+      "city": "الرياض",
+      "pest": "مكافحة الحشرات الزاحفة",
+      "words": 280,
+      "status": "future"
+    },
+    {
+      "id": 12538,
+      "slug": "crawling-pest-control-mecca",
+      "title": "شركة مكافحة الحشرات الزاحفة بمكة المكرمة",
+      "city": "مكة المكرمة",
+      "pest": "مكافحة الحشرات الزاحفة",
+      "words": 291,
+      "status": "future"
+    },
+    {
+      "id": 12541,
+      "slug": "crawling-pest-control-khobar",
+      "title": "شركة مكافحة الحشرات الزاحفة بالخبر",
+      "city": "الخبر",
+      "pest": "مكافحة الحشرات الزاحفة",
+      "words": 277,
+      "status": "future"
+    },
+    {
+      "id": 12542,
+      "slug": "crawling-pest-control-taif",
+      "title": "شركة مكافحة الحشرات الزاحفة بالطائف",
+      "city": "الطائف",
+      "pest": "مكافحة الحشرات الزاحفة",
+      "words": 282,
+      "status": "future"
+    },
+    {
+      "id": 12544,
+      "slug": "flying-pest-control-riyadh",
+      "title": "شركة مكافحة الحشرات الطائرة بالرياض",
+      "city": "الرياض",
+      "pest": "مكافحة الحشرات الطائرة",
+      "words": 280,
+      "status": "future"
+    },
+    {
+      "id": 12546,
+      "slug": "flying-pest-control-mecca",
+      "title": "شركة مكافحة الحشرات الطائرة بمكة المكرمة",
+      "city": "مكة المكرمة",
+      "pest": "مكافحة الحشرات الطائرة",
+      "words": 287,
+      "status": "future"
+    },
+    {
+      "id": 12549,
+      "slug": "flying-pest-control-khobar",
+      "title": "شركة مكافحة الحشرات الطائرة بالخبر",
+      "city": "الخبر",
+      "pest": "مكافحة الحشرات الطائرة",
+      "words": 275,
+      "status": "future"
+    },
+    {
+      "id": 12550,
+      "slug": "flying-pest-control-taif",
+      "title": "شركة مكافحة الحشرات الطائرة بالطائف",
+      "city": "الطائف",
+      "pest": "مكافحة الحشرات الطائرة",
+      "words": 278,
+      "status": "future"
+    },
+    {
+      "id": 12552,
+      "slug": "termite-control-riyadh",
+      "title": "شركة مكافحة النمل الأبيض (الرمة) بالرياض",
+      "city": "الرياض",
+      "pest": "مكافحة النمل الأبيض (الرمة)",
+      "words": 311,
+      "status": "publish"
+    },
+    {
+      "id": 12554,
+      "slug": "termite-control-mecca",
+      "title": "شركة مكافحة النمل الأبيض (الرمة) بمكة المكرمة",
+      "city": "مكة المكرمة",
+      "pest": "مكافحة النمل الأبيض (الرمة)",
+      "words": 321,
+      "status": "publish"
+    },
+    {
+      "id": 12557,
+      "slug": "termite-control-khobar",
+      "title": "شركة مكافحة النمل الأبيض (الرمة) بالخبر",
+      "city": "الخبر",
+      "pest": "مكافحة النمل الأبيض (الرمة)",
+      "words": 308,
+      "status": "publish"
+    },
+    {
+      "id": 12558,
+      "slug": "termite-control-taif",
+      "title": "شركة مكافحة النمل الأبيض (الرمة) بالطائف",
+      "city": "الطائف",
+      "pest": "مكافحة النمل الأبيض (الرمة)",
+      "words": 311,
+      "status": "publish"
+    },
+    {
+      "id": 12560,
+      "slug": "ant-control-riyadh",
+      "title": "شركة مكافحة النمل الأسود والأحمر بالرياض",
+      "city": "الرياض",
+      "pest": "مكافحة النمل",
+      "words": 278,
+      "status": "publish"
+    },
+    {
+      "id": 12562,
+      "slug": "ant-control-mecca",
+      "title": "شركة مكافحة النمل الأسود والأحمر بمكة المكرمة",
+      "city": "مكة المكرمة",
+      "pest": "مكافحة النمل",
+      "words": 287,
+      "status": "publish"
+    },
+    {
+      "id": 12565,
+      "slug": "ant-control-khobar",
+      "title": "شركة مكافحة النمل الأسود والأحمر بالخبر",
+      "city": "الخبر",
+      "pest": "مكافحة النمل",
+      "words": 274,
+      "status": "publish"
+    },
+    {
+      "id": 12566,
+      "slug": "ant-control-taif",
+      "title": "شركة مكافحة النمل الأسود والأحمر بالطائف",
+      "city": "الطائف",
+      "pest": "مكافحة النمل",
+      "words": 276,
+      "status": "publish"
+    },
+    {
+      "id": 12568,
+      "slug": "cockroach-control-riyadh",
+      "title": "شركة مكافحة الصراصير بالرياض",
+      "city": "الرياض",
+      "pest": "مكافحة الصراصير",
+      "words": 290,
+      "status": "publish"
+    },
+    {
+      "id": 12570,
+      "slug": "cockroach-control-mecca",
+      "title": "شركة مكافحة الصراصير بمكة المكرمة",
+      "city": "مكة المكرمة",
+      "pest": "مكافحة الصراصير",
+      "words": 297,
+      "status": "publish"
+    },
+    {
+      "id": 12573,
+      "slug": "cockroach-control-khobar",
+      "title": "شركة مكافحة الصراصير بالخبر",
+      "city": "الخبر",
+      "pest": "مكافحة الصراصير",
+      "words": 285,
+      "status": "publish"
+    },
+    {
+      "id": 12574,
+      "slug": "cockroach-control-taif",
+      "title": "شركة مكافحة الصراصير بالطائف",
+      "city": "الطائف",
+      "pest": "مكافحة الصراصير",
+      "words": 290,
+      "status": "publish"
+    },
+    {
+      "id": 12576,
+      "slug": "bed-bug-control-riyadh",
+      "title": "شركة مكافحة بق الفراش بالرياض",
+      "city": "الرياض",
+      "pest": "مكافحة بق الفراش",
+      "words": 294,
+      "status": "future"
+    },
+    {
+      "id": 12578,
+      "slug": "bed-bug-control-mecca",
+      "title": "شركة مكافحة بق الفراش بمكة المكرمة",
+      "city": "مكة المكرمة",
+      "pest": "مكافحة بق الفراش",
+      "words": 301,
+      "status": "future"
+    },
+    {
+      "id": 12581,
+      "slug": "bed-bug-control-khobar",
+      "title": "شركة مكافحة بق الفراش بالخبر",
+      "city": "الخبر",
+      "pest": "مكافحة بق الفراش",
+      "words": 291,
+      "status": "future"
+    },
+    {
+      "id": 12582,
+      "slug": "bed-bug-control-taif",
+      "title": "شركة مكافحة بق الفراش بالطائف",
+      "city": "الطائف",
+      "pest": "مكافحة بق الفراش",
+      "words": 294,
+      "status": "future"
+    },
+    {
+      "id": 12584,
+      "slug": "rodent-control-riyadh",
+      "title": "شركة مكافحة الفئران والقوارض بالرياض",
+      "city": "الرياض",
+      "pest": "مكافحة الفئران والقوارض",
+      "words": 284,
+      "status": "future"
+    },
+    {
+      "id": 12586,
+      "slug": "rodent-control-mecca",
+      "title": "شركة مكافحة الفئران والقوارض بمكة المكرمة",
+      "city": "مكة المكرمة",
+      "pest": "مكافحة الفئران والقوارض",
+      "words": 293,
+      "status": "future"
+    },
+    {
+      "id": 12589,
+      "slug": "rodent-control-khobar",
+      "title": "شركة مكافحة الفئران والقوارض بالخبر",
+      "city": "الخبر",
+      "pest": "مكافحة الفئران والقوارض",
+      "words": 281,
+      "status": "future"
+    },
+    {
+      "id": 12590,
+      "slug": "rodent-control-taif",
+      "title": "شركة مكافحة الفئران والقوارض بالطائف",
+      "city": "الطائف",
+      "pest": "مكافحة الفئران والقوارض",
+      "words": 284,
+      "status": "future"
+    },
+    {
+      "id": 12592,
+      "slug": "snake-control-riyadh",
+      "title": "شركة مكافحة الأفاعي بالرياض",
+      "city": "الرياض",
+      "pest": "مكافحة الحشرات الزاحفة",
+      "words": 281,
+      "status": "future"
+    },
+    {
+      "id": 12594,
+      "slug": "snake-control-mecca",
+      "title": "شركة مكافحة الأفاعي بمكة المكرمة",
+      "city": "مكة المكرمة",
+      "pest": "مكافحة الحشرات الزاحفة",
+      "words": 290,
+      "status": "future"
+    },
+    {
+      "id": 12597,
+      "slug": "snake-control-khobar",
+      "title": "شركة مكافحة الأفاعي بالخبر",
+      "city": "الخبر",
+      "pest": "مكافحة الحشرات الزاحفة",
+      "words": 276,
+      "status": "future"
+    },
+    {
+      "id": 12598,
+      "slug": "snake-control-taif",
+      "title": "شركة مكافحة الأفاعي بالطائف",
+      "city": "الطائف",
+      "pest": "مكافحة الحشرات الزاحفة",
+      "words": 281,
+      "status": "future"
+    },
+    {
+      "id": 12600,
+      "slug": "scorpion-control-riyadh",
+      "title": "شركة مكافحة العقارب بالرياض",
+      "city": "الرياض",
+      "pest": "مكافحة الحشرات الزاحفة",
+      "words": 281,
+      "status": "future"
+    },
+    {
+      "id": 12602,
+      "slug": "scorpion-control-mecca",
+      "title": "شركة مكافحة العقارب بمكة المكرمة",
+      "city": "مكة المكرمة",
+      "pest": "مكافحة الحشرات الزاحفة",
+      "words": 288,
+      "status": "future"
+    },
+    {
+      "id": 12605,
+      "slug": "scorpion-control-khobar",
+      "title": "شركة مكافحة العقارب بالخبر",
+      "city": "الخبر",
+      "pest": "مكافحة الحشرات الزاحفة",
+      "words": 276,
+      "status": "future"
+    },
+    {
+      "id": 12606,
+      "slug": "scorpion-control-taif",
+      "title": "شركة مكافحة العقارب بالطائف",
+      "city": "الطائف",
+      "pest": "مكافحة الحشرات الزاحفة",
+      "words": 281,
+      "status": "future"
+    },
+    {
+      "id": 12608,
+      "slug": "flea-control-riyadh",
+      "title": "شركة مكافحة البراغيث بالرياض",
+      "city": "الرياض",
+      "pest": "مكافحة الحشرات الزاحفة",
+      "words": 281,
+      "status": "future"
+    },
+    {
+      "id": 12610,
+      "slug": "flea-control-mecca",
+      "title": "شركة مكافحة البراغيث بمكة المكرمة",
+      "city": "مكة المكرمة",
+      "pest": "مكافحة الحشرات الزاحفة",
+      "words": 290,
+      "status": "future"
+    },
+    {
+      "id": 12613,
+      "slug": "flea-control-khobar",
+      "title": "شركة مكافحة البراغيث بالخبر",
+      "city": "الخبر",
+      "pest": "مكافحة الحشرات الزاحفة",
+      "words": 276,
+      "status": "future"
+    },
+    {
+      "id": 12614,
+      "slug": "flea-control-taif",
+      "title": "شركة مكافحة البراغيث بالطائف",
+      "city": "الطائف",
+      "pest": "مكافحة الحشرات الزاحفة",
+      "words": 279,
+      "status": "future"
+    },
+    {
+      "id": 12616,
+      "slug": "lizard-control-riyadh",
+      "title": "شركة مكافحة الوزغ (البرص) بالرياض",
+      "city": "الرياض",
+      "pest": "مكافحة الحشرات الزاحفة",
+      "words": 280,
+      "status": "future"
+    },
+    {
+      "id": 12618,
+      "slug": "lizard-control-mecca",
+      "title": "شركة مكافحة الوزغ (البرص) بمكة المكرمة",
+      "city": "مكة المكرمة",
+      "pest": "مكافحة الحشرات الزاحفة",
+      "words": 291,
+      "status": "future"
+    },
+    {
+      "id": 12621,
+      "slug": "lizard-control-khobar",
+      "title": "شركة مكافحة الوزغ (البرص) بالخبر",
+      "city": "الخبر",
+      "pest": "مكافحة الحشرات الزاحفة",
+      "words": 277,
+      "status": "future"
+    },
+    {
+      "id": 12622,
+      "slug": "lizard-control-taif",
+      "title": "شركة مكافحة الوزغ (البرص) بالطائف",
+      "city": "الطائف",
+      "pest": "مكافحة الحشرات الزاحفة",
+      "words": 282,
+      "status": "future"
+    },
+    {
+      "id": 12624,
+      "slug": "bird-control-riyadh",
+      "title": "شركة مكافحة الطيور بالرياض",
+      "city": "الرياض",
+      "pest": "مكافحة الحشرات",
+      "words": 272,
+      "status": "future"
+    },
+    {
+      "id": 12626,
+      "slug": "bird-control-mecca",
+      "title": "شركة مكافحة الطيور بمكة المكرمة",
+      "city": "مكة المكرمة",
+      "pest": "مكافحة الحشرات",
+      "words": 282,
+      "status": "future"
+    },
+    {
+      "id": 12629,
+      "slug": "bird-control-khobar",
+      "title": "شركة مكافحة الطيور بالخبر",
+      "city": "الخبر",
+      "pest": "مكافحة الحشرات",
+      "words": 270,
+      "status": "future"
+    },
+    {
+      "id": 12630,
+      "slug": "bird-control-taif",
+      "title": "شركة مكافحة الطيور بالطائف",
+      "city": "الطائف",
+      "pest": "مكافحة الحشرات",
+      "words": 274,
+      "status": "future"
+    },
+    {
+      "id": 12632,
+      "slug": "mosquito-fly-control-riyadh",
+      "title": "شركة مكافحة البعوض والذباب بالرياض",
+      "city": "الرياض",
+      "pest": "مكافحة الحشرات الطائرة",
+      "words": 280,
+      "status": "future"
+    },
+    {
+      "id": 12634,
+      "slug": "mosquito-fly-control-mecca",
+      "title": "شركة مكافحة البعوض والذباب بمكة المكرمة",
+      "city": "مكة المكرمة",
+      "pest": "مكافحة الحشرات الطائرة",
+      "words": 287,
+      "status": "future"
+    },
+    {
+      "id": 12637,
+      "slug": "mosquito-fly-control-khobar",
+      "title": "شركة مكافحة البعوض والذباب بالخبر",
+      "city": "الخبر",
+      "pest": "مكافحة الحشرات الطائرة",
+      "words": 277,
+      "status": "future"
+    },
+    {
+      "id": 12638,
+      "slug": "mosquito-fly-control-taif",
+      "title": "شركة مكافحة البعوض والذباب بالطائف",
+      "city": "الطائف",
+      "pest": "مكافحة الحشرات الطائرة",
+      "words": 280,
+      "status": "future"
+    }
+  ]
+}
