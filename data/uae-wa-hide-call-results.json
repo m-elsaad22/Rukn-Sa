@@ -1,0 +1,67 @@
+{
+  "wa": "+971586634710",
+  "hide_call": true,
+  "dump_keys": {
+    "phonenumber": "",
+    "whatsapp_number": "+971586634710",
+    "contact_number": "",
+    "copyrights": "حقوق النشر {%YEAR%} © جميع الحقوق محفوظة لصالح \"شركة ركن التطور - السعودية\"",
+    "kayan_country_sa_phone": "",
+    "kayan_country_sa_whatsapp": "971586634710",
+    "kayan_show_call_buttons": "0",
+    "hide__floating__call": "1",
+    "sitename": "شركة ركن التطور - السعودية"
+  },
+  "verify": {
+    "https://www.rukn-eltatawer.com/sa/?v=final": {
+      "wa": [
+        "971586634710"
+      ],
+      "tel": [],
+      "has_056": false,
+      "has_011": false,
+      "has_966sa": false,
+      "has_uae": true,
+      "title": "شركة ركن التطور | صيانة عامة وكشف تسربات المياه والعزل في السعودية",
+      "call_show_false": true
+    },
+    "https://www.rukn-eltatawer.com/sa/cities/riyadh/?v=final": {
+      "wa": [
+        "971586634710"
+      ],
+      "tel": [],
+      "has_056": false,
+      "has_011": false,
+      "has_966sa": false,
+      "has_uae": true,
+      "title": "الرياض | ركن التطور السعودية",
+      "call_show_false": true
+    },
+    "https://www.rukn-eltatawer.com/sa/en-home-cleaning-riyadh/?v=final": {
+      "wa": [
+        "971586634710"
+      ],
+      "tel": [],
+      "has_056": false,
+      "has_011": false,
+      "has_966sa": false,
+      "has_uae": true,
+      "title": "Home Cleaning in Riyadh | Rukn Eltatawer",
+      "call_show_false": true
+    },
+    "https://www.rukn-eltatawer.com/sa/water-leak-detection-riyadh/?v=final": {
+      "wa": [
+        "971586634710"
+      ],
+      "tel": [],
+      "has_056": false,
+      "has_011": false,
+      "has_966sa": false,
+      "has_uae": true,
+      "title": "شركة كشف تسربات المياه بالرياض",
+      "call_show_false": true
+    }
+  },
+  "content_scrub_partial": "~380 posts + all pages via script before stop; frontend filter strips remaining on output",
+  "note": "Interim until Saudi number is available"
+}
