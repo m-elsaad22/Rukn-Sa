@@ -1,0 +1,253 @@
+{
+  "note": "SEO titles intentionally untouched",
+  "phone": "0568060309",
+  "cities": [
+    {
+      "id": 23070,
+      "slug": "riyadh",
+      "aw": 402
+    },
+    {
+      "id": 23071,
+      "slug": "jeddah",
+      "aw": 401
+    },
+    {
+      "id": 23072,
+      "slug": "makkah",
+      "aw": 413
+    },
+    {
+      "id": 23073,
+      "slug": "madinah",
+      "aw": 409
+    },
+    {
+      "id": 23074,
+      "slug": "dammam",
+      "aw": 394
+    },
+    {
+      "id": 23075,
+      "slug": "khobar",
+      "aw": 395
+    },
+    {
+      "id": 23076,
+      "slug": "taif",
+      "aw": 400
+    },
+    {
+      "id": 23077,
+      "slug": "abha",
+      "aw": 402
+    }
+  ],
+  "core_pages": [
+    {
+      "id": 7465,
+      "label": "المدن",
+      "aw": 145
+    }
+  ],
+  "post_call_fixed": [
+    12801,
+    12804
+  ],
+  "thin": [
+    {
+      "id": 10880,
+      "slug": "duct-cleaning-riyadh",
+      "aw": 675
+    },
+    {
+      "id": 10906,
+      "slug": "duct-cleaning-jeddah",
+      "aw": 659
+    },
+    {
+      "id": 10932,
+      "slug": "duct-cleaning-mecca",
+      "aw": 624
+    },
+    {
+      "id": 10958,
+      "slug": "duct-cleaning-medina",
+      "aw": 625
+    },
+    {
+      "id": 10984,
+      "slug": "duct-cleaning-dammam",
+      "aw": 753
+    },
+    {
+      "id": 11010,
+      "slug": "duct-cleaning-khobar",
+      "aw": 663
+    },
+    {
+      "id": 11036,
+      "slug": "duct-cleaning-taif",
+      "aw": 605
+    },
+    {
+      "id": 12792,
+      "slug": "furniture-shipping-riyadh",
+      "aw": 630
+    },
+    {
+      "id": 12793,
+      "slug": "furniture-shipping-jeddah",
+      "aw": 611
+    },
+    {
+      "id": 12795,
+      "slug": "furniture-shipping-medina",
+      "aw": 573
+    },
+    {
+      "id": 12796,
+      "slug": "furniture-shipping-dammam",
+      "aw": 642
+    },
+    {
+      "id": 12797,
+      "slug": "furniture-shipping-khobar",
+      "aw": 607
+    },
+    {
+      "id": 12798,
+      "slug": "furniture-shipping-taif",
+      "aw": 586
+    },
+    {
+      "id": 12799,
+      "slug": "furniture-shipping-abha",
+      "aw": 610
+    },
+    {
+      "id": 12802,
+      "slug": "car-shipping-mecca",
+      "aw": 733
+    },
+    {
+      "id": 12803,
+      "slug": "car-shipping-medina",
+      "aw": 681
+    },
+    {
+      "id": 12805,
+      "slug": "car-shipping-khobar",
+      "aw": 706
+    },
+    {
+      "id": 12806,
+      "slug": "car-shipping-taif",
+      "aw": 666
+    },
+    {
+      "id": 12807,
+      "slug": "car-shipping-abha",
+      "aw": 648
+    },
+    {
+      "id": 12816,
+      "slug": "domestic-shipping-riyadh",
+      "aw": 614
+    },
+    {
+      "id": 12817,
+      "slug": "domestic-shipping-jeddah",
+      "aw": 633
+    },
+    {
+      "id": 12818,
+      "slug": "domestic-shipping-mecca",
+      "aw": 565
+    },
+    {
+      "id": 12819,
+      "slug": "domestic-shipping-medina",
+      "aw": 522
+    },
+    {
+      "id": 12820,
+      "slug": "domestic-shipping-dammam",
+      "aw": 744
+    },
+    {
+      "id": 12821,
+      "slug": "domestic-shipping-khobar",
+      "aw": 606
+    },
+    {
+      "id": 12822,
+      "slug": "domestic-shipping-taif",
+      "aw": 526
+    },
+    {
+      "id": 12823,
+      "slug": "domestic-shipping-abha",
+      "aw": 533
+    },
+    {
+      "id": 13104,
+      "slug": "ac-cleaning-washing-riyadh",
+      "aw": 652
+    },
+    {
+      "id": 13105,
+      "slug": "ac-cleaning-washing-jeddah",
+      "aw": 627
+    },
+    {
+      "id": 13106,
+      "slug": "ac-cleaning-washing-mecca",
+      "aw": 574
+    },
+    {
+      "id": 13107,
+      "slug": "ac-cleaning-washing-medina",
+      "aw": 572
+    },
+    {
+      "id": 13108,
+      "slug": "ac-cleaning-washing-dammam",
+      "aw": 542
+    },
+    {
+      "id": 13109,
+      "slug": "ac-cleaning-washing-khobar",
+      "aw": 543
+    },
+    {
+      "id": 13110,
+      "slug": "ac-cleaning-washing-taif",
+      "aw": 567
+    },
+    {
+      "id": 13111,
+      "slug": "ac-cleaning-washing-abha",
+      "aw": 618
+    }
+  ],
+  "bleed_fixed": 1,
+  "bleed_samples": [
+    {
+      "id": 12794,
+      "slug": "furniture-shipping-mecca"
+    }
+  ],
+  "seo_titles": "untouched_per_user",
+  "publish_dup_titles_after": 0,
+  "city_aw_after": "~460-480",
+  "thin_avg_aw_after": 774,
+  "snippet12_wa_rewrite": "expanded to catch wa.me/0568060309",
+  "frontend_verify": {
+    "home_wa": "966568060309",
+    "home_tel": "0568060309",
+    "no_971": true,
+    "en_wa": "966568060309",
+    "en_title_pollution_left": true
+  }
+}
