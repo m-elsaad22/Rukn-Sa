@@ -1,0 +1,113 @@
+{
+  "at": "2026-10-03T22:52:48.710369+00:00",
+  "status": {
+    "publish": 1759,
+    "future": 0,
+    "draft": 0
+  },
+  "critical": [
+    {
+      "code": "TITLE_POLLUTION",
+      "desc": "عناوين <title> ملوثة بـ 01151481000 و«الإعلان للإيجار»",
+      "evidence": "77/80 عينة من sitemap",
+      "sev": "critical"
+    },
+    {
+      "code": "WRONG_NAP_SNIPPET15",
+      "desc": "Snippet #15 يفرض واتساب إماراتي 971586634710 ويفرغ هواتف السعودية ويخفي زر الاتصال",
+      "sev": "critical"
+    },
+    {
+      "code": "MISSING_CORRECT_PHONE",
+      "desc": "الرقم الصحيح 0568060309 غير ظاهر في عيّنة 80 صفحة",
+      "sev": "critical"
+    },
+    {
+      "code": "EN_NOINDEX",
+      "desc": "Snippet #16 يفرض noindex على كل مسارات /en/",
+      "sev": "critical"
+    },
+    {
+      "code": "EN_CONTENT_CORRUPTED",
+      "desc": "صفحات EN الثلاثة أصبحت عربية شبه قالب مع ~167–185 كلمة إنجليزية فقط",
+      "sev": "critical"
+    }
+  ],
+  "high": [
+    {
+      "code": "DUP_TITLES",
+      "count": 35,
+      "desc": "عناوين مكررة حية بما فيها مكررات العشب والتنظيف التي كانت مسودة"
+    },
+    {
+      "code": "THIN_HUB_PAGES",
+      "desc": "صفحات الأسعار/المدن/من نحن/تواصل/المدن الفرعية ضعيفة جداً (50–160 كلمة)"
+    },
+    {
+      "code": "TOPIC_MISMATCH",
+      "count": 39,
+      "by": {
+        "insul": 19,
+        "move": 12,
+        "plumb": 8
+      }
+    },
+    {
+      "code": "MASS_PUBLISH",
+      "desc": "كل المقالات منشورة دفعة واحدة (1759) بدون طابور مستقبلي — ضغط فهرسة"
+    }
+  ],
+  "medium": [
+    {
+      "code": "BLEED_PHRASES",
+      "count": 30,
+      "by": {
+        "ac_network": 5,
+        "maint_line": 17,
+        "network_stress": 2,
+        "maint_failures": 2,
+        "plumb_bleed": 2,
+        "roof_bleed": 2
+      }
+    },
+    {
+      "code": "THIN_POSTS",
+      "count": 38
+    },
+    {
+      "code": "NO_POST_CALL",
+      "count": 2
+    },
+    {
+      "code": "SCHEMA_PHONE_EMPTY",
+      "desc": "عيّنات HTML بدون telephone في JSON-LD"
+    }
+  ],
+  "ok": [
+    "لا هواتف placeholders قديمة 01556644443 داخل محتوى REST",
+    "لا قالب دليل شامل 2026",
+    "لا تطابق محتوى حرفي تام",
+    "robots /sa وsitemap موجودان",
+    "CPT services قوية (~2100 كلمة)",
+    "معظم المقالات العربية ≥1100 كلمة (1686/1759)"
+  ],
+  "gaps": [
+    "لا موقع إنجليزي حقيقي (3 صفحات فقط وتالفة/noindex)",
+    "رقم السعودية الصحيح غير مستخدم في NAP/الواجهة",
+    "صفحات المدن الجديدة /cities/{city}/ شبه فارغة",
+    "hreflang غير موجود لمعظم المقالات العربية"
+  ],
+  "counts": {
+    "dup_titles": 35,
+    "thin": 38,
+    "mismatches": 39,
+    "bleed": 30,
+    "word_buckets": {
+      "ar_ge_1100": 1686,
+      "ar_900_1099": 33,
+      "ar_lt_900": 36
+    },
+    "en_posts": 4,
+    "tech_issues": 21
+  }
+}
