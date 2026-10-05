@@ -1,0 +1,1287 @@
+{
+  "wa": "971586634710",
+  "note": "SEO titles untouched; call remains hidden per current NAP policy",
+  "thin_enriched": [
+    {
+      "id": 14834,
+      "slug": "en-roof-waterproofing-riyadh",
+      "ew": 1013
+    },
+    {
+      "id": 14835,
+      "slug": "en-home-cleaning-riyadh",
+      "ew": 1021
+    },
+    {
+      "id": 14833,
+      "slug": "en-water-leak-detection-riyadh",
+      "ew": 1018
+    },
+    {
+      "id": 12822,
+      "slug": "domestic-shipping-taif",
+      "aw": 795
+    },
+    {
+      "id": 12819,
+      "slug": "domestic-shipping-medina",
+      "aw": 884
+    },
+    {
+      "id": 12823,
+      "slug": "domestic-shipping-abha",
+      "aw": 870
+    },
+    {
+      "id": 13108,
+      "slug": "ac-cleaning-washing-dammam",
+      "aw": 890
+    },
+    {
+      "id": 13109,
+      "slug": "ac-cleaning-washing-khobar",
+      "aw": 893
+    },
+    {
+      "id": 13110,
+      "slug": "ac-cleaning-washing-taif",
+      "aw": 914
+    },
+    {
+      "id": 12818,
+      "slug": "domestic-shipping-mecca",
+      "aw": 864
+    },
+    {
+      "id": 12795,
+      "slug": "furniture-shipping-medina",
+      "aw": 900
+    },
+    {
+      "id": 13107,
+      "slug": "ac-cleaning-washing-medina",
+      "aw": 949
+    },
+    {
+      "id": 13106,
+      "slug": "ac-cleaning-washing-mecca",
+      "aw": 954
+    },
+    {
+      "id": 12798,
+      "slug": "furniture-shipping-taif",
+      "aw": 888
+    },
+    {
+      "id": 12800,
+      "slug": "car-shipping-riyadh",
+      "aw": 1000
+    },
+    {
+      "id": 11036,
+      "slug": "duct-cleaning-taif",
+      "aw": 925
+    },
+    {
+      "id": 12797,
+      "slug": "furniture-shipping-khobar",
+      "aw": 907
+    },
+    {
+      "id": 12821,
+      "slug": "domestic-shipping-khobar",
+      "aw": 943
+    },
+    {
+      "id": 12799,
+      "slug": "furniture-shipping-abha",
+      "aw": 909
+    },
+    {
+      "id": 12793,
+      "slug": "furniture-shipping-jeddah",
+      "aw": 914
+    },
+    {
+      "id": 12816,
+      "slug": "domestic-shipping-riyadh",
+      "aw": 885
+    },
+    {
+      "id": 13111,
+      "slug": "ac-cleaning-washing-abha",
+      "aw": 968
+    },
+    {
+      "id": 13105,
+      "slug": "ac-cleaning-washing-jeddah",
+      "aw": 974
+    },
+    {
+      "id": 12792,
+      "slug": "furniture-shipping-riyadh",
+      "aw": 930
+    },
+    {
+      "id": 10932,
+      "slug": "duct-cleaning-mecca",
+      "aw": 970
+    },
+    {
+      "id": 10958,
+      "slug": "duct-cleaning-medina",
+      "aw": 973
+    },
+    {
+      "id": 12817,
+      "slug": "domestic-shipping-jeddah",
+      "aw": 971
+    },
+    {
+      "id": 12796,
+      "slug": "furniture-shipping-dammam",
+      "aw": 945
+    },
+    {
+      "id": 12807,
+      "slug": "car-shipping-abha",
+      "aw": 975
+    },
+    {
+      "id": 13104,
+      "slug": "ac-cleaning-washing-riyadh",
+      "aw": 1003
+    },
+    {
+      "id": 10906,
+      "slug": "duct-cleaning-jeddah",
+      "aw": 976
+    },
+    {
+      "id": 11010,
+      "slug": "duct-cleaning-khobar",
+      "aw": 980
+    },
+    {
+      "id": 12806,
+      "slug": "car-shipping-taif",
+      "aw": 992
+    },
+    {
+      "id": 10880,
+      "slug": "duct-cleaning-riyadh",
+      "aw": 995
+    },
+    {
+      "id": 12803,
+      "slug": "car-shipping-medina",
+      "aw": 1006
+    },
+    {
+      "id": 12805,
+      "slug": "car-shipping-khobar",
+      "aw": 1006
+    },
+    {
+      "id": 12802,
+      "slug": "car-shipping-mecca",
+      "aw": 993
+    },
+    {
+      "id": 12820,
+      "slug": "domestic-shipping-dammam",
+      "aw": 1024
+    },
+    {
+      "id": 10984,
+      "slug": "duct-cleaning-dammam",
+      "aw": 1013
+    },
+    {
+      "id": 12794,
+      "slug": "furniture-shipping-mecca",
+      "aw": 1129
+    },
+    {
+      "id": 10925,
+      "slug": "curtain-cleaning-mecca",
+      "aw": 1154
+    },
+    {
+      "id": 10933,
+      "slug": "chimney-cleaning-mecca",
+      "aw": 1160
+    }
+  ],
+  "piano_fixed": [
+    {
+      "id": 12481,
+      "city": "jeddah",
+      "aw": 1014
+    },
+    {
+      "id": 12484,
+      "city": "dammam",
+      "aw": 1014
+    },
+    {
+      "id": 12485,
+      "city": "khobar",
+      "aw": 1014
+    },
+    {
+      "id": 12486,
+      "city": "taif",
+      "aw": 1014
+    }
+  ],
+  "diversified": [
+    {
+      "id": 9283,
+      "slug": "water-leak-detection-jeddah-center",
+      "cluster_n": 11
+    },
+    {
+      "id": 9289,
+      "slug": "water-leak-detection-madinah",
+      "cluster_n": 11
+    },
+    {
+      "id": 9294,
+      "slug": "water-leak-detection-khamis-mushait",
+      "cluster_n": 11
+    },
+    {
+      "id": 9296,
+      "slug": "water-leak-detection-tabuk",
+      "cluster_n": 11
+    },
+    {
+      "id": 9297,
+      "slug": "water-leak-detection-buraidah",
+      "cluster_n": 11
+    },
+    {
+      "id": 9299,
+      "slug": "water-leak-detection-hail",
+      "cluster_n": 11
+    },
+    {
+      "id": 9300,
+      "slug": "water-leak-detection-najran",
+      "cluster_n": 11
+    },
+    {
+      "id": 9301,
+      "slug": "water-leak-detection-jazan",
+      "cluster_n": 11
+    },
+    {
+      "id": 9305,
+      "slug": "water-leak-detection-yanbu",
+      "cluster_n": 11
+    },
+    {
+      "id": 9308,
+      "slug": "water-leak-detection-al-ahsa",
+      "cluster_n": 11
+    },
+    {
+      "id": 9311,
+      "slug": "water-leak-detection-jubail",
+      "cluster_n": 11
+    },
+    {
+      "id": 10278,
+      "slug": "sharikat-tanzif-filla-bilriyadh",
+      "cluster_n": 8
+    },
+    {
+      "id": 10884,
+      "slug": "villa-cleaning-jeddah",
+      "cluster_n": 8
+    },
+    {
+      "id": 10910,
+      "slug": "villa-cleaning-mecca",
+      "cluster_n": 8
+    },
+    {
+      "id": 10936,
+      "slug": "villa-cleaning-medina",
+      "cluster_n": 8
+    },
+    {
+      "id": 10962,
+      "slug": "villa-cleaning-dammam",
+      "cluster_n": 8
+    },
+    {
+      "id": 10988,
+      "slug": "villa-cleaning-khobar",
+      "cluster_n": 8
+    },
+    {
+      "id": 11014,
+      "slug": "villa-cleaning-taif",
+      "cluster_n": 8
+    },
+    {
+      "id": 11040,
+      "slug": "villa-cleaning-abha",
+      "cluster_n": 8
+    },
+    {
+      "id": 10280,
+      "slug": "apartment-cleaning-in-riyadh",
+      "cluster_n": 8
+    },
+    {
+      "id": 10883,
+      "slug": "apartment-cleaning-jeddah",
+      "cluster_n": 8
+    },
+    {
+      "id": 10909,
+      "slug": "apartment-cleaning-mecca",
+      "cluster_n": 8
+    },
+    {
+      "id": 10935,
+      "slug": "apartment-cleaning-medina",
+      "cluster_n": 8
+    },
+    {
+      "id": 10961,
+      "slug": "apartment-cleaning-dammam",
+      "cluster_n": 8
+    },
+    {
+      "id": 10987,
+      "slug": "apartment-cleaning-khobar",
+      "cluster_n": 8
+    },
+    {
+      "id": 11013,
+      "slug": "apartment-cleaning-taif",
+      "cluster_n": 8
+    },
+    {
+      "id": 11039,
+      "slug": "apartment-cleaning-abha",
+      "cluster_n": 8
+    },
+    {
+      "id": 10859,
+      "slug": "palace-cleaning-riyadh",
+      "cluster_n": 8
+    },
+    {
+      "id": 10885,
+      "slug": "palace-cleaning-jeddah",
+      "cluster_n": 8
+    },
+    {
+      "id": 10911,
+      "slug": "palace-cleaning-mecca",
+      "cluster_n": 8
+    },
+    {
+      "id": 10937,
+      "slug": "palace-cleaning-medina",
+      "cluster_n": 8
+    },
+    {
+      "id": 10963,
+      "slug": "palace-cleaning-dammam",
+      "cluster_n": 8
+    },
+    {
+      "id": 10989,
+      "slug": "palace-cleaning-khobar",
+      "cluster_n": 8
+    },
+    {
+      "id": 11015,
+      "slug": "palace-cleaning-taif",
+      "cluster_n": 8
+    },
+    {
+      "id": 11041,
+      "slug": "palace-cleaning-abha",
+      "cluster_n": 8
+    },
+    {
+      "id": 10861,
+      "slug": "majlis-cleaning-riyadh",
+      "cluster_n": 8
+    },
+    {
+      "id": 10887,
+      "slug": "majlis-cleaning-jeddah",
+      "cluster_n": 8
+    },
+    {
+      "id": 10913,
+      "slug": "majlis-cleaning-mecca",
+      "cluster_n": 8
+    },
+    {
+      "id": 10939,
+      "slug": "majlis-cleaning-medina",
+      "cluster_n": 8
+    },
+    {
+      "id": 10965,
+      "slug": "majlis-cleaning-dammam",
+      "cluster_n": 8
+    },
+    {
+      "id": 10991,
+      "slug": "majlis-cleaning-khobar",
+      "cluster_n": 8
+    },
+    {
+      "id": 11017,
+      "slug": "majlis-cleaning-taif",
+      "cluster_n": 8
+    },
+    {
+      "id": 11043,
+      "slug": "majlis-cleaning-abha",
+      "cluster_n": 8
+    },
+    {
+      "id": 10864,
+      "slug": "mall-cleaning-riyadh",
+      "cluster_n": 8
+    },
+    {
+      "id": 10890,
+      "slug": "mall-cleaning-jeddah",
+      "cluster_n": 8
+    },
+    {
+      "id": 10916,
+      "slug": "mall-cleaning-mecca",
+      "cluster_n": 8
+    },
+    {
+      "id": 10942,
+      "slug": "mall-cleaning-medina",
+      "cluster_n": 8
+    },
+    {
+      "id": 10968,
+      "slug": "mall-cleaning-dammam",
+      "cluster_n": 8
+    },
+    {
+      "id": 10994,
+      "slug": "mall-cleaning-khobar",
+      "cluster_n": 8
+    },
+    {
+      "id": 11020,
+      "slug": "mall-cleaning-taif",
+      "cluster_n": 8
+    },
+    {
+      "id": 11046,
+      "slug": "mall-cleaning-abha",
+      "cluster_n": 8
+    },
+    {
+      "id": 10865,
+      "slug": "pool-cleaning-riyadh",
+      "cluster_n": 8
+    },
+    {
+      "id": 10891,
+      "slug": "pool-cleaning-jeddah",
+      "cluster_n": 8
+    },
+    {
+      "id": 10917,
+      "slug": "pool-cleaning-mecca",
+      "cluster_n": 8
+    },
+    {
+      "id": 10943,
+      "slug": "pool-cleaning-medina",
+      "cluster_n": 8
+    },
+    {
+      "id": 10969,
+      "slug": "pool-cleaning-dammam",
+      "cluster_n": 8
+    },
+    {
+      "id": 10995,
+      "slug": "pool-cleaning-khobar",
+      "cluster_n": 8
+    },
+    {
+      "id": 11021,
+      "slug": "pool-cleaning-taif",
+      "cluster_n": 8
+    },
+    {
+      "id": 11047,
+      "slug": "pool-cleaning-abha",
+      "cluster_n": 8
+    },
+    {
+      "id": 10867,
+      "slug": "bathroom-cleaning-riyadh",
+      "cluster_n": 8
+    },
+    {
+      "id": 10893,
+      "slug": "bathroom-cleaning-jeddah",
+      "cluster_n": 8
+    },
+    {
+      "id": 10919,
+      "slug": "bathroom-cleaning-mecca",
+      "cluster_n": 8
+    },
+    {
+      "id": 10945,
+      "slug": "bathroom-cleaning-medina",
+      "cluster_n": 8
+    },
+    {
+      "id": 10971,
+      "slug": "bathroom-cleaning-dammam",
+      "cluster_n": 8
+    },
+    {
+      "id": 10997,
+      "slug": "bathroom-cleaning-khobar",
+      "cluster_n": 8
+    },
+    {
+      "id": 11023,
+      "slug": "bathroom-cleaning-taif",
+      "cluster_n": 8
+    },
+    {
+      "id": 11049,
+      "slug": "bathroom-cleaning-abha",
+      "cluster_n": 8
+    },
+    {
+      "id": 10868,
+      "slug": "water-tank-cleaning-riyadh",
+      "cluster_n": 8
+    },
+    {
+      "id": 10894,
+      "slug": "water-tank-cleaning-jeddah",
+      "cluster_n": 8
+    },
+    {
+      "id": 10920,
+      "slug": "water-tank-cleaning-mecca",
+      "cluster_n": 8
+    },
+    {
+      "id": 10946,
+      "slug": "water-tank-cleaning-medina",
+      "cluster_n": 8
+    },
+    {
+      "id": 10972,
+      "slug": "water-tank-cleaning-dammam",
+      "cluster_n": 8
+    },
+    {
+      "id": 10998,
+      "slug": "water-tank-cleaning-khobar",
+      "cluster_n": 8
+    },
+    {
+      "id": 11024,
+      "slug": "water-tank-cleaning-taif",
+      "cluster_n": 8
+    },
+    {
+      "id": 11050,
+      "slug": "water-tank-cleaning-abha",
+      "cluster_n": 8
+    },
+    {
+      "id": 10869,
+      "slug": "diesel-tank-cleaning-riyadh",
+      "cluster_n": 8
+    },
+    {
+      "id": 10895,
+      "slug": "diesel-tank-cleaning-jeddah",
+      "cluster_n": 8
+    },
+    {
+      "id": 10921,
+      "slug": "diesel-tank-cleaning-mecca",
+      "cluster_n": 8
+    },
+    {
+      "id": 10947,
+      "slug": "diesel-tank-cleaning-medina",
+      "cluster_n": 8
+    },
+    {
+      "id": 10973,
+      "slug": "diesel-tank-cleaning-dammam",
+      "cluster_n": 8
+    },
+    {
+      "id": 10999,
+      "slug": "diesel-tank-cleaning-khobar",
+      "cluster_n": 8
+    },
+    {
+      "id": 11025,
+      "slug": "diesel-tank-cleaning-taif",
+      "cluster_n": 8
+    },
+    {
+      "id": 11051,
+      "slug": "diesel-tank-cleaning-abha",
+      "cluster_n": 8
+    },
+    {
+      "id": 10870,
+      "slug": "carpet-cleaning-riyadh",
+      "cluster_n": 8
+    },
+    {
+      "id": 10896,
+      "slug": "carpet-cleaning-jeddah",
+      "cluster_n": 8
+    },
+    {
+      "id": 10922,
+      "slug": "carpet-cleaning-mecca",
+      "cluster_n": 8
+    },
+    {
+      "id": 10948,
+      "slug": "carpet-cleaning-medina",
+      "cluster_n": 8
+    },
+    {
+      "id": 10974,
+      "slug": "carpet-cleaning-dammam",
+      "cluster_n": 8
+    },
+    {
+      "id": 11000,
+      "slug": "carpet-cleaning-khobar",
+      "cluster_n": 8
+    },
+    {
+      "id": 11026,
+      "slug": "carpet-cleaning-taif",
+      "cluster_n": 8
+    },
+    {
+      "id": 11052,
+      "slug": "carpet-cleaning-abha",
+      "cluster_n": 8
+    },
+    {
+      "id": 10872,
+      "slug": "sofa-cleaning-riyadh",
+      "cluster_n": 8
+    },
+    {
+      "id": 10898,
+      "slug": "sofa-cleaning-jeddah",
+      "cluster_n": 8
+    },
+    {
+      "id": 10924,
+      "slug": "sofa-cleaning-mecca",
+      "cluster_n": 8
+    },
+    {
+      "id": 10950,
+      "slug": "sofa-cleaning-medina",
+      "cluster_n": 8
+    },
+    {
+      "id": 10976,
+      "slug": "sofa-cleaning-dammam",
+      "cluster_n": 8
+    },
+    {
+      "id": 11002,
+      "slug": "sofa-cleaning-khobar",
+      "cluster_n": 8
+    },
+    {
+      "id": 11028,
+      "slug": "sofa-cleaning-taif",
+      "cluster_n": 8
+    },
+    {
+      "id": 11054,
+      "slug": "sofa-cleaning-abha",
+      "cluster_n": 8
+    },
+    {
+      "id": 10875,
+      "slug": "marble-polishing-riyadh",
+      "cluster_n": 8
+    },
+    {
+      "id": 10901,
+      "slug": "marble-polishing-jeddah",
+      "cluster_n": 8
+    },
+    {
+      "id": 10927,
+      "slug": "marble-polishing-mecca",
+      "cluster_n": 8
+    },
+    {
+      "id": 10953,
+      "slug": "marble-polishing-medina",
+      "cluster_n": 8
+    },
+    {
+      "id": 10979,
+      "slug": "marble-polishing-dammam",
+      "cluster_n": 8
+    },
+    {
+      "id": 11005,
+      "slug": "marble-polishing-khobar",
+      "cluster_n": 8
+    },
+    {
+      "id": 11031,
+      "slug": "marble-polishing-taif",
+      "cluster_n": 8
+    },
+    {
+      "id": 11057,
+      "slug": "marble-polishing-abha",
+      "cluster_n": 8
+    },
+    {
+      "id": 10878,
+      "slug": "garage-cleaning-riyadh",
+      "cluster_n": 8
+    },
+    {
+      "id": 10904,
+      "slug": "garage-cleaning-jeddah",
+      "cluster_n": 8
+    },
+    {
+      "id": 10930,
+      "slug": "garage-cleaning-mecca",
+      "cluster_n": 8
+    },
+    {
+      "id": 10956,
+      "slug": "garage-cleaning-medina",
+      "cluster_n": 8
+    },
+    {
+      "id": 10982,
+      "slug": "garage-cleaning-dammam",
+      "cluster_n": 8
+    },
+    {
+      "id": 11008,
+      "slug": "garage-cleaning-khobar",
+      "cluster_n": 8
+    },
+    {
+      "id": 11034,
+      "slug": "garage-cleaning-taif",
+      "cluster_n": 8
+    },
+    {
+      "id": 11060,
+      "slug": "garage-cleaning-abha",
+      "cluster_n": 8
+    },
+    {
+      "id": 10879,
+      "slug": "deep-cleaning-riyadh",
+      "cluster_n": 8
+    },
+    {
+      "id": 10905,
+      "slug": "deep-cleaning-jeddah",
+      "cluster_n": 8
+    },
+    {
+      "id": 10931,
+      "slug": "deep-cleaning-mecca",
+      "cluster_n": 8
+    },
+    {
+      "id": 10957,
+      "slug": "deep-cleaning-medina",
+      "cluster_n": 8
+    },
+    {
+      "id": 10983,
+      "slug": "deep-cleaning-dammam",
+      "cluster_n": 8
+    },
+    {
+      "id": 11009,
+      "slug": "deep-cleaning-khobar",
+      "cluster_n": 8
+    },
+    {
+      "id": 11035,
+      "slug": "deep-cleaning-taif",
+      "cluster_n": 8
+    },
+    {
+      "id": 11061,
+      "slug": "deep-cleaning-abha",
+      "cluster_n": 8
+    }
+  ],
+  "hubs": [
+    {
+      "id": 7460,
+      "label": "about",
+      "aw": 351
+    },
+    {
+      "id": 7461,
+      "label": "contact",
+      "aw": 353
+    },
+    {
+      "id": 7465,
+      "label": "cities",
+      "aw": 353
+    },
+    {
+      "id": 7467,
+      "label": "faq",
+      "aw": 355
+    },
+    {
+      "id": 7463,
+      "label": "services",
+      "aw": 359
+    },
+    {
+      "id": 23070,
+      "label": "riyadh",
+      "aw": 560
+    },
+    {
+      "id": 23071,
+      "label": "jeddah",
+      "aw": 560
+    },
+    {
+      "id": 23072,
+      "label": "makkah",
+      "aw": 555
+    },
+    {
+      "id": 23073,
+      "label": "madinah",
+      "aw": 553
+    },
+    {
+      "id": 23074,
+      "label": "dammam",
+      "aw": 560
+    },
+    {
+      "id": 23075,
+      "label": "khobar",
+      "aw": 560
+    },
+    {
+      "id": 23076,
+      "label": "taif",
+      "aw": 560
+    },
+    {
+      "id": 23077,
+      "label": "abha",
+      "aw": 559
+    }
+  ],
+  "extended_city_pages": [
+    {
+      "id": 23796,
+      "slug": "tabuk",
+      "created": true,
+      "aw": 562
+    },
+    {
+      "id": 23797,
+      "slug": "buraidah",
+      "created": true,
+      "aw": 561
+    },
+    {
+      "id": 23798,
+      "slug": "khamis-mushait",
+      "created": true,
+      "aw": 554
+    },
+    {
+      "id": 23799,
+      "slug": "jazan",
+      "created": true,
+      "aw": 560
+    },
+    {
+      "id": 23800,
+      "slug": "ahsa",
+      "created": true,
+      "aw": 561
+    },
+    {
+      "id": 23801,
+      "slug": "hail",
+      "created": true,
+      "aw": 561
+    },
+    {
+      "id": 23802,
+      "slug": "yanbu",
+      "created": true,
+      "aw": 561
+    },
+    {
+      "id": 23803,
+      "slug": "jubail",
+      "created": true,
+      "aw": 561
+    }
+  ],
+  "extended_service_posts": [
+    {
+      "id": 9296,
+      "slug": "water-leak-detection-tabuk",
+      "updated": true,
+      "aw": 1015
+    },
+    {
+      "id": 23805,
+      "slug": "home-cleaning-tabuk",
+      "created": true,
+      "aw": 1002
+    },
+    {
+      "id": 23806,
+      "slug": "ac-cleaning-washing-tabuk",
+      "created": true,
+      "aw": 1014
+    },
+    {
+      "id": 23807,
+      "slug": "pest-control-tabuk",
+      "created": true,
+      "aw": 1003
+    },
+    {
+      "id": 23808,
+      "slug": "roof-insulation-tabuk",
+      "created": true,
+      "aw": 1003
+    },
+    {
+      "id": 9297,
+      "slug": "water-leak-detection-buraidah",
+      "updated": true,
+      "aw": 1013
+    },
+    {
+      "id": 23810,
+      "slug": "home-cleaning-buraidah",
+      "created": true,
+      "aw": 1000
+    },
+    {
+      "id": 23811,
+      "slug": "ac-cleaning-washing-buraidah",
+      "created": true,
+      "aw": 1012
+    },
+    {
+      "id": 23812,
+      "slug": "pest-control-buraidah",
+      "created": true,
+      "aw": 1001
+    },
+    {
+      "id": 23813,
+      "slug": "roof-insulation-buraidah",
+      "created": true,
+      "aw": 1001
+    },
+    {
+      "id": 9294,
+      "slug": "water-leak-detection-khamis-mushait",
+      "updated": true,
+      "aw": 1005
+    },
+    {
+      "id": 23815,
+      "slug": "home-cleaning-khamis-mushait",
+      "created": true,
+      "aw": 1016
+    },
+    {
+      "id": 23816,
+      "slug": "ac-cleaning-washing-khamis-mushait",
+      "created": true,
+      "aw": 1004
+    },
+    {
+      "id": 23817,
+      "slug": "pest-control-khamis-mushait",
+      "created": true,
+      "aw": 1017
+    },
+    {
+      "id": 23818,
+      "slug": "roof-insulation-khamis-mushait",
+      "created": true,
+      "aw": 1017
+    },
+    {
+      "id": 9301,
+      "slug": "water-leak-detection-jazan",
+      "updated": true,
+      "aw": 1011
+    },
+    {
+      "id": 23820,
+      "slug": "home-cleaning-jazan",
+      "created": true,
+      "aw": 1016
+    },
+    {
+      "id": 23821,
+      "slug": "ac-cleaning-washing-jazan",
+      "created": true,
+      "aw": 1010
+    },
+    {
+      "id": 23822,
+      "slug": "pest-control-jazan",
+      "created": true,
+      "aw": 1017
+    },
+    {
+      "id": 23823,
+      "slug": "roof-insulation-jazan",
+      "created": true,
+      "aw": 1017
+    },
+    {
+      "id": 23824,
+      "slug": "water-leak-detection-ahsa",
+      "created": true,
+      "aw": 1013
+    },
+    {
+      "id": 23825,
+      "slug": "home-cleaning-ahsa",
+      "created": true,
+      "aw": 1000
+    },
+    {
+      "id": 23826,
+      "slug": "ac-cleaning-washing-ahsa",
+      "created": true,
+      "aw": 1012
+    },
+    {
+      "id": 23827,
+      "slug": "pest-control-ahsa",
+      "created": true,
+      "aw": 1001
+    },
+    {
+      "id": 23828,
+      "slug": "roof-insulation-ahsa",
+      "created": true,
+      "aw": 1001
+    },
+    {
+      "id": 9299,
+      "slug": "water-leak-detection-hail",
+      "updated": true,
+      "aw": 1013
+    },
+    {
+      "id": 23830,
+      "slug": "home-cleaning-hail",
+      "created": true,
+      "aw": 1000
+    },
+    {
+      "id": 23831,
+      "slug": "ac-cleaning-washing-hail",
+      "created": true,
+      "aw": 1012
+    },
+    {
+      "id": 23832,
+      "slug": "pest-control-hail",
+      "created": true,
+      "aw": 1001
+    },
+    {
+      "id": 23833,
+      "slug": "roof-insulation-hail",
+      "created": true,
+      "aw": 1001
+    },
+    {
+      "id": 9305,
+      "slug": "water-leak-detection-yanbu",
+      "updated": true,
+      "aw": 1013
+    },
+    {
+      "id": 23835,
+      "slug": "home-cleaning-yanbu",
+      "created": true,
+      "aw": 1000
+    },
+    {
+      "id": 23836,
+      "slug": "ac-cleaning-washing-yanbu",
+      "created": true,
+      "aw": 1012
+    },
+    {
+      "id": 23837,
+      "slug": "pest-control-yanbu",
+      "created": true,
+      "aw": 1001
+    },
+    {
+      "id": 23838,
+      "slug": "roof-insulation-yanbu",
+      "created": true,
+      "aw": 1001
+    },
+    {
+      "id": 9311,
+      "slug": "water-leak-detection-jubail",
+      "updated": true,
+      "aw": 1013
+    },
+    {
+      "id": 23840,
+      "slug": "home-cleaning-jubail",
+      "created": true,
+      "aw": 1000
+    },
+    {
+      "id": 23841,
+      "slug": "ac-cleaning-washing-jubail",
+      "created": true,
+      "aw": 1012
+    },
+    {
+      "id": 23842,
+      "slug": "pest-control-jubail",
+      "created": true,
+      "aw": 1001
+    },
+    {
+      "id": 23843,
+      "slug": "roof-insulation-jubail",
+      "created": true,
+      "aw": 1001
+    }
+  ],
+  "verify_samples": [
+    {
+      "id": 14834,
+      "slug": "en-roof-waterproofing-riyadh",
+      "aw": 3,
+      "ew": 1013,
+      "title": "Roof Waterproofing in Riyadh | Rukn Eltatawer"
+    },
+    {
+      "id": 14835,
+      "slug": "en-home-cleaning-riyadh",
+      "aw": 0,
+      "ew": 1021,
+      "title": "Home Cleaning in Riyadh | Rukn Eltatawer"
+    },
+    {
+      "id": 14833,
+      "slug": "en-water-leak-detection-riyadh",
+      "aw": 4,
+      "ew": 1018,
+      "title": "Water Leak Detection in Riyadh | Rukn Eltatawer"
+    },
+    {
+      "id": 12822,
+      "slug": "domestic-shipping-taif",
+      "aw": 795,
+      "ew": 4,
+      "title": "شركة شحن داخلي داخل بالطائف"
+    },
+    {
+      "id": 12819,
+      "slug": "domestic-shipping-medina",
+      "aw": 884,
+      "ew": 6,
+      "title": "شركة شحن داخلي داخل بالمدينة المنورة"
+    },
+    {
+      "id": 12481,
+      "slug": "piano-moving-jeddah",
+      "aw": 1014,
+      "ew": 4,
+      "title": "شركة نقل بيانو بجدة"
+    },
+    {
+      "id": 12484,
+      "slug": "piano-moving-dammam",
+      "aw": 1014,
+      "ew": 4,
+      "title": "شركة نقل بيانو بالدمام"
+    },
+    {
+      "id": 12485,
+      "slug": "piano-moving-khobar",
+      "aw": 1014,
+      "ew": 4,
+      "title": "شركة نقل بيانو بالخبر"
+    },
+    {
+      "id": 12486,
+      "slug": "piano-moving-taif",
+      "aw": 1014,
+      "ew": 4,
+      "title": "شركة نقل بيانو بالطائف"
+    }
+  ],
+  "post_verify": {
+    "thin_remaining_from_audit_list": 0,
+    "piano_rewritten_no_leak_focus": true,
+    "extended_cities_parented_under_cities": true,
+    "diversified_posts": 123,
+    "extended_pages": 8,
+    "extended_posts": 40
+  }
+}
