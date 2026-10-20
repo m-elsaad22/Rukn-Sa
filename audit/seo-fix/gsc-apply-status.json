@@ -1,0 +1,58 @@
+{
+  "snippet": {
+    "id": 17,
+    "active": true,
+    "error": null
+  },
+  "draft": {
+    "drafted": 30,
+    "already": 24,
+    "fail": 0
+  },
+  "verify": {
+    "redirect_status": {
+      "301": 66
+    },
+    "bad": [],
+    "en": {
+      "status": 200,
+      "x_robots": "noindex, follow",
+      "html_noindex": true
+    },
+    "sitemap_index": {
+      "status": 200,
+      "children": [
+        "https://www.rukn-eltatawer.com/sa/post-sitemap1.xml",
+        "https://www.rukn-eltatawer.com/sa/post-sitemap2.xml",
+        "https://www.rukn-eltatawer.com/sa/post-sitemap3.xml",
+        "https://www.rukn-eltatawer.com/sa/post-sitemap4.xml",
+        "https://www.rukn-eltatawer.com/sa/post-sitemap5.xml",
+        "https://www.rukn-eltatawer.com/sa/post-sitemap6.xml",
+        "https://www.rukn-eltatawer.com/sa/post-sitemap7.xml",
+        "https://www.rukn-eltatawer.com/sa/post-sitemap8.xml",
+        "https://www.rukn-eltatawer.com/sa/post-sitemap9.xml",
+        "https://www.rukn-eltatawer.com/sa/page-sitemap.xml"
+      ]
+    },
+    "page_sitemap": {
+      "status": 200,
+      "count": 27,
+      "sample": [
+        "https://www.rukn-eltatawer.com/sa/",
+        "https://www.rukn-eltatawer.com/sa/cities/jubail/",
+        "https://www.rukn-eltatawer.com/sa/cities/yanbu/",
+        "https://www.rukn-eltatawer.com/sa/cities/hail/",
+        "https://www.rukn-eltatawer.com/sa/cities/ahsa/",
+        "https://www.rukn-eltatawer.com/sa/cities/jazan/",
+        "https://www.rukn-eltatawer.com/sa/cities/khamis-mushait/",
+        "https://www.rukn-eltatawer.com/sa/cities/buraidah/",
+        "https://www.rukn-eltatawer.com/sa/cities/tabuk/",
+        "https://www.rukn-eltatawer.com/sa/cities/abha/",
+        "https://www.rukn-eltatawer.com/sa/cities/taif/",
+        "https://www.rukn-eltatawer.com/sa/cities/khobar/"
+      ]
+    },
+    "keeper": 200,
+    "en_in_post_sitemap": false
+  }
+}
