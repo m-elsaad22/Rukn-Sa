@@ -1,0 +1,11 @@
+gap,expected_url,status,existing_alternative,note
+home-cleaning-riyadh,https://www.rukn-eltatawer.com/sa/home-cleaning-riyadh/,404,https://www.rukn-eltatawer.com/sa/apartment-cleaning-in-riyadh/,تنظيف منازل للرياض غير منشور؛ الموجود تنظيف شقق بسلَج مختلف
+villa-cleaning-riyadh,https://www.rukn-eltatawer.com/sa/villa-cleaning-riyadh/,missing,,تنظيف فلل غير موجود للرياض
+pest-control-riyadh,https://www.rukn-eltatawer.com/sa/pest-control-riyadh/,404,https://www.rukn-eltatawer.com/sa/crawling-pest-control-riyadh/,الكلمة الجامعة مكافحة حشرات 404؛ يوجد زاحفة/طائرة/قوارض
+pest-control-jeddah,https://www.rukn-eltatawer.com/sa/pest-control-jeddah/,404,https://www.rukn-eltatawer.com/sa/crawling-pest-control-jeddah/,نفس الفجوة
+pest-control-mecca,https://www.rukn-eltatawer.com/sa/pest-control-mecca/,404,https://www.rukn-eltatawer.com/sa/crawling-pest-control-mecca/,نفس الفجوة
+pest-control-medina,https://www.rukn-eltatawer.com/sa/pest-control-medina/,404,https://www.rukn-eltatawer.com/sa/crawling-pest-control-medina/,نفس الفجوة
+pest-control-dammam,https://www.rukn-eltatawer.com/sa/pest-control-dammam/,404,https://www.rukn-eltatawer.com/sa/crawling-pest-control-dammam/,نفس الفجوة
+pest-control-khobar,https://www.rukn-eltatawer.com/sa/pest-control-khobar/,404,https://www.rukn-eltatawer.com/sa/crawling-pest-control-khobar/,نفس الفجوة
+pest-control-taif,https://www.rukn-eltatawer.com/sa/pest-control-taif/,404,https://www.rukn-eltatawer.com/sa/crawling-pest-control-taif/,نفس الفجوة
+pest-control-abha,https://www.rukn-eltatawer.com/sa/pest-control-abha/,404,https://www.rukn-eltatawer.com/sa/crawling-pest-control-abha/,نفس الفجوة

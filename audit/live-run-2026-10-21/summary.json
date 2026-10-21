@@ -1,0 +1,25 @@
+{
+  "generated_at": "2026-10-21T01:25:00Z",
+  "posts": 1727,
+  "pages": 26,
+  "boilerplate_faq_raw": 1621,
+  "same_h2_count_23": 1587,
+  "true_intent_mismatch_after_context": 0,
+  "disclaimer_not_mismatch": [
+    "duct-cleaning-*",
+    "ac-cleaning-washing-*",
+    "car-shipping-riyadh"
+  ],
+  "template_faq_on_unrelated_services": true,
+  "uae_in_post_raw": 0,
+  "phone_0568060309_in_raw": 0,
+  "phone_in_post_call_shortcode_rendered": true,
+  "homepage_fake_counter_5841": true,
+  "empty_categories": 64,
+  "no_featured_media": 33,
+  "coverage_gaps": {
+    "home-cleaning-riyadh": "404; have apartment-cleaning-in-riyadh",
+    "villa-cleaning-riyadh": "missing",
+    "pest-control-major-8-cities": "404; have crawling/flying/rodent/mosquito/bed-bug variants"
+  }
+}
