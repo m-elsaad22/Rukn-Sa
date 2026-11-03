@@ -1,0 +1,4119 @@
+{
+  "at": "2026-11-03T18:57:01.573882+00:00",
+  "mode": "read_only",
+  "checked": 1792,
+  "by_status": {
+    "publish": 1727,
+    "draft": 65
+  },
+  "word_buckets": {
+    "ar_ge_1200": 1628,
+    "ar_1000_1199": 95
+  },
+  "thin_count": 0,
+  "thin_lt_1000": [],
+  "template_strong_count": 500,
+  "template_strong_sample": [
+    {
+      "id": 9298,
+      "slug": "water-leak-detection-unaizah",
+      "title": "كشف تسربات المياه في عنيزة",
+      "hits": 3,
+      "aw": 1478
+    },
+    {
+      "id": 9303,
+      "slug": "water-leak-detection-arar",
+      "title": "كشف تسربات المياه في عرعر",
+      "hits": 3,
+      "aw": 1477
+    },
+    {
+      "id": 9304,
+      "slug": "water-leak-detection-al-baha",
+      "title": "كشف تسربات المياه في الباحة",
+      "hits": 3,
+      "aw": 1381
+    },
+    {
+      "id": 9312,
+      "slug": "water-leak-detection-qatif",
+      "title": "كشف تسربات المياه في القطيف",
+      "hits": 3,
+      "aw": 1360
+    },
+    {
+      "id": 9315,
+      "slug": "water-leak-detection-al-dawadmi",
+      "title": "كشف تسربات المياه في الدوادمي",
+      "hits": 3,
+      "aw": 1353
+    },
+    {
+      "id": 9319,
+      "slug": "water-leak-detection-wadi-ad-dawasir",
+      "title": "كشف تسربات المياه في وادي الدواسر | شركة ركن التطور",
+      "hits": 3,
+      "aw": 1518
+    },
+    {
+      "id": 9320,
+      "slug": "water-leak-detection-al-aflaj",
+      "title": "كشف تسربات المياه في الأفلاج | شركة ركن التطور",
+      "hits": 3,
+      "aw": 1492
+    },
+    {
+      "id": 9323,
+      "slug": "water-leak-detection-sarat-obaidah",
+      "title": "كشف تسربات المياه في سراة عبيدة | شركة ركن التطور",
+      "hits": 3,
+      "aw": 1524
+    },
+    {
+      "id": 9327,
+      "slug": "water-leak-detection-turaif",
+      "title": "كشف تسربات المياه في طريف | شركة ركن التطور",
+      "hits": 3,
+      "aw": 1489
+    },
+    {
+      "id": 9328,
+      "slug": "water-leak-detection-al-qurayyat",
+      "title": "كشف تسربات المياه في القريات | شركة ركن التطور",
+      "hits": 3,
+      "aw": 1486
+    },
+    {
+      "id": 9329,
+      "slug": "water-leak-detection-dumat-al-jandal",
+      "title": "كشف تسربات المياه في دومة الجندل | شركة ركن التطور",
+      "hits": 3,
+      "aw": 1526
+    },
+    {
+      "id": 9335,
+      "slug": "water-leak-detection-al-jumum",
+      "title": "كشف تسربات المياه في الجموم | شركة ركن التطور",
+      "hits": 3,
+      "aw": 1483
+    },
+    {
+      "id": 9340,
+      "slug": "water-leak-detection-tathlith",
+      "title": "كشف تسربات المياه في تثليث | شركة ركن التطور",
+      "hits": 3,
+      "aw": 1495
+    },
+    {
+      "id": 9347,
+      "slug": "water-leak-detection-tanuma",
+      "title": "كشف تسربات المياه في تنومة | شركة ركن التطور",
+      "hits": 3,
+      "aw": 1485
+    },
+    {
+      "id": 9351,
+      "slug": "water-leak-detection-umluj",
+      "title": "كشف تسربات المياه في أملج | شركة ركن التطور",
+      "hits": 3,
+      "aw": 1494
+    },
+    {
+      "id": 9352,
+      "slug": "water-leak-detection-sharurah",
+      "title": "كشف تسربات المياه في شرورة | شركة ركن التطور",
+      "hits": 3,
+      "aw": 1487
+    },
+    {
+      "id": 10276,
+      "slug": "asaar-tanzif-almanazil-bilriyadh",
+      "title": "أسعار تنظيف المنازل بالرياض",
+      "hits": 3,
+      "aw": 1299
+    },
+    {
+      "id": 10278,
+      "slug": "sharikat-tanzif-filla-bilriyadh",
+      "title": "شركة تنظيف فلل بالرياض",
+      "hits": 3,
+      "aw": 1308
+    },
+    {
+      "id": 10280,
+      "slug": "apartment-cleaning-in-riyadh",
+      "title": "شركة تنظيف شقق بالرياض",
+      "hits": 3,
+      "aw": 1302
+    },
+    {
+      "id": 10283,
+      "slug": "tanzif-sijjad-wamaukit-bilriyadh",
+      "title": "تنظيف سجاد وموكيت بالرياض",
+      "hits": 3,
+      "aw": 1302
+    },
+    {
+      "id": 10860,
+      "slug": "office-cleaning-riyadh",
+      "title": "شركة تنظيف مكاتب بالرياض",
+      "hits": 3,
+      "aw": 1270
+    },
+    {
+      "id": 10862,
+      "slug": "school-nursery-cleaning-riyadh",
+      "title": "شركة تنظيف مدارس وحضانات بالرياض",
+      "hits": 3,
+      "aw": 1311
+    },
+    {
+      "id": 10864,
+      "slug": "mall-cleaning-riyadh",
+      "title": "شركة تنظيف محلات تجارية ومولات بالرياض",
+      "hits": 3,
+      "aw": 1368
+    },
+    {
+      "id": 10865,
+      "slug": "pool-cleaning-riyadh",
+      "title": "شركة تنظيف مسابح بالرياض",
+      "hits": 3,
+      "aw": 1309
+    },
+    {
+      "id": 10871,
+      "slug": "moquette-cleaning-riyadh",
+      "title": "شركة تنظيف موكيت بالرياض",
+      "hits": 3,
+      "aw": 1280
+    },
+    {
+      "id": 10873,
+      "slug": "curtain-cleaning-riyadh",
+      "title": "شركة تنظيف ستائر بالرياض",
+      "hits": 3,
+      "aw": 1271
+    },
+    {
+      "id": 10879,
+      "slug": "deep-cleaning-riyadh",
+      "title": "شركة تنظيف وتعقيم شامل بالرياض",
+      "hits": 3,
+      "aw": 1337
+    },
+    {
+      "id": 10882,
+      "slug": "home-cleaning-jeddah",
+      "title": "شركة تنظيف منازل بجدة",
+      "hits": 3,
+      "aw": 1525
+    },
+    {
+      "id": 10885,
+      "slug": "palace-cleaning-jeddah",
+      "title": "شركة تنظيف قصور بجدة",
+      "hits": 3,
+      "aw": 1302
+    },
+    {
+      "id": 10892,
+      "slug": "kitchen-cleaning-jeddah",
+      "title": "شركة تنظيف مطابخ بجدة",
+      "hits": 3,
+      "aw": 1261
+    },
+    {
+      "id": 10893,
+      "slug": "bathroom-cleaning-jeddah",
+      "title": "شركة تنظيف حمامات بجدة",
+      "hits": 3,
+      "aw": 1297
+    },
+    {
+      "id": 10898,
+      "slug": "sofa-cleaning-jeddah",
+      "title": "شركة تنظيف كنب بجدة",
+      "hits": 3,
+      "aw": 1264
+    },
+    {
+      "id": 10901,
+      "slug": "marble-polishing-jeddah",
+      "title": "شركة تنظيف أرضيات رخام وجلي رخام بجدة",
+      "hits": 3,
+      "aw": 1407
+    },
+    {
+      "id": 10910,
+      "slug": "villa-cleaning-mecca",
+      "title": "شركة تنظيف فلل بمكة المكرمة",
+      "hits": 3,
+      "aw": 1344
+    },
+    {
+      "id": 10913,
+      "slug": "majlis-cleaning-mecca",
+      "title": "شركة تنظيف مجالس بمكة المكرمة",
+      "hits": 3,
+      "aw": 1303
+    },
+    {
+      "id": 10914,
+      "slug": "school-nursery-cleaning-mecca",
+      "title": "شركة تنظيف مدارس وحضانات بمكة المكرمة",
+      "hits": 3,
+      "aw": 1334
+    },
+    {
+      "id": 10915,
+      "slug": "hospital-clinic-cleaning-mecca",
+      "title": "شركة تنظيف مستشفيات وعيادات بمكة المكرمة",
+      "hits": 3,
+      "aw": 1339
+    },
+    {
+      "id": 10927,
+      "slug": "marble-polishing-mecca",
+      "title": "شركة تنظيف أرضيات رخام وجلي رخام بمكة المكرمة",
+      "hits": 3,
+      "aw": 1448
+    },
+    {
+      "id": 10928,
+      "slug": "glass-facade-cleaning-mecca",
+      "title": "شركة تنظيف واجهات زجاجية بمكة المكرمة",
+      "hits": 3,
+      "aw": 1324
+    },
+    {
+      "id": 10934,
+      "slug": "home-cleaning-medina",
+      "title": "شركة تنظيف منازل بالمدينة المنورة",
+      "hits": 3,
+      "aw": 1317
+    },
+    {
+      "id": 10938,
+      "slug": "office-cleaning-medina",
+      "title": "شركة تنظيف مكاتب بالمدينة المنورة",
+      "hits": 3,
+      "aw": 1316
+    },
+    {
+      "id": 10946,
+      "slug": "water-tank-cleaning-medina",
+      "title": "شركة تنظيف خزانات مياه بالمدينة المنورة",
+      "hits": 3,
+      "aw": 1420
+    },
+    {
+      "id": 10948,
+      "slug": "carpet-cleaning-medina",
+      "title": "شركة تنظيف سجاد بالمدينة المنورة",
+      "hits": 3,
+      "aw": 1358
+    },
+    {
+      "id": 10951,
+      "slug": "curtain-cleaning-medina",
+      "title": "شركة تنظيف ستائر بالمدينة المنورة",
+      "hits": 3,
+      "aw": 1318
+    },
+    {
+      "id": 10954,
+      "slug": "glass-facade-cleaning-medina",
+      "title": "شركة تنظيف واجهات زجاجية بالمدينة المنورة",
+      "hits": 3,
+      "aw": 1351
+    },
+    {
+      "id": 10955,
+      "slug": "stone-facade-cleaning-medina",
+      "title": "شركة تنظيف واجهات حجرية بالمدينة المنورة",
+      "hits": 3,
+      "aw": 1349
+    },
+    {
+      "id": 10961,
+      "slug": "apartment-cleaning-dammam",
+      "title": "شركة تنظيف شقق بالدمام",
+      "hits": 3,
+      "aw": 1296
+    },
+    {
+      "id": 10962,
+      "slug": "villa-cleaning-dammam",
+      "title": "شركة تنظيف فلل بالدمام",
+      "hits": 3,
+      "aw": 1298
+    },
+    {
+      "id": 10963,
+      "slug": "palace-cleaning-dammam",
+      "title": "شركة تنظيف قصور بالدمام",
+      "hits": 3,
+      "aw": 1293
+    },
+    {
+      "id": 10965,
+      "slug": "majlis-cleaning-dammam",
+      "title": "شركة تنظيف مجالس بالدمام",
+      "hits": 3,
+      "aw": 1266
+    },
+    {
+      "id": 10968,
+      "slug": "mall-cleaning-dammam",
+      "title": "شركة تنظيف محلات تجارية ومولات بالدمام",
+      "hits": 3,
+      "aw": 1362
+    },
+    {
+      "id": 10972,
+      "slug": "water-tank-cleaning-dammam",
+      "title": "شركة تنظيف خزانات مياه بالدمام",
+      "hits": 3,
+      "aw": 1341
+    },
+    {
+      "id": 10977,
+      "slug": "curtain-cleaning-dammam",
+      "title": "شركة تنظيف ستائر بالدمام",
+      "hits": 3,
+      "aw": 1257
+    },
+    {
+      "id": 10996,
+      "slug": "kitchen-cleaning-khobar",
+      "title": "شركة تنظيف مطابخ بالخبر",
+      "hits": 3,
+      "aw": 1255
+    },
+    {
+      "id": 11000,
+      "slug": "carpet-cleaning-khobar",
+      "title": "شركة تنظيف سجاد بالخبر",
+      "hits": 3,
+      "aw": 1287
+    },
+    {
+      "id": 11001,
+      "slug": "moquette-cleaning-khobar",
+      "title": "شركة تنظيف موكيت بالخبر",
+      "hits": 3,
+      "aw": 1248
+    },
+    {
+      "id": 11003,
+      "slug": "curtain-cleaning-khobar",
+      "title": "شركة تنظيف ستائر بالخبر",
+      "hits": 3,
+      "aw": 1247
+    },
+    {
+      "id": 11009,
+      "slug": "deep-cleaning-khobar",
+      "title": "شركة تنظيف وتعقيم شامل بالخبر",
+      "hits": 3,
+      "aw": 1321
+    },
+    {
+      "id": 11012,
+      "slug": "home-cleaning-taif",
+      "title": "شركة تنظيف منازل بالطائف",
+      "hits": 3,
+      "aw": 1261
+    },
+    {
+      "id": 11013,
+      "slug": "apartment-cleaning-taif",
+      "title": "شركة تنظيف شقق بالطائف",
+      "hits": 3,
+      "aw": 1301
+    }
+  ],
+  "exact_dup_count": 0,
+  "exact_dups": [],
+  "near_opener_count": 0,
+  "near_openers": [],
+  "city_swap_cluster_count": 152,
+  "city_swap_clusters": [
+    {
+      "n": 8,
+      "fp": "شركة صيانة كاميرات مراقبة بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور | آخر تحديث: سبتمبر 2026 | مراجعة: فريق العمليات ",
+      "items": [
+        {
+          "id": 11139,
+          "slug": "cctv-maintenance-riyadh",
+          "title": "شركة صيانة كاميرات مراقبة بالرياض",
+          "fam": null
+        },
+        {
+          "id": 11165,
+          "slug": "cctv-maintenance-jeddah",
+          "title": "شركة صيانة كاميرات مراقبة بجدة",
+          "fam": null
+        },
+        {
+          "id": 11191,
+          "slug": "cctv-maintenance-mecca",
+          "title": "شركة صيانة كاميرات مراقبة بمكة المكرمة",
+          "fam": null
+        },
+        {
+          "id": 11217,
+          "slug": "cctv-maintenance-medina",
+          "title": "شركة صيانة كاميرات مراقبة بالمدينة المنورة",
+          "fam": null
+        },
+        {
+          "id": 11243,
+          "slug": "cctv-maintenance-dammam",
+          "title": "شركة صيانة كاميرات مراقبة بالدمام",
+          "fam": null
+        },
+        {
+          "id": 11269,
+          "slug": "cctv-maintenance-khobar",
+          "title": "شركة صيانة كاميرات مراقبة بالخبر",
+          "fam": null
+        },
+        {
+          "id": 11295,
+          "slug": "cctv-maintenance-taif",
+          "title": "شركة صيانة كاميرات مراقبة بالطائف",
+          "fam": null
+        },
+        {
+          "id": 11321,
+          "slug": "cctv-maintenance-abha",
+          "title": "شركة صيانة كاميرات مراقبة بأبها",
+          "fam": null
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "fp": "شركة صيانة أبواب أوتوماتيكية بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور | آخر تحديث: سبتمبر 2026 | مراجعة: فريق العملي",
+      "items": [
+        {
+          "id": 11140,
+          "slug": "automatic-doors-maintenance-riyadh",
+          "title": "شركة صيانة أبواب أوتوماتيكية بالرياض",
+          "fam": null
+        },
+        {
+          "id": 11166,
+          "slug": "automatic-doors-maintenance-jeddah",
+          "title": "شركة صيانة أبواب أوتوماتيكية بجدة",
+          "fam": null
+        },
+        {
+          "id": 11192,
+          "slug": "automatic-doors-maintenance-mecca",
+          "title": "شركة صيانة أبواب أوتوماتيكية بمكة المكرمة",
+          "fam": null
+        },
+        {
+          "id": 11218,
+          "slug": "automatic-doors-maintenance-medina",
+          "title": "شركة صيانة أبواب أوتوماتيكية بالمدينة المنورة",
+          "fam": null
+        },
+        {
+          "id": 11244,
+          "slug": "automatic-doors-maintenance-dammam",
+          "title": "شركة صيانة أبواب أوتوماتيكية بالدمام",
+          "fam": null
+        },
+        {
+          "id": 11270,
+          "slug": "automatic-doors-maintenance-khobar",
+          "title": "شركة صيانة أبواب أوتوماتيكية بالخبر",
+          "fam": null
+        },
+        {
+          "id": 11296,
+          "slug": "automatic-doors-maintenance-taif",
+          "title": "شركة صيانة أبواب أوتوماتيكية بالطائف",
+          "fam": null
+        },
+        {
+          "id": 11322,
+          "slug": "automatic-doors-maintenance-abha",
+          "title": "شركة صيانة أبواب أوتوماتيكية بأبها",
+          "fam": null
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "fp": "شركة صيانة الأجهزة الكهربائية بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور | آخر تحديث: سبتمبر 2026 | مراجعة: فريق العمل",
+      "items": [
+        {
+          "id": 11143,
+          "slug": "appliance-maintenance-riyadh",
+          "title": "شركة صيانة الأجهزة الكهربائية بالرياض",
+          "fam": "elec"
+        },
+        {
+          "id": 11169,
+          "slug": "appliance-maintenance-jeddah",
+          "title": "شركة صيانة الأجهزة الكهربائية بجدة",
+          "fam": "elec"
+        },
+        {
+          "id": 11195,
+          "slug": "appliance-maintenance-mecca",
+          "title": "شركة صيانة الأجهزة الكهربائية بمكة المكرمة",
+          "fam": "elec"
+        },
+        {
+          "id": 11221,
+          "slug": "appliance-maintenance-medina",
+          "title": "شركة صيانة الأجهزة الكهربائية بالمدينة المنورة",
+          "fam": "elec"
+        },
+        {
+          "id": 11247,
+          "slug": "appliance-maintenance-dammam",
+          "title": "شركة صيانة الأجهزة الكهربائية بالدمام",
+          "fam": "elec"
+        },
+        {
+          "id": 11273,
+          "slug": "appliance-maintenance-khobar",
+          "title": "شركة صيانة الأجهزة الكهربائية بالخبر",
+          "fam": "elec"
+        },
+        {
+          "id": 11299,
+          "slug": "appliance-maintenance-taif",
+          "title": "شركة صيانة الأجهزة الكهربائية بالطائف",
+          "fam": "elec"
+        },
+        {
+          "id": 11325,
+          "slug": "appliance-maintenance-abha",
+          "title": "شركة صيانة الأجهزة الكهربائية بأبها",
+          "fam": "elec"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "fp": "شركة صيانة مكانس كهربائية بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور | آخر تحديث: سبتمبر 2026 | مراجعة: فريق العمليات ",
+      "items": [
+        {
+          "id": 11150,
+          "slug": "vacuum-maintenance-riyadh",
+          "title": "شركة صيانة مكانس كهربائية بالرياض",
+          "fam": "elec"
+        },
+        {
+          "id": 11176,
+          "slug": "vacuum-maintenance-jeddah",
+          "title": "شركة صيانة مكانس كهربائية بجدة",
+          "fam": "elec"
+        },
+        {
+          "id": 11202,
+          "slug": "vacuum-maintenance-mecca",
+          "title": "شركة صيانة مكانس كهربائية بمكة المكرمة",
+          "fam": "elec"
+        },
+        {
+          "id": 11228,
+          "slug": "vacuum-maintenance-medina",
+          "title": "شركة صيانة مكانس كهربائية بالمدينة المنورة",
+          "fam": "elec"
+        },
+        {
+          "id": 11254,
+          "slug": "vacuum-maintenance-dammam",
+          "title": "شركة صيانة مكانس كهربائية بالدمام",
+          "fam": "elec"
+        },
+        {
+          "id": 11280,
+          "slug": "vacuum-maintenance-khobar",
+          "title": "شركة صيانة مكانس كهربائية بالخبر",
+          "fam": "elec"
+        },
+        {
+          "id": 11306,
+          "slug": "vacuum-maintenance-taif",
+          "title": "شركة صيانة مكانس كهربائية بالطائف",
+          "fam": "elec"
+        },
+        {
+          "id": 11332,
+          "slug": "vacuum-maintenance-abha",
+          "title": "شركة صيانة مكانس كهربائية بأبها",
+          "fam": "elec"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "fp": "شركة تركيب وصيانة شفاطات مطابخ بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور | آخر تحديث: سبتمبر 2026 | مراجعة: فريق العم",
+      "items": [
+        {
+          "id": 11151,
+          "slug": "kitchen-hoods-riyadh",
+          "title": "شركة تركيب وصيانة شفاطات مطابخ بالرياض",
+          "fam": null
+        },
+        {
+          "id": 11177,
+          "slug": "kitchen-hoods-jeddah",
+          "title": "شركة تركيب وصيانة شفاطات مطابخ بجدة",
+          "fam": null
+        },
+        {
+          "id": 11203,
+          "slug": "kitchen-hoods-mecca",
+          "title": "شركة تركيب وصيانة شفاطات مطابخ بمكة المكرمة",
+          "fam": null
+        },
+        {
+          "id": 11229,
+          "slug": "kitchen-hoods-medina",
+          "title": "شركة تركيب وصيانة شفاطات مطابخ بالمدينة المنورة",
+          "fam": null
+        },
+        {
+          "id": 11255,
+          "slug": "kitchen-hoods-dammam",
+          "title": "شركة تركيب وصيانة شفاطات مطابخ بالدمام",
+          "fam": null
+        },
+        {
+          "id": 11281,
+          "slug": "kitchen-hoods-khobar",
+          "title": "شركة تركيب وصيانة شفاطات مطابخ بالخبر",
+          "fam": null
+        },
+        {
+          "id": 11307,
+          "slug": "kitchen-hoods-taif",
+          "title": "شركة تركيب وصيانة شفاطات مطابخ بالطائف",
+          "fam": null
+        },
+        {
+          "id": 11333,
+          "slug": "kitchen-hoods-abha",
+          "title": "شركة تركيب وصيانة شفاطات مطابخ بأبها",
+          "fam": null
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "fp": "شركة تركيب وصيانة مضخات مياه وصرف صحي بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور | آخر تحديث: سبتمبر 2026 | مراجعة: فر",
+      "items": [
+        {
+          "id": 11152,
+          "slug": "water-pumps-riyadh",
+          "title": "شركة تركيب وصيانة مضخات مياه وصرف صحي بالرياض",
+          "fam": null
+        },
+        {
+          "id": 11178,
+          "slug": "water-pumps-jeddah",
+          "title": "شركة تركيب وصيانة مضخات مياه وصرف صحي بجدة",
+          "fam": null
+        },
+        {
+          "id": 11204,
+          "slug": "water-pumps-mecca",
+          "title": "شركة تركيب وصيانة مضخات مياه وصرف صحي بمكة المكرمة",
+          "fam": null
+        },
+        {
+          "id": 11230,
+          "slug": "water-pumps-medina",
+          "title": "شركة تركيب وصيانة مضخات مياه وصرف صحي بالمدينة الم",
+          "fam": null
+        },
+        {
+          "id": 11256,
+          "slug": "water-pumps-dammam",
+          "title": "شركة تركيب وصيانة مضخات مياه وصرف صحي بالدمام",
+          "fam": null
+        },
+        {
+          "id": 11282,
+          "slug": "water-pumps-khobar",
+          "title": "شركة تركيب وصيانة مضخات مياه وصرف صحي بالخبر",
+          "fam": null
+        },
+        {
+          "id": 11308,
+          "slug": "water-pumps-taif",
+          "title": "شركة تركيب وصيانة مضخات مياه وصرف صحي بالطائف",
+          "fam": null
+        },
+        {
+          "id": 11334,
+          "slug": "water-pumps-abha",
+          "title": "شركة تركيب وصيانة مضخات مياه وصرف صحي بأبها",
+          "fam": null
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "fp": "شركة تركيب وصيانة محطات تحلية المياه بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور | آخر تحديث: سبتمبر 2026 | مراجعة: فري",
+      "items": [
+        {
+          "id": 11153,
+          "slug": "ro-plants-riyadh",
+          "title": "شركة تركيب وصيانة محطات تحلية المياه بالرياض",
+          "fam": null
+        },
+        {
+          "id": 11179,
+          "slug": "ro-plants-jeddah",
+          "title": "شركة تركيب وصيانة محطات تحلية المياه بجدة",
+          "fam": null
+        },
+        {
+          "id": 11205,
+          "slug": "ro-plants-mecca",
+          "title": "شركة تركيب وصيانة محطات تحلية المياه بمكة المكرمة",
+          "fam": null
+        },
+        {
+          "id": 11231,
+          "slug": "ro-plants-medina",
+          "title": "شركة تركيب وصيانة محطات تحلية المياه بالمدينة المن",
+          "fam": null
+        },
+        {
+          "id": 11257,
+          "slug": "ro-plants-dammam",
+          "title": "شركة تركيب وصيانة محطات تحلية المياه بالدمام",
+          "fam": null
+        },
+        {
+          "id": 11283,
+          "slug": "ro-plants-khobar",
+          "title": "شركة تركيب وصيانة محطات تحلية المياه بالخبر",
+          "fam": null
+        },
+        {
+          "id": 11309,
+          "slug": "ro-plants-taif",
+          "title": "شركة تركيب وصيانة محطات تحلية المياه بالطائف",
+          "fam": null
+        },
+        {
+          "id": 11335,
+          "slug": "ro-plants-abha",
+          "title": "شركة تركيب وصيانة محطات تحلية المياه بأبها",
+          "fam": null
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "fp": "شركة تركيب وصيانة فلاتر مياه بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور | آخر تحديث: سبتمبر 2026 | مراجعة: فريق العملي",
+      "items": [
+        {
+          "id": 11154,
+          "slug": "water-filters-riyadh",
+          "title": "شركة تركيب وصيانة فلاتر مياه بالرياض",
+          "fam": null
+        },
+        {
+          "id": 11180,
+          "slug": "water-filters-jeddah",
+          "title": "شركة تركيب وصيانة فلاتر مياه بجدة",
+          "fam": null
+        },
+        {
+          "id": 11206,
+          "slug": "water-filters-mecca",
+          "title": "شركة تركيب وصيانة فلاتر مياه بمكة المكرمة",
+          "fam": null
+        },
+        {
+          "id": 11232,
+          "slug": "water-filters-medina",
+          "title": "شركة تركيب وصيانة فلاتر مياه بالمدينة المنورة",
+          "fam": null
+        },
+        {
+          "id": 11258,
+          "slug": "water-filters-dammam",
+          "title": "شركة تركيب وصيانة فلاتر مياه بالدمام",
+          "fam": null
+        },
+        {
+          "id": 11284,
+          "slug": "water-filters-khobar",
+          "title": "شركة تركيب وصيانة فلاتر مياه بالخبر",
+          "fam": null
+        },
+        {
+          "id": 11310,
+          "slug": "water-filters-taif",
+          "title": "شركة تركيب وصيانة فلاتر مياه بالطائف",
+          "fam": null
+        },
+        {
+          "id": 11336,
+          "slug": "water-filters-abha",
+          "title": "شركة تركيب وصيانة فلاتر مياه بأبها",
+          "fam": null
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "fp": "شركة تركيب وصيانة أجهزة تبريد مياه الخزانات بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور | آخر تحديث: سبتمبر 2026 | مراج",
+      "items": [
+        {
+          "id": 11155,
+          "slug": "tank-water-chiller-riyadh",
+          "title": "شركة تركيب وصيانة أجهزة تبريد مياه الخزانات بالريا",
+          "fam": null
+        },
+        {
+          "id": 11181,
+          "slug": "tank-water-chiller-jeddah",
+          "title": "شركة تركيب وصيانة أجهزة تبريد مياه الخزانات بجدة",
+          "fam": null
+        },
+        {
+          "id": 11207,
+          "slug": "tank-water-chiller-mecca",
+          "title": "شركة تركيب وصيانة أجهزة تبريد مياه الخزانات بمكة ا",
+          "fam": null
+        },
+        {
+          "id": 11233,
+          "slug": "tank-water-chiller-medina",
+          "title": "شركة تركيب وصيانة أجهزة تبريد مياه الخزانات بالمدي",
+          "fam": null
+        },
+        {
+          "id": 11259,
+          "slug": "tank-water-chiller-dammam",
+          "title": "شركة تركيب وصيانة أجهزة تبريد مياه الخزانات بالدما",
+          "fam": null
+        },
+        {
+          "id": 11285,
+          "slug": "tank-water-chiller-khobar",
+          "title": "شركة تركيب وصيانة أجهزة تبريد مياه الخزانات بالخبر",
+          "fam": null
+        },
+        {
+          "id": 11311,
+          "slug": "tank-water-chiller-taif",
+          "title": "شركة تركيب وصيانة أجهزة تبريد مياه الخزانات بالطائ",
+          "fam": null
+        },
+        {
+          "id": 11337,
+          "slug": "tank-water-chiller-abha",
+          "title": "شركة تركيب وصيانة أجهزة تبريد مياه الخزانات بأبها",
+          "fam": null
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "fp": "شركة تركيب وصيانة أنظمة تنقية الهواء بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور | آخر تحديث: سبتمبر 2026 | مراجعة: فري",
+      "items": [
+        {
+          "id": 11156,
+          "slug": "air-purification-riyadh",
+          "title": "شركة تركيب وصيانة أنظمة تنقية الهواء بالرياض",
+          "fam": null
+        },
+        {
+          "id": 11182,
+          "slug": "air-purification-jeddah",
+          "title": "شركة تركيب وصيانة أنظمة تنقية الهواء بجدة",
+          "fam": null
+        },
+        {
+          "id": 11208,
+          "slug": "air-purification-mecca",
+          "title": "شركة تركيب وصيانة أنظمة تنقية الهواء بمكة المكرمة",
+          "fam": null
+        },
+        {
+          "id": 11234,
+          "slug": "air-purification-medina",
+          "title": "شركة تركيب وصيانة أنظمة تنقية الهواء بالمدينة المن",
+          "fam": null
+        },
+        {
+          "id": 11260,
+          "slug": "air-purification-dammam",
+          "title": "شركة تركيب وصيانة أنظمة تنقية الهواء بالدمام",
+          "fam": null
+        },
+        {
+          "id": 11286,
+          "slug": "air-purification-khobar",
+          "title": "شركة تركيب وصيانة أنظمة تنقية الهواء بالخبر",
+          "fam": null
+        },
+        {
+          "id": 11312,
+          "slug": "air-purification-taif",
+          "title": "شركة تركيب وصيانة أنظمة تنقية الهواء بالطائف",
+          "fam": null
+        },
+        {
+          "id": 11338,
+          "slug": "air-purification-abha",
+          "title": "شركة تركيب وصيانة أنظمة تنقية الهواء بأبها",
+          "fam": null
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "fp": "شركة معالجة الرطوبة والعفن بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور | آخر تحديث: سبتمبر 2026 | مراجعة: فريق العمليات",
+      "items": [
+        {
+          "id": 11347,
+          "slug": "humidity-treatment-riyadh",
+          "title": "شركة معالجة الرطوبة والعفن بالرياض",
+          "fam": null
+        },
+        {
+          "id": 11359,
+          "slug": "humidity-treatment-jeddah",
+          "title": "شركة معالجة الرطوبة والعفن بجدة",
+          "fam": null
+        },
+        {
+          "id": 11371,
+          "slug": "humidity-treatment-mecca",
+          "title": "شركة معالجة الرطوبة والعفن بمكة المكرمة",
+          "fam": null
+        },
+        {
+          "id": 11383,
+          "slug": "humidity-treatment-medina",
+          "title": "شركة معالجة الرطوبة والعفن بالمدينة المنورة",
+          "fam": null
+        },
+        {
+          "id": 11394,
+          "slug": "humidity-treatment-dammam",
+          "title": "شركة معالجة الرطوبة والعفن بالدمام",
+          "fam": null
+        },
+        {
+          "id": 11405,
+          "slug": "humidity-treatment-khobar",
+          "title": "شركة معالجة الرطوبة والعفن بالخبر",
+          "fam": null
+        },
+        {
+          "id": 11998,
+          "slug": "humidity-treatment-taif",
+          "title": "شركة معالجة الرطوبة والعفن بالطائف",
+          "fam": null
+        },
+        {
+          "id": 11999,
+          "slug": "humidity-treatment-abha",
+          "title": "شركة معالجة الرطوبة والعفن بأبها",
+          "fam": null
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "fp": "شركة تبطين وصيانة خزانات مياه بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور | آخر تحديث: سبتمبر 2026 | مراجعة: فريق العمل",
+      "items": [
+        {
+          "id": 11348,
+          "slug": "tank-lining-maintenance-riyadh",
+          "title": "شركة تبطين وصيانة خزانات مياه بالرياض",
+          "fam": null
+        },
+        {
+          "id": 11360,
+          "slug": "tank-lining-maintenance-jeddah",
+          "title": "شركة تبطين وصيانة خزانات مياه بجدة",
+          "fam": null
+        },
+        {
+          "id": 11372,
+          "slug": "tank-lining-maintenance-mecca",
+          "title": "شركة تبطين وصيانة خزانات مياه بمكة المكرمة",
+          "fam": null
+        },
+        {
+          "id": 11384,
+          "slug": "tank-lining-maintenance-medina",
+          "title": "شركة تبطين وصيانة خزانات مياه بالمدينة المنورة",
+          "fam": null
+        },
+        {
+          "id": 11395,
+          "slug": "tank-lining-maintenance-dammam",
+          "title": "شركة تبطين وصيانة خزانات مياه بالدمام",
+          "fam": null
+        },
+        {
+          "id": 11406,
+          "slug": "tank-lining-maintenance-khobar",
+          "title": "شركة تبطين وصيانة خزانات مياه بالخبر",
+          "fam": null
+        },
+        {
+          "id": 12006,
+          "slug": "tank-lining-maintenance-taif",
+          "title": "شركة تبطين وصيانة خزانات مياه بالطائف",
+          "fam": null
+        },
+        {
+          "id": 12007,
+          "slug": "tank-lining-maintenance-abha",
+          "title": "شركة تبطين وصيانة خزانات مياه بأبها",
+          "fam": null
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "fp": "شركة فحص فلل ومباني قبل الشراء بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور | آخر تحديث: سبتمبر 2026 | مراجعة: فريق العم",
+      "items": [
+        {
+          "id": 12040,
+          "slug": "villa-inspection-riyadh",
+          "title": "شركة فحص فلل ومباني قبل الشراء بالرياض",
+          "fam": null
+        },
+        {
+          "id": 12041,
+          "slug": "villa-inspection-jeddah",
+          "title": "شركة فحص فلل ومباني قبل الشراء بجدة",
+          "fam": null
+        },
+        {
+          "id": 12042,
+          "slug": "villa-inspection-mecca",
+          "title": "شركة فحص فلل ومباني قبل الشراء بمكة المكرمة",
+          "fam": null
+        },
+        {
+          "id": 12043,
+          "slug": "villa-inspection-medina",
+          "title": "شركة فحص فلل ومباني قبل الشراء بالمدينة المنورة",
+          "fam": null
+        },
+        {
+          "id": 12044,
+          "slug": "villa-inspection-dammam",
+          "title": "شركة فحص فلل ومباني قبل الشراء بالدمام",
+          "fam": null
+        },
+        {
+          "id": 12045,
+          "slug": "villa-inspection-khobar",
+          "title": "شركة فحص فلل ومباني قبل الشراء بالخبر",
+          "fam": null
+        },
+        {
+          "id": 12046,
+          "slug": "villa-inspection-taif",
+          "title": "شركة فحص فلل ومباني قبل الشراء بالطائف",
+          "fam": null
+        },
+        {
+          "id": 12047,
+          "slug": "villa-inspection-abha",
+          "title": "شركة فحص فلل ومباني قبل الشراء بأبها",
+          "fam": null
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "fp": "شركة إصلاح تشققات الأسقف والجدران بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور | آخر تحديث: سبتمبر 2026 | مراجعة: فريق ا",
+      "items": [
+        {
+          "id": 12048,
+          "slug": "crack-repair-riyadh",
+          "title": "شركة إصلاح تشققات الأسقف والجدران بالرياض",
+          "fam": null
+        },
+        {
+          "id": 12049,
+          "slug": "crack-repair-jeddah",
+          "title": "شركة إصلاح تشققات الأسقف والجدران بجدة",
+          "fam": null
+        },
+        {
+          "id": 12050,
+          "slug": "crack-repair-mecca",
+          "title": "شركة إصلاح تشققات الأسقف والجدران بمكة المكرمة",
+          "fam": null
+        },
+        {
+          "id": 12051,
+          "slug": "crack-repair-medina",
+          "title": "شركة إصلاح تشققات الأسقف والجدران بالمدينة المنورة",
+          "fam": null
+        },
+        {
+          "id": 12052,
+          "slug": "crack-repair-dammam",
+          "title": "شركة إصلاح تشققات الأسقف والجدران بالدمام",
+          "fam": null
+        },
+        {
+          "id": 12053,
+          "slug": "crack-repair-khobar",
+          "title": "شركة إصلاح تشققات الأسقف والجدران بالخبر",
+          "fam": null
+        },
+        {
+          "id": 12054,
+          "slug": "crack-repair-taif",
+          "title": "شركة إصلاح تشققات الأسقف والجدران بالطائف",
+          "fam": null
+        },
+        {
+          "id": 12055,
+          "slug": "crack-repair-abha",
+          "title": "شركة إصلاح تشققات الأسقف والجدران بأبها",
+          "fam": null
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "fp": "شركة تركيب سيراميك وبورسلين بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور | آخر تحديث: سبتمبر 2026 | مراجعة: فريق العمليا",
+      "items": [
+        {
+          "id": 12104,
+          "slug": "ceramic-porcelain-riyadh",
+          "title": "شركة تركيب سيراميك وبورسلين بالرياض",
+          "fam": null
+        },
+        {
+          "id": 12105,
+          "slug": "ceramic-porcelain-jeddah",
+          "title": "شركة تركيب سيراميك وبورسلين بجدة",
+          "fam": null
+        },
+        {
+          "id": 12106,
+          "slug": "ceramic-porcelain-mecca",
+          "title": "شركة تركيب سيراميك وبورسلين بمكة المكرمة",
+          "fam": null
+        },
+        {
+          "id": 12107,
+          "slug": "ceramic-porcelain-medina",
+          "title": "شركة تركيب سيراميك وبورسلين بالمدينة المنورة",
+          "fam": null
+        },
+        {
+          "id": 12108,
+          "slug": "ceramic-porcelain-dammam",
+          "title": "شركة تركيب سيراميك وبورسلين بالدمام",
+          "fam": null
+        },
+        {
+          "id": 12109,
+          "slug": "ceramic-porcelain-khobar",
+          "title": "شركة تركيب سيراميك وبورسلين بالخبر",
+          "fam": null
+        },
+        {
+          "id": 12110,
+          "slug": "ceramic-porcelain-taif",
+          "title": "شركة تركيب سيراميك وبورسلين بالطائف",
+          "fam": null
+        },
+        {
+          "id": 12111,
+          "slug": "ceramic-porcelain-abha",
+          "title": "شركة تركيب سيراميك وبورسلين بأبها",
+          "fam": null
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "fp": "شركة تركيب باركيه وأرضيات خشب بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور | آخر تحديث: سبتمبر 2026 | مراجعة: فريق العمل",
+      "items": [
+        {
+          "id": 12112,
+          "slug": "parquet-riyadh",
+          "title": "شركة تركيب باركيه وأرضيات خشب بالرياض",
+          "fam": null
+        },
+        {
+          "id": 12113,
+          "slug": "parquet-jeddah",
+          "title": "شركة تركيب باركيه وأرضيات خشب بجدة",
+          "fam": null
+        },
+        {
+          "id": 12114,
+          "slug": "parquet-mecca",
+          "title": "شركة تركيب باركيه وأرضيات خشب بمكة المكرمة",
+          "fam": null
+        },
+        {
+          "id": 12115,
+          "slug": "parquet-medina",
+          "title": "شركة تركيب باركيه وأرضيات خشب بالمدينة المنورة",
+          "fam": null
+        },
+        {
+          "id": 12116,
+          "slug": "parquet-dammam",
+          "title": "شركة تركيب باركيه وأرضيات خشب بالدمام",
+          "fam": null
+        },
+        {
+          "id": 12117,
+          "slug": "parquet-khobar",
+          "title": "شركة تركيب باركيه وأرضيات خشب بالخبر",
+          "fam": null
+        },
+        {
+          "id": 12118,
+          "slug": "parquet-taif",
+          "title": "شركة تركيب باركيه وأرضيات خشب بالطائف",
+          "fam": null
+        },
+        {
+          "id": 12119,
+          "slug": "parquet-abha",
+          "title": "شركة تركيب باركيه وأرضيات خشب بأبها",
+          "fam": null
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "fp": "شركة تركيب حجر طبيعي وصناعي بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور | آخر تحديث: سبتمبر 2026 | مراجعة: فريق العمليا",
+      "items": [
+        {
+          "id": 12128,
+          "slug": "stone-riyadh",
+          "title": "شركة تركيب حجر طبيعي وصناعي بالرياض",
+          "fam": null
+        },
+        {
+          "id": 12129,
+          "slug": "stone-jeddah",
+          "title": "شركة تركيب حجر طبيعي وصناعي بجدة",
+          "fam": null
+        },
+        {
+          "id": 12130,
+          "slug": "stone-mecca",
+          "title": "شركة تركيب حجر طبيعي وصناعي بمكة المكرمة",
+          "fam": null
+        },
+        {
+          "id": 12131,
+          "slug": "stone-medina",
+          "title": "شركة تركيب حجر طبيعي وصناعي بالمدينة المنورة",
+          "fam": null
+        },
+        {
+          "id": 12132,
+          "slug": "stone-dammam",
+          "title": "شركة تركيب حجر طبيعي وصناعي بالدمام",
+          "fam": null
+        },
+        {
+          "id": 12133,
+          "slug": "stone-khobar",
+          "title": "شركة تركيب حجر طبيعي وصناعي بالخبر",
+          "fam": null
+        },
+        {
+          "id": 12134,
+          "slug": "stone-taif",
+          "title": "شركة تركيب حجر طبيعي وصناعي بالطائف",
+          "fam": null
+        },
+        {
+          "id": 12135,
+          "slug": "stone-abha",
+          "title": "شركة تركيب حجر طبيعي وصناعي بأبها",
+          "fam": null
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "fp": "شركة تركيب أسقف جبسية / فورسيلنج بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور | آخر تحديث: سبتمبر 2026 | مراجعة: فريق ال",
+      "items": [
+        {
+          "id": 12160,
+          "slug": "false-ceiling-riyadh",
+          "title": "شركة تركيب أسقف جبسية / فورسيلنج بالرياض",
+          "fam": null
+        },
+        {
+          "id": 12161,
+          "slug": "false-ceiling-jeddah",
+          "title": "شركة تركيب أسقف جبسية / فورسيلنج بجدة",
+          "fam": null
+        },
+        {
+          "id": 12162,
+          "slug": "false-ceiling-mecca",
+          "title": "شركة تركيب أسقف جبسية / فورسيلنج بمكة المكرمة",
+          "fam": null
+        },
+        {
+          "id": 12163,
+          "slug": "false-ceiling-medina",
+          "title": "شركة تركيب أسقف جبسية / فورسيلنج بالمدينة المنورة",
+          "fam": null
+        },
+        {
+          "id": 12164,
+          "slug": "false-ceiling-dammam",
+          "title": "شركة تركيب أسقف جبسية / فورسيلنج بالدمام",
+          "fam": null
+        },
+        {
+          "id": 12165,
+          "slug": "false-ceiling-khobar",
+          "title": "شركة تركيب أسقف جبسية / فورسيلنج بالخبر",
+          "fam": null
+        },
+        {
+          "id": 12166,
+          "slug": "false-ceiling-taif",
+          "title": "شركة تركيب أسقف جبسية / فورسيلنج بالطائف",
+          "fam": null
+        },
+        {
+          "id": 12167,
+          "slug": "false-ceiling-abha",
+          "title": "شركة تركيب أسقف جبسية / فورسيلنج بأبها",
+          "fam": null
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "fp": "شركة تركيب فواصل زجاجية وألومنيوم بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور | آخر تحديث: سبتمبر 2026 | مراجعة: فريق ا",
+      "items": [
+        {
+          "id": 12192,
+          "slug": "glass-aluminium-partitions-riyadh",
+          "title": "شركة تركيب فواصل زجاجية وألومنيوم بالرياض",
+          "fam": null
+        },
+        {
+          "id": 12193,
+          "slug": "glass-aluminium-partitions-jeddah",
+          "title": "شركة تركيب فواصل زجاجية وألومنيوم بجدة",
+          "fam": null
+        },
+        {
+          "id": 12194,
+          "slug": "glass-aluminium-partitions-mecca",
+          "title": "شركة تركيب فواصل زجاجية وألومنيوم بمكة المكرمة",
+          "fam": null
+        },
+        {
+          "id": 12195,
+          "slug": "glass-aluminium-partitions-medina",
+          "title": "شركة تركيب فواصل زجاجية وألومنيوم بالمدينة المنورة",
+          "fam": null
+        },
+        {
+          "id": 12196,
+          "slug": "glass-aluminium-partitions-dammam",
+          "title": "شركة تركيب فواصل زجاجية وألومنيوم بالدمام",
+          "fam": null
+        },
+        {
+          "id": 12197,
+          "slug": "glass-aluminium-partitions-khobar",
+          "title": "شركة تركيب فواصل زجاجية وألومنيوم بالخبر",
+          "fam": null
+        },
+        {
+          "id": 12198,
+          "slug": "glass-aluminium-partitions-taif",
+          "title": "شركة تركيب فواصل زجاجية وألومنيوم بالطائف",
+          "fam": null
+        },
+        {
+          "id": 12199,
+          "slug": "glass-aluminium-partitions-abha",
+          "title": "شركة تركيب فواصل زجاجية وألومنيوم بأبها",
+          "fam": null
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "fp": "شركة تركيب زجاج وألوميتال بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور | آخر تحديث: سبتمبر 2026 | مراجعة: فريق العمليات ",
+      "items": [
+        {
+          "id": 12200,
+          "slug": "glass-alumetal-riyadh",
+          "title": "شركة تركيب زجاج وألوميتال بالرياض",
+          "fam": null
+        },
+        {
+          "id": 12201,
+          "slug": "glass-alumetal-jeddah",
+          "title": "شركة تركيب زجاج وألوميتال بجدة",
+          "fam": null
+        },
+        {
+          "id": 12202,
+          "slug": "glass-alumetal-mecca",
+          "title": "شركة تركيب زجاج وألوميتال بمكة المكرمة",
+          "fam": null
+        },
+        {
+          "id": 12203,
+          "slug": "glass-alumetal-medina",
+          "title": "شركة تركيب زجاج وألوميتال بالمدينة المنورة",
+          "fam": null
+        },
+        {
+          "id": 12204,
+          "slug": "glass-alumetal-dammam",
+          "title": "شركة تركيب زجاج وألوميتال بالدمام",
+          "fam": null
+        },
+        {
+          "id": 12205,
+          "slug": "glass-alumetal-khobar",
+          "title": "شركة تركيب زجاج وألوميتال بالخبر",
+          "fam": null
+        },
+        {
+          "id": 12206,
+          "slug": "glass-alumetal-taif",
+          "title": "شركة تركيب زجاج وألوميتال بالطائف",
+          "fam": null
+        },
+        {
+          "id": 12207,
+          "slug": "glass-alumetal-abha",
+          "title": "شركة تركيب زجاج وألوميتال بأبها",
+          "fam": null
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "fp": "شركة تصميم وتنفيذ ديكورات بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور | آخر تحديث: سبتمبر 2026 | مراجعة: فريق العمليات ",
+      "items": [
+        {
+          "id": 12320,
+          "slug": "decor-design-riyadh",
+          "title": "شركة تصميم وتنفيذ ديكورات بالرياض",
+          "fam": null
+        },
+        {
+          "id": 12321,
+          "slug": "decor-design-jeddah",
+          "title": "شركة تصميم وتنفيذ ديكورات بجدة",
+          "fam": null
+        },
+        {
+          "id": 12322,
+          "slug": "decor-design-mecca",
+          "title": "شركة تصميم وتنفيذ ديكورات بمكة المكرمة",
+          "fam": null
+        },
+        {
+          "id": 12323,
+          "slug": "decor-design-medina",
+          "title": "شركة تصميم وتنفيذ ديكورات بالمدينة المنورة",
+          "fam": null
+        },
+        {
+          "id": 12324,
+          "slug": "decor-design-dammam",
+          "title": "شركة تصميم وتنفيذ ديكورات بالدمام",
+          "fam": null
+        },
+        {
+          "id": 12325,
+          "slug": "decor-design-khobar",
+          "title": "شركة تصميم وتنفيذ ديكورات بالخبر",
+          "fam": null
+        },
+        {
+          "id": 12326,
+          "slug": "decor-design-taif",
+          "title": "شركة تصميم وتنفيذ ديكورات بالطائف",
+          "fam": null
+        },
+        {
+          "id": 12327,
+          "slug": "decor-design-abha",
+          "title": "شركة تصميم وتنفيذ ديكورات بأبها",
+          "fam": null
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "fp": "شركة تنظيف وتزيين الحدائق بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور | آخر تحديث: سبتمبر 2026 | مراجعة: فريق العمليات ",
+      "items": [
+        {
+          "id": 12368,
+          "slug": "garden-cleaning-riyadh",
+          "title": "شركة تنظيف وتزيين الحدائق بالرياض",
+          "fam": "clean"
+        },
+        {
+          "id": 12369,
+          "slug": "garden-cleaning-jeddah",
+          "title": "شركة تنظيف وتزيين الحدائق بجدة",
+          "fam": "clean"
+        },
+        {
+          "id": 12370,
+          "slug": "garden-cleaning-mecca",
+          "title": "شركة تنظيف وتزيين الحدائق بمكة المكرمة",
+          "fam": "clean"
+        },
+        {
+          "id": 12371,
+          "slug": "garden-cleaning-medina",
+          "title": "شركة تنظيف وتزيين الحدائق بالمدينة المنورة",
+          "fam": "clean"
+        },
+        {
+          "id": 12372,
+          "slug": "garden-cleaning-dammam",
+          "title": "شركة تنظيف وتزيين الحدائق بالدمام",
+          "fam": "clean"
+        },
+        {
+          "id": 12373,
+          "slug": "garden-cleaning-khobar",
+          "title": "شركة تنظيف وتزيين الحدائق بالخبر",
+          "fam": "clean"
+        },
+        {
+          "id": 12374,
+          "slug": "garden-cleaning-taif",
+          "title": "شركة تنظيف وتزيين الحدائق بالطائف",
+          "fam": "clean"
+        },
+        {
+          "id": 12375,
+          "slug": "garden-cleaning-abha",
+          "title": "شركة تنظيف وتزيين الحدائق بأبها",
+          "fam": "clean"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "fp": "شركة تركيب شبكات ري أوتوماتيكية بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور | آخر تحديث: سبتمبر 2026 | مراجعة: فريق الع",
+      "items": [
+        {
+          "id": 12384,
+          "slug": "automatic-irrigation-riyadh",
+          "title": "شركة تركيب شبكات ري أوتوماتيكية بالرياض",
+          "fam": null
+        },
+        {
+          "id": 12385,
+          "slug": "automatic-irrigation-jeddah",
+          "title": "شركة تركيب شبكات ري أوتوماتيكية بجدة",
+          "fam": null
+        },
+        {
+          "id": 12386,
+          "slug": "automatic-irrigation-mecca",
+          "title": "شركة تركيب شبكات ري أوتوماتيكية بمكة المكرمة",
+          "fam": null
+        },
+        {
+          "id": 12387,
+          "slug": "automatic-irrigation-medina",
+          "title": "شركة تركيب شبكات ري أوتوماتيكية بالمدينة المنورة",
+          "fam": null
+        },
+        {
+          "id": 12388,
+          "slug": "automatic-irrigation-dammam",
+          "title": "شركة تركيب شبكات ري أوتوماتيكية بالدمام",
+          "fam": null
+        },
+        {
+          "id": 12389,
+          "slug": "automatic-irrigation-khobar",
+          "title": "شركة تركيب شبكات ري أوتوماتيكية بالخبر",
+          "fam": null
+        },
+        {
+          "id": 12390,
+          "slug": "automatic-irrigation-taif",
+          "title": "شركة تركيب شبكات ري أوتوماتيكية بالطائف",
+          "fam": null
+        },
+        {
+          "id": 12391,
+          "slug": "automatic-irrigation-abha",
+          "title": "شركة تركيب شبكات ري أوتوماتيكية بأبها",
+          "fam": null
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "fp": "شركة تركيب شلالات اصطناعية بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور | آخر تحديث: سبتمبر 2026 | مراجعة: فريق العمليات",
+      "items": [
+        {
+          "id": 12440,
+          "slug": "artificial-waterfall-riyadh",
+          "title": "شركة تركيب شلالات اصطناعية بالرياض",
+          "fam": null
+        },
+        {
+          "id": 12441,
+          "slug": "artificial-waterfall-jeddah",
+          "title": "شركة تركيب شلالات اصطناعية بجدة",
+          "fam": null
+        },
+        {
+          "id": 12442,
+          "slug": "artificial-waterfall-mecca",
+          "title": "شركة تركيب شلالات اصطناعية بمكة المكرمة",
+          "fam": null
+        },
+        {
+          "id": 12443,
+          "slug": "artificial-waterfall-medina",
+          "title": "شركة تركيب شلالات اصطناعية بالمدينة المنورة",
+          "fam": null
+        },
+        {
+          "id": 12444,
+          "slug": "artificial-waterfall-dammam",
+          "title": "شركة تركيب شلالات اصطناعية بالدمام",
+          "fam": null
+        },
+        {
+          "id": 12445,
+          "slug": "artificial-waterfall-khobar",
+          "title": "شركة تركيب شلالات اصطناعية بالخبر",
+          "fam": null
+        },
+        {
+          "id": 12446,
+          "slug": "artificial-waterfall-taif",
+          "title": "شركة تركيب شلالات اصطناعية بالطائف",
+          "fam": null
+        },
+        {
+          "id": 12447,
+          "slug": "artificial-waterfall-abha",
+          "title": "شركة تركيب شلالات اصطناعية بأبها",
+          "fam": null
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "fp": "شركة تركيب أنظمة طاقة شمسية بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور | آخر تحديث: سبتمبر 2026 | مراجعة: فريق العمليا",
+      "items": [
+        {
+          "id": 12512,
+          "slug": "solar-systems-installation-riyadh",
+          "title": "شركة تركيب أنظمة طاقة شمسية بالرياض",
+          "fam": null
+        },
+        {
+          "id": 12513,
+          "slug": "solar-systems-installation-jeddah",
+          "title": "شركة تركيب أنظمة طاقة شمسية بجدة",
+          "fam": null
+        },
+        {
+          "id": 12514,
+          "slug": "solar-systems-installation-mecca",
+          "title": "شركة تركيب أنظمة طاقة شمسية بمكة المكرمة",
+          "fam": null
+        },
+        {
+          "id": 12515,
+          "slug": "solar-systems-installation-medina",
+          "title": "شركة تركيب أنظمة طاقة شمسية بالمدينة المنورة",
+          "fam": null
+        },
+        {
+          "id": 12516,
+          "slug": "solar-systems-installation-dammam",
+          "title": "شركة تركيب أنظمة طاقة شمسية بالدمام",
+          "fam": null
+        },
+        {
+          "id": 12517,
+          "slug": "solar-systems-installation-khobar",
+          "title": "شركة تركيب أنظمة طاقة شمسية بالخبر",
+          "fam": null
+        },
+        {
+          "id": 12518,
+          "slug": "solar-systems-installation-taif",
+          "title": "شركة تركيب أنظمة طاقة شمسية بالطائف",
+          "fam": null
+        },
+        {
+          "id": 12519,
+          "slug": "solar-systems-installation-abha",
+          "title": "شركة تركيب أنظمة طاقة شمسية بأبها",
+          "fam": null
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "fp": "شركة تركيب سخانات طاقة شمسية بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور | آخر تحديث: سبتمبر 2026 | مراجعة: فريق العملي",
+      "items": [
+        {
+          "id": 12520,
+          "slug": "solar-water-heaters-riyadh",
+          "title": "شركة تركيب سخانات طاقة شمسية بالرياض",
+          "fam": null
+        },
+        {
+          "id": 12521,
+          "slug": "solar-water-heaters-jeddah",
+          "title": "شركة تركيب سخانات طاقة شمسية بجدة",
+          "fam": null
+        },
+        {
+          "id": 12522,
+          "slug": "solar-water-heaters-mecca",
+          "title": "شركة تركيب سخانات طاقة شمسية بمكة المكرمة",
+          "fam": null
+        },
+        {
+          "id": 12523,
+          "slug": "solar-water-heaters-medina",
+          "title": "شركة تركيب سخانات طاقة شمسية بالمدينة المنورة",
+          "fam": null
+        },
+        {
+          "id": 12524,
+          "slug": "solar-water-heaters-dammam",
+          "title": "شركة تركيب سخانات طاقة شمسية بالدمام",
+          "fam": null
+        },
+        {
+          "id": 12525,
+          "slug": "solar-water-heaters-khobar",
+          "title": "شركة تركيب سخانات طاقة شمسية بالخبر",
+          "fam": null
+        },
+        {
+          "id": 12526,
+          "slug": "solar-water-heaters-taif",
+          "title": "شركة تركيب سخانات طاقة شمسية بالطائف",
+          "fam": null
+        },
+        {
+          "id": 12527,
+          "slug": "solar-water-heaters-abha",
+          "title": "شركة تركيب سخانات طاقة شمسية بأبها",
+          "fam": null
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "fp": "شركة تركيب أجهزة تكييف طاقة شمسية بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور | آخر تحديث: سبتمبر 2026 | مراجعة: فريق ا",
+      "items": [
+        {
+          "id": 12528,
+          "slug": "solar-ac-installation-riyadh",
+          "title": "شركة تركيب أجهزة تكييف طاقة شمسية بالرياض",
+          "fam": "ac"
+        },
+        {
+          "id": 12529,
+          "slug": "solar-ac-installation-jeddah",
+          "title": "شركة تركيب أجهزة تكييف طاقة شمسية بجدة",
+          "fam": "ac"
+        },
+        {
+          "id": 12530,
+          "slug": "solar-ac-installation-mecca",
+          "title": "شركة تركيب أجهزة تكييف طاقة شمسية بمكة المكرمة",
+          "fam": "ac"
+        },
+        {
+          "id": 12531,
+          "slug": "solar-ac-installation-medina",
+          "title": "شركة تركيب أجهزة تكييف طاقة شمسية بالمدينة المنورة",
+          "fam": "ac"
+        },
+        {
+          "id": 12532,
+          "slug": "solar-ac-installation-dammam",
+          "title": "شركة تركيب أجهزة تكييف طاقة شمسية بالدمام",
+          "fam": "ac"
+        },
+        {
+          "id": 12533,
+          "slug": "solar-ac-installation-khobar",
+          "title": "شركة تركيب أجهزة تكييف طاقة شمسية بالخبر",
+          "fam": "ac"
+        },
+        {
+          "id": 12534,
+          "slug": "solar-ac-installation-taif",
+          "title": "شركة تركيب أجهزة تكييف طاقة شمسية بالطائف",
+          "fam": "ac"
+        },
+        {
+          "id": 12535,
+          "slug": "solar-ac-installation-abha",
+          "title": "شركة تركيب أجهزة تكييف طاقة شمسية بأبها",
+          "fam": "ac"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "fp": "شركة مكافحة الحشرات الزاحفة بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور | آخر تحديث: سبتمبر 2026 | مراجعة: فريق العمليا",
+      "items": [
+        {
+          "id": 12536,
+          "slug": "crawling-pest-control-riyadh",
+          "title": "شركة مكافحة الحشرات الزاحفة بالرياض",
+          "fam": "pest"
+        },
+        {
+          "id": 12537,
+          "slug": "crawling-pest-control-jeddah",
+          "title": "شركة مكافحة الحشرات الزاحفة بجدة",
+          "fam": "pest"
+        },
+        {
+          "id": 12538,
+          "slug": "crawling-pest-control-mecca",
+          "title": "شركة مكافحة الحشرات الزاحفة بمكة المكرمة",
+          "fam": "pest"
+        },
+        {
+          "id": 12539,
+          "slug": "crawling-pest-control-medina",
+          "title": "شركة مكافحة الحشرات الزاحفة بالمدينة المنورة",
+          "fam": "pest"
+        },
+        {
+          "id": 12540,
+          "slug": "crawling-pest-control-dammam",
+          "title": "شركة مكافحة الحشرات الزاحفة بالدمام",
+          "fam": "pest"
+        },
+        {
+          "id": 12541,
+          "slug": "crawling-pest-control-khobar",
+          "title": "شركة مكافحة الحشرات الزاحفة بالخبر",
+          "fam": "pest"
+        },
+        {
+          "id": 12542,
+          "slug": "crawling-pest-control-taif",
+          "title": "شركة مكافحة الحشرات الزاحفة بالطائف",
+          "fam": "pest"
+        },
+        {
+          "id": 12543,
+          "slug": "crawling-pest-control-abha",
+          "title": "شركة مكافحة الحشرات الزاحفة بأبها",
+          "fam": "pest"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "fp": "شركة مكافحة الحشرات الطائرة بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور | آخر تحديث: سبتمبر 2026 | مراجعة: فريق العمليا",
+      "items": [
+        {
+          "id": 12544,
+          "slug": "flying-pest-control-riyadh",
+          "title": "شركة مكافحة الحشرات الطائرة بالرياض",
+          "fam": "pest"
+        },
+        {
+          "id": 12545,
+          "slug": "flying-pest-control-jeddah",
+          "title": "شركة مكافحة الحشرات الطائرة بجدة",
+          "fam": "pest"
+        },
+        {
+          "id": 12546,
+          "slug": "flying-pest-control-mecca",
+          "title": "شركة مكافحة الحشرات الطائرة بمكة المكرمة",
+          "fam": "pest"
+        },
+        {
+          "id": 12547,
+          "slug": "flying-pest-control-medina",
+          "title": "شركة مكافحة الحشرات الطائرة بالمدينة المنورة",
+          "fam": "pest"
+        },
+        {
+          "id": 12548,
+          "slug": "flying-pest-control-dammam",
+          "title": "شركة مكافحة الحشرات الطائرة بالدمام",
+          "fam": "pest"
+        },
+        {
+          "id": 12549,
+          "slug": "flying-pest-control-khobar",
+          "title": "شركة مكافحة الحشرات الطائرة بالخبر",
+          "fam": "pest"
+        },
+        {
+          "id": 12550,
+          "slug": "flying-pest-control-taif",
+          "title": "شركة مكافحة الحشرات الطائرة بالطائف",
+          "fam": "pest"
+        },
+        {
+          "id": 12551,
+          "slug": "flying-pest-control-abha",
+          "title": "شركة مكافحة الحشرات الطائرة بأبها",
+          "fam": "pest"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "fp": "شركة مكافحة النمل الأبيض (الرمة) بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور | آخر تحديث: سبتمبر 2026 | مراجعة: فريق ال",
+      "items": [
+        {
+          "id": 12552,
+          "slug": "termite-control-riyadh",
+          "title": "شركة مكافحة النمل الأبيض (الرمة) بالرياض",
+          "fam": "pest"
+        },
+        {
+          "id": 12553,
+          "slug": "termite-control-jeddah",
+          "title": "شركة مكافحة النمل الأبيض (الرمة) بجدة",
+          "fam": "pest"
+        },
+        {
+          "id": 12554,
+          "slug": "termite-control-mecca",
+          "title": "شركة مكافحة النمل الأبيض (الرمة) بمكة المكرمة",
+          "fam": "pest"
+        },
+        {
+          "id": 12555,
+          "slug": "termite-control-medina",
+          "title": "شركة مكافحة النمل الأبيض (الرمة) بالمدينة المنورة",
+          "fam": "pest"
+        },
+        {
+          "id": 12556,
+          "slug": "termite-control-dammam",
+          "title": "شركة مكافحة النمل الأبيض (الرمة) بالدمام",
+          "fam": "pest"
+        },
+        {
+          "id": 12557,
+          "slug": "termite-control-khobar",
+          "title": "شركة مكافحة النمل الأبيض (الرمة) بالخبر",
+          "fam": "pest"
+        },
+        {
+          "id": 12558,
+          "slug": "termite-control-taif",
+          "title": "شركة مكافحة النمل الأبيض (الرمة) بالطائف",
+          "fam": "pest"
+        },
+        {
+          "id": 12559,
+          "slug": "termite-control-abha",
+          "title": "شركة مكافحة النمل الأبيض (الرمة) بأبها",
+          "fam": "pest"
+        }
+      ]
+    }
+  ],
+  "publish_dup_title_count": 0,
+  "publish_dup_titles": [],
+  "mismatch_count": 0,
+  "mismatch_by_fam": {},
+  "mismatches": [],
+  "error_count": 2,
+  "error_by_code": {
+    "placeholder": 2
+  },
+  "errors_sample": [
+    {
+      "id": 10603,
+      "slug": "water-leak-detection-riyadh",
+      "title": "شركة كشف تسربات المياه بالرياض",
+      "errors": [
+        "placeholder"
+      ],
+      "aw": 3510
+    },
+    {
+      "id": 10604,
+      "slug": "roof-insulation-riyadh",
+      "title": "شركة عزل أسطح بالرياض",
+      "errors": [
+        "placeholder"
+      ],
+      "aw": 3496
+    }
+  ],
+  "missing_post_call_count": 0,
+  "missing_post_call": [],
+  "short_excerpt_count": 0,
+  "polluted_titles_count": 0,
+  "polluted_titles_sample": [],
+  "en_posts": [
+    {
+      "id": 9287,
+      "slug": "water-leak-detection-makkah-center",
+      "title": "كشف تسربات المياه في مكة",
+      "ew": 1145,
+      "aw": 922
+    },
+    {
+      "id": 14833,
+      "slug": "en-water-leak-detection-riyadh",
+      "title": "Water Leak Detection in Riyadh | Rukn Eltatawer",
+      "ew": 1018,
+      "aw": 4
+    },
+    {
+      "id": 14834,
+      "slug": "en-roof-waterproofing-riyadh",
+      "title": "Roof Waterproofing in Riyadh | Rukn Eltatawer",
+      "ew": 1013,
+      "aw": 3
+    },
+    {
+      "id": 14835,
+      "slug": "en-home-cleaning-riyadh",
+      "title": "Home Cleaning in Riyadh | Rukn Eltatawer",
+      "ew": 1021,
+      "aw": 0
+    }
+  ],
+  "needs_update_count": 503,
+  "needs_update_sample": [
+    {
+      "id": 9298,
+      "slug": "water-leak-detection-unaizah",
+      "title": "كشف تسربات المياه في عنيزة",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1478,
+      "lang": "ar"
+    },
+    {
+      "id": 9303,
+      "slug": "water-leak-detection-arar",
+      "title": "كشف تسربات المياه في عرعر",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1477,
+      "lang": "ar"
+    },
+    {
+      "id": 9304,
+      "slug": "water-leak-detection-al-baha",
+      "title": "كشف تسربات المياه في الباحة",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1381,
+      "lang": "ar"
+    },
+    {
+      "id": 9312,
+      "slug": "water-leak-detection-qatif",
+      "title": "كشف تسربات المياه في القطيف",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1360,
+      "lang": "ar"
+    },
+    {
+      "id": 9315,
+      "slug": "water-leak-detection-al-dawadmi",
+      "title": "كشف تسربات المياه في الدوادمي",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1353,
+      "lang": "ar"
+    },
+    {
+      "id": 9319,
+      "slug": "water-leak-detection-wadi-ad-dawasir",
+      "title": "كشف تسربات المياه في وادي الدواسر | شركة ركن التطور",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1518,
+      "lang": "ar"
+    },
+    {
+      "id": 9320,
+      "slug": "water-leak-detection-al-aflaj",
+      "title": "كشف تسربات المياه في الأفلاج | شركة ركن التطور",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1492,
+      "lang": "ar"
+    },
+    {
+      "id": 9323,
+      "slug": "water-leak-detection-sarat-obaidah",
+      "title": "كشف تسربات المياه في سراة عبيدة | شركة ركن التطور",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1524,
+      "lang": "ar"
+    },
+    {
+      "id": 9327,
+      "slug": "water-leak-detection-turaif",
+      "title": "كشف تسربات المياه في طريف | شركة ركن التطور",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1489,
+      "lang": "ar"
+    },
+    {
+      "id": 9328,
+      "slug": "water-leak-detection-al-qurayyat",
+      "title": "كشف تسربات المياه في القريات | شركة ركن التطور",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1486,
+      "lang": "ar"
+    },
+    {
+      "id": 9329,
+      "slug": "water-leak-detection-dumat-al-jandal",
+      "title": "كشف تسربات المياه في دومة الجندل | شركة ركن التطور",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1526,
+      "lang": "ar"
+    },
+    {
+      "id": 9335,
+      "slug": "water-leak-detection-al-jumum",
+      "title": "كشف تسربات المياه في الجموم | شركة ركن التطور",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1483,
+      "lang": "ar"
+    },
+    {
+      "id": 9340,
+      "slug": "water-leak-detection-tathlith",
+      "title": "كشف تسربات المياه في تثليث | شركة ركن التطور",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1495,
+      "lang": "ar"
+    },
+    {
+      "id": 9347,
+      "slug": "water-leak-detection-tanuma",
+      "title": "كشف تسربات المياه في تنومة | شركة ركن التطور",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1485,
+      "lang": "ar"
+    },
+    {
+      "id": 9351,
+      "slug": "water-leak-detection-umluj",
+      "title": "كشف تسربات المياه في أملج | شركة ركن التطور",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1494,
+      "lang": "ar"
+    },
+    {
+      "id": 9352,
+      "slug": "water-leak-detection-sharurah",
+      "title": "كشف تسربات المياه في شرورة | شركة ركن التطور",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1487,
+      "lang": "ar"
+    },
+    {
+      "id": 10276,
+      "slug": "asaar-tanzif-almanazil-bilriyadh",
+      "title": "أسعار تنظيف المنازل بالرياض",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1299,
+      "lang": "ar"
+    },
+    {
+      "id": 10278,
+      "slug": "sharikat-tanzif-filla-bilriyadh",
+      "title": "شركة تنظيف فلل بالرياض",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1308,
+      "lang": "ar"
+    },
+    {
+      "id": 10280,
+      "slug": "apartment-cleaning-in-riyadh",
+      "title": "شركة تنظيف شقق بالرياض",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1302,
+      "lang": "ar"
+    },
+    {
+      "id": 10283,
+      "slug": "tanzif-sijjad-wamaukit-bilriyadh",
+      "title": "تنظيف سجاد وموكيت بالرياض",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1302,
+      "lang": "ar"
+    },
+    {
+      "id": 10860,
+      "slug": "office-cleaning-riyadh",
+      "title": "شركة تنظيف مكاتب بالرياض",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1270,
+      "lang": "ar"
+    },
+    {
+      "id": 10862,
+      "slug": "school-nursery-cleaning-riyadh",
+      "title": "شركة تنظيف مدارس وحضانات بالرياض",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1311,
+      "lang": "ar"
+    },
+    {
+      "id": 10864,
+      "slug": "mall-cleaning-riyadh",
+      "title": "شركة تنظيف محلات تجارية ومولات بالرياض",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1368,
+      "lang": "ar"
+    },
+    {
+      "id": 10865,
+      "slug": "pool-cleaning-riyadh",
+      "title": "شركة تنظيف مسابح بالرياض",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1309,
+      "lang": "ar"
+    },
+    {
+      "id": 10871,
+      "slug": "moquette-cleaning-riyadh",
+      "title": "شركة تنظيف موكيت بالرياض",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1280,
+      "lang": "ar"
+    },
+    {
+      "id": 10873,
+      "slug": "curtain-cleaning-riyadh",
+      "title": "شركة تنظيف ستائر بالرياض",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1271,
+      "lang": "ar"
+    },
+    {
+      "id": 10879,
+      "slug": "deep-cleaning-riyadh",
+      "title": "شركة تنظيف وتعقيم شامل بالرياض",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1337,
+      "lang": "ar"
+    },
+    {
+      "id": 10882,
+      "slug": "home-cleaning-jeddah",
+      "title": "شركة تنظيف منازل بجدة",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1525,
+      "lang": "ar"
+    },
+    {
+      "id": 10885,
+      "slug": "palace-cleaning-jeddah",
+      "title": "شركة تنظيف قصور بجدة",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1302,
+      "lang": "ar"
+    },
+    {
+      "id": 10892,
+      "slug": "kitchen-cleaning-jeddah",
+      "title": "شركة تنظيف مطابخ بجدة",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1261,
+      "lang": "ar"
+    },
+    {
+      "id": 10893,
+      "slug": "bathroom-cleaning-jeddah",
+      "title": "شركة تنظيف حمامات بجدة",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1297,
+      "lang": "ar"
+    },
+    {
+      "id": 10898,
+      "slug": "sofa-cleaning-jeddah",
+      "title": "شركة تنظيف كنب بجدة",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1264,
+      "lang": "ar"
+    },
+    {
+      "id": 10901,
+      "slug": "marble-polishing-jeddah",
+      "title": "شركة تنظيف أرضيات رخام وجلي رخام بجدة",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1407,
+      "lang": "ar"
+    },
+    {
+      "id": 10910,
+      "slug": "villa-cleaning-mecca",
+      "title": "شركة تنظيف فلل بمكة المكرمة",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1344,
+      "lang": "ar"
+    },
+    {
+      "id": 10913,
+      "slug": "majlis-cleaning-mecca",
+      "title": "شركة تنظيف مجالس بمكة المكرمة",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1303,
+      "lang": "ar"
+    },
+    {
+      "id": 10914,
+      "slug": "school-nursery-cleaning-mecca",
+      "title": "شركة تنظيف مدارس وحضانات بمكة المكرمة",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1334,
+      "lang": "ar"
+    },
+    {
+      "id": 10915,
+      "slug": "hospital-clinic-cleaning-mecca",
+      "title": "شركة تنظيف مستشفيات وعيادات بمكة المكرمة",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1339,
+      "lang": "ar"
+    },
+    {
+      "id": 10927,
+      "slug": "marble-polishing-mecca",
+      "title": "شركة تنظيف أرضيات رخام وجلي رخام بمكة المكرمة",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1448,
+      "lang": "ar"
+    },
+    {
+      "id": 10928,
+      "slug": "glass-facade-cleaning-mecca",
+      "title": "شركة تنظيف واجهات زجاجية بمكة المكرمة",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1324,
+      "lang": "ar"
+    },
+    {
+      "id": 10934,
+      "slug": "home-cleaning-medina",
+      "title": "شركة تنظيف منازل بالمدينة المنورة",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1317,
+      "lang": "ar"
+    },
+    {
+      "id": 10938,
+      "slug": "office-cleaning-medina",
+      "title": "شركة تنظيف مكاتب بالمدينة المنورة",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1316,
+      "lang": "ar"
+    },
+    {
+      "id": 10946,
+      "slug": "water-tank-cleaning-medina",
+      "title": "شركة تنظيف خزانات مياه بالمدينة المنورة",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1420,
+      "lang": "ar"
+    },
+    {
+      "id": 10948,
+      "slug": "carpet-cleaning-medina",
+      "title": "شركة تنظيف سجاد بالمدينة المنورة",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1358,
+      "lang": "ar"
+    },
+    {
+      "id": 10951,
+      "slug": "curtain-cleaning-medina",
+      "title": "شركة تنظيف ستائر بالمدينة المنورة",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1318,
+      "lang": "ar"
+    },
+    {
+      "id": 10954,
+      "slug": "glass-facade-cleaning-medina",
+      "title": "شركة تنظيف واجهات زجاجية بالمدينة المنورة",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1351,
+      "lang": "ar"
+    },
+    {
+      "id": 10955,
+      "slug": "stone-facade-cleaning-medina",
+      "title": "شركة تنظيف واجهات حجرية بالمدينة المنورة",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1349,
+      "lang": "ar"
+    },
+    {
+      "id": 10961,
+      "slug": "apartment-cleaning-dammam",
+      "title": "شركة تنظيف شقق بالدمام",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1296,
+      "lang": "ar"
+    },
+    {
+      "id": 10962,
+      "slug": "villa-cleaning-dammam",
+      "title": "شركة تنظيف فلل بالدمام",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1298,
+      "lang": "ar"
+    },
+    {
+      "id": 10963,
+      "slug": "palace-cleaning-dammam",
+      "title": "شركة تنظيف قصور بالدمام",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1293,
+      "lang": "ar"
+    },
+    {
+      "id": 10965,
+      "slug": "majlis-cleaning-dammam",
+      "title": "شركة تنظيف مجالس بالدمام",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1266,
+      "lang": "ar"
+    },
+    {
+      "id": 10968,
+      "slug": "mall-cleaning-dammam",
+      "title": "شركة تنظيف محلات تجارية ومولات بالدمام",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1362,
+      "lang": "ar"
+    },
+    {
+      "id": 10972,
+      "slug": "water-tank-cleaning-dammam",
+      "title": "شركة تنظيف خزانات مياه بالدمام",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1341,
+      "lang": "ar"
+    },
+    {
+      "id": 10977,
+      "slug": "curtain-cleaning-dammam",
+      "title": "شركة تنظيف ستائر بالدمام",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1257,
+      "lang": "ar"
+    },
+    {
+      "id": 10996,
+      "slug": "kitchen-cleaning-khobar",
+      "title": "شركة تنظيف مطابخ بالخبر",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1255,
+      "lang": "ar"
+    },
+    {
+      "id": 11000,
+      "slug": "carpet-cleaning-khobar",
+      "title": "شركة تنظيف سجاد بالخبر",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1287,
+      "lang": "ar"
+    },
+    {
+      "id": 11001,
+      "slug": "moquette-cleaning-khobar",
+      "title": "شركة تنظيف موكيت بالخبر",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1248,
+      "lang": "ar"
+    },
+    {
+      "id": 11003,
+      "slug": "curtain-cleaning-khobar",
+      "title": "شركة تنظيف ستائر بالخبر",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1247,
+      "lang": "ar"
+    },
+    {
+      "id": 11009,
+      "slug": "deep-cleaning-khobar",
+      "title": "شركة تنظيف وتعقيم شامل بالخبر",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1321,
+      "lang": "ar"
+    },
+    {
+      "id": 11012,
+      "slug": "home-cleaning-taif",
+      "title": "شركة تنظيف منازل بالطائف",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1261,
+      "lang": "ar"
+    },
+    {
+      "id": 11013,
+      "slug": "apartment-cleaning-taif",
+      "title": "شركة تنظيف شقق بالطائف",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1301,
+      "lang": "ar"
+    },
+    {
+      "id": 11014,
+      "slug": "villa-cleaning-taif",
+      "title": "شركة تنظيف فلل بالطائف",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1301,
+      "lang": "ar"
+    },
+    {
+      "id": 11015,
+      "slug": "palace-cleaning-taif",
+      "title": "شركة تنظيف قصور بالطائف",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1306,
+      "lang": "ar"
+    },
+    {
+      "id": 11018,
+      "slug": "school-nursery-cleaning-taif",
+      "title": "شركة تنظيف مدارس وحضانات بالطائف",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1296,
+      "lang": "ar"
+    },
+    {
+      "id": 11019,
+      "slug": "hospital-clinic-cleaning-taif",
+      "title": "شركة تنظيف مستشفيات وعيادات بالطائف",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1293,
+      "lang": "ar"
+    },
+    {
+      "id": 11022,
+      "slug": "kitchen-cleaning-taif",
+      "title": "شركة تنظيف مطابخ بالطائف",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1261,
+      "lang": "ar"
+    },
+    {
+      "id": 11026,
+      "slug": "carpet-cleaning-taif",
+      "title": "شركة تنظيف سجاد بالطائف",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1292,
+      "lang": "ar"
+    },
+    {
+      "id": 11029,
+      "slug": "curtain-cleaning-taif",
+      "title": "شركة تنظيف ستائر بالطائف",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1263,
+      "lang": "ar"
+    },
+    {
+      "id": 11033,
+      "slug": "stone-facade-cleaning-taif",
+      "title": "شركة تنظيف واجهات حجرية بالطائف",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1287,
+      "lang": "ar"
+    },
+    {
+      "id": 11035,
+      "slug": "deep-cleaning-taif",
+      "title": "شركة تنظيف وتعقيم شامل بالطائف",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1331,
+      "lang": "ar"
+    },
+    {
+      "id": 11040,
+      "slug": "villa-cleaning-abha",
+      "title": "شركة تنظيف فلل بأبها",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1287,
+      "lang": "ar"
+    },
+    {
+      "id": 11049,
+      "slug": "bathroom-cleaning-abha",
+      "title": "شركة تنظيف حمامات بأبها",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1289,
+      "lang": "ar"
+    },
+    {
+      "id": 11050,
+      "slug": "water-tank-cleaning-abha",
+      "title": "شركة تنظيف خزانات مياه بأبها",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1353,
+      "lang": "ar"
+    },
+    {
+      "id": 11051,
+      "slug": "diesel-tank-cleaning-abha",
+      "title": "شركة تنظيف خزانات ديزل بأبها",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1346,
+      "lang": "ar"
+    },
+    {
+      "id": 11061,
+      "slug": "deep-cleaning-abha",
+      "title": "شركة تنظيف وتعقيم شامل بأبها",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1333,
+      "lang": "ar"
+    },
+    {
+      "id": 11136,
+      "slug": "split-ac-maintenance-riyadh",
+      "title": "شركة صيانة مكيفات سبليت بالرياض",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1576,
+      "lang": "ar"
+    },
+    {
+      "id": 11138,
+      "slug": "elevator-maintenance-riyadh",
+      "title": "شركة صيانة مصاعد بالرياض",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1260,
+      "lang": "ar"
+    },
+    {
+      "id": 11140,
+      "slug": "automatic-doors-maintenance-riyadh",
+      "title": "شركة صيانة أبواب أوتوماتيكية بالرياض",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1282,
+      "lang": "ar"
+    },
+    {
+      "id": 11142,
+      "slug": "stove-maintenance-riyadh",
+      "title": "شركة صيانة بوتاجازات بالرياض",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1286,
+      "lang": "ar"
+    },
+    {
+      "id": 11143,
+      "slug": "appliance-maintenance-riyadh",
+      "title": "شركة صيانة الأجهزة الكهربائية بالرياض",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1294,
+      "lang": "ar"
+    },
+    {
+      "id": 11146,
+      "slug": "dryer-maintenance-riyadh",
+      "title": "شركة صيانة نشافات بالرياض",
+      "reasons": [
+        "template_heavy"
+      ],
+      "aw": 1293,
+      "lang": "ar"
+    }
+  ],
+  "coverage": {
+    "leak": [
+      "abha",
+      "ahsa",
+      "arar",
+      "baha",
+      "buraidah",
+      "dammam",
+      "dhahran",
+      "hail",
+      "hofuf",
+      "jazan",
+      "jeddah",
+      "jubail",
+      "khafji",
+      "khamis-mushait",
+      "kharj",
+      "khobar",
+      "makkah",
+      "mecca",
+      "medina",
+      "najran",
+      "qatif",
+      "riyadh",
+      "tabuk",
+      "taif",
+      "unaizah",
+      "yanbu"
+    ],
+    "clean": [
+      "abha",
+      "ahsa",
+      "baha",
+      "buraidah",
+      "dammam",
+      "hail",
+      "jazan",
+      "jeddah",
+      "jubail",
+      "khamis-mushait",
+      "khobar",
+      "mecca",
+      "medina",
+      "riyadh",
+      "tabuk",
+      "taif",
+      "yanbu"
+    ],
+    "insul": [
+      "abha",
+      "ahsa",
+      "buraidah",
+      "dammam",
+      "hail",
+      "jazan",
+      "jeddah",
+      "jubail",
+      "khamis-mushait",
+      "khobar",
+      "mecca",
+      "medina",
+      "riyadh",
+      "tabuk",
+      "taif",
+      "yanbu"
+    ],
+    "elec": [
+      "abha",
+      "dammam",
+      "jeddah",
+      "khobar",
+      "mecca",
+      "medina",
+      "riyadh",
+      "taif"
+    ],
+    "plumb": [
+      "abha",
+      "dammam",
+      "jeddah",
+      "khobar",
+      "mecca",
+      "medina",
+      "riyadh",
+      "taif"
+    ],
+    "ac": [
+      "abha",
+      "ahsa",
+      "buraidah",
+      "dammam",
+      "hail",
+      "jazan",
+      "jeddah",
+      "jubail",
+      "khamis-mushait",
+      "khobar",
+      "mecca",
+      "medina",
+      "riyadh",
+      "tabuk",
+      "taif",
+      "yanbu"
+    ],
+    "grass": [
+      "abha",
+      "dammam",
+      "jeddah",
+      "khobar",
+      "mecca",
+      "medina",
+      "riyadh",
+      "taif"
+    ],
+    "move": [
+      "abha",
+      "dammam",
+      "jeddah",
+      "khobar",
+      "mecca",
+      "medina",
+      "riyadh",
+      "taif"
+    ],
+    "pest": [
+      "abha",
+      "ahsa",
+      "buraidah",
+      "dammam",
+      "hail",
+      "jazan",
+      "jeddah",
+      "jubail",
+      "khamis-mushait",
+      "khobar",
+      "mecca",
+      "medina",
+      "riyadh",
+      "tabuk",
+      "taif",
+      "yanbu"
+    ]
+  },
+  "coverage_gaps": {
+    "leak": {
+      "service": "كشف تسربات المياه",
+      "have_count": 26,
+      "have_cities": [
+        "abha",
+        "ahsa",
+        "arar",
+        "baha",
+        "buraidah",
+        "dammam",
+        "dhahran",
+        "hail",
+        "hofuf",
+        "jazan",
+        "jeddah",
+        "jubail",
+        "khafji",
+        "khamis-mushait",
+        "kharj",
+        "khobar",
+        "makkah",
+        "mecca",
+        "medina",
+        "najran",
+        "qatif",
+        "riyadh",
+        "tabuk",
+        "taif",
+        "unaizah",
+        "yanbu"
+      ],
+      "missing_core8": [],
+      "missing_extended": [
+        "hafar-albatin"
+      ]
+    },
+    "insul": {
+      "service": "عزل أسطح/خزانات",
+      "have_count": 16,
+      "have_cities": [
+        "abha",
+        "ahsa",
+        "buraidah",
+        "dammam",
+        "hail",
+        "jazan",
+        "jeddah",
+        "jubail",
+        "khamis-mushait",
+        "khobar",
+        "mecca",
+        "medina",
+        "riyadh",
+        "tabuk",
+        "taif",
+        "yanbu"
+      ],
+      "missing_core8": [],
+      "missing_extended": [
+        "najran",
+        "khafji",
+        "qatif",
+        "dhahran",
+        "hafar-albatin",
+        "kharj",
+        "baha"
+      ]
+    },
+    "ac": {
+      "service": "تكييف/غسيل مكيفات",
+      "have_count": 16,
+      "have_cities": [
+        "abha",
+        "ahsa",
+        "buraidah",
+        "dammam",
+        "hail",
+        "jazan",
+        "jeddah",
+        "jubail",
+        "khamis-mushait",
+        "khobar",
+        "mecca",
+        "medina",
+        "riyadh",
+        "tabuk",
+        "taif",
+        "yanbu"
+      ],
+      "missing_core8": [],
+      "missing_extended": [
+        "najran",
+        "khafji",
+        "qatif",
+        "dhahran",
+        "hafar-albatin",
+        "kharj",
+        "baha"
+      ]
+    },
+    "clean": {
+      "service": "تنظيف",
+      "have_count": 17,
+      "have_cities": [
+        "abha",
+        "ahsa",
+        "baha",
+        "buraidah",
+        "dammam",
+        "hail",
+        "jazan",
+        "jeddah",
+        "jubail",
+        "khamis-mushait",
+        "khobar",
+        "mecca",
+        "medina",
+        "riyadh",
+        "tabuk",
+        "taif",
+        "yanbu"
+      ],
+      "missing_core8": [],
+      "missing_extended": [
+        "najran",
+        "khafji",
+        "qatif",
+        "dhahran",
+        "hafar-albatin",
+        "kharj"
+      ]
+    },
+    "pest": {
+      "service": "مكافحة حشرات",
+      "have_count": 16,
+      "have_cities": [
+        "abha",
+        "ahsa",
+        "buraidah",
+        "dammam",
+        "hail",
+        "jazan",
+        "jeddah",
+        "jubail",
+        "khamis-mushait",
+        "khobar",
+        "mecca",
+        "medina",
+        "riyadh",
+        "tabuk",
+        "taif",
+        "yanbu"
+      ],
+      "missing_core8": [],
+      "missing_extended": [
+        "najran",
+        "khafji",
+        "qatif",
+        "dhahran",
+        "hafar-albatin",
+        "kharj",
+        "baha"
+      ]
+    },
+    "plumb": {
+      "service": "سباكة",
+      "have_count": 8,
+      "have_cities": [
+        "abha",
+        "dammam",
+        "jeddah",
+        "khobar",
+        "mecca",
+        "medina",
+        "riyadh",
+        "taif"
+      ],
+      "missing_core8": [],
+      "missing_extended": [
+        "tabuk",
+        "buraidah",
+        "khamis-mushait",
+        "najran",
+        "jazan",
+        "yanbu",
+        "jubail",
+        "ahsa",
+        "hail",
+        "khafji",
+        "qatif",
+        "dhahran",
+        "hafar-albatin",
+        "kharj",
+        "baha"
+      ]
+    },
+    "elec": {
+      "service": "كهرباء",
+      "have_count": 8,
+      "have_cities": [
+        "abha",
+        "dammam",
+        "jeddah",
+        "khobar",
+        "mecca",
+        "medina",
+        "riyadh",
+        "taif"
+      ],
+      "missing_core8": [],
+      "missing_extended": [
+        "tabuk",
+        "buraidah",
+        "khamis-mushait",
+        "najran",
+        "jazan",
+        "yanbu",
+        "jubail",
+        "ahsa",
+        "hail",
+        "khafji",
+        "qatif",
+        "dhahran",
+        "hafar-albatin",
+        "kharj",
+        "baha"
+      ]
+    },
+    "grass": {
+      "service": "عشب صناعي",
+      "have_count": 8,
+      "have_cities": [
+        "abha",
+        "dammam",
+        "jeddah",
+        "khobar",
+        "mecca",
+        "medina",
+        "riyadh",
+        "taif"
+      ],
+      "missing_core8": [],
+      "missing_extended": [
+        "tabuk",
+        "buraidah",
+        "khamis-mushait",
+        "najran",
+        "jazan",
+        "yanbu",
+        "jubail",
+        "ahsa",
+        "hail",
+        "khafji",
+        "qatif",
+        "dhahran",
+        "hafar-albatin",
+        "kharj",
+        "baha"
+      ]
+    },
+    "move": {
+      "service": "نقل/شحن",
+      "have_count": 8,
+      "have_cities": [
+        "abha",
+        "dammam",
+        "jeddah",
+        "khobar",
+        "mecca",
+        "medina",
+        "riyadh",
+        "taif"
+      ],
+      "missing_core8": [],
+      "missing_extended": [
+        "tabuk",
+        "buraidah",
+        "khamis-mushait",
+        "najran",
+        "jazan",
+        "yanbu",
+        "jubail",
+        "ahsa",
+        "hail",
+        "khafji",
+        "qatif",
+        "dhahran",
+        "hafar-albatin",
+        "kharj",
+        "baha"
+      ]
+    }
+  },
+  "thin_hubs": [
+    {
+      "type": "page",
+      "id": 2453,
+      "slug": "blog",
+      "title": "المدونة",
+      "aw": 12,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/blog/",
+      "parent": 0
+    },
+    {
+      "type": "page",
+      "id": 7458,
+      "slug": "sitemap",
+      "title": "خريطة الموقع",
+      "aw": 60,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/sitemap/",
+      "parent": 0
+    },
+    {
+      "type": "page",
+      "id": 7460,
+      "slug": "about",
+      "title": "من نحن",
+      "aw": 351,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/about/",
+      "parent": 0
+    },
+    {
+      "type": "page",
+      "id": 7461,
+      "slug": "contact-us",
+      "title": "اتصل بنا",
+      "aw": 353,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/contact-us/",
+      "parent": 0
+    },
+    {
+      "type": "page",
+      "id": 7462,
+      "slug": "privacy-policy",
+      "title": "سياسة الخصوصية",
+      "aw": 94,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/privacy-policy/",
+      "parent": 0
+    },
+    {
+      "type": "page",
+      "id": 7463,
+      "slug": "services",
+      "title": "خدماتنا",
+      "aw": 359,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/services/",
+      "parent": 0
+    },
+    {
+      "type": "page",
+      "id": 7464,
+      "slug": "pricing",
+      "title": "الأسعار",
+      "aw": 321,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/pricing/",
+      "parent": 0
+    },
+    {
+      "type": "page",
+      "id": 7465,
+      "slug": "cities",
+      "title": "المدن",
+      "aw": 353,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/cities/",
+      "parent": 0
+    },
+    {
+      "type": "page",
+      "id": 7467,
+      "slug": "faq",
+      "title": "الأسئلة الشائعة",
+      "aw": 355,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/faq/",
+      "parent": 0
+    },
+    {
+      "type": "page",
+      "id": 23069,
+      "slug": "terms",
+      "title": "الشروط والأحكام",
+      "aw": 87,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/terms/",
+      "parent": 0
+    }
+  ],
+  "city_pages": [
+    {
+      "type": "page",
+      "id": 7465,
+      "slug": "cities",
+      "title": "المدن",
+      "aw": 353,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/cities/",
+      "parent": 0
+    },
+    {
+      "type": "page",
+      "id": 23070,
+      "slug": "riyadh",
+      "title": "خدمات ركن التطور في الرياض",
+      "aw": 560,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/cities/riyadh/",
+      "parent": 7465
+    },
+    {
+      "type": "page",
+      "id": 23071,
+      "slug": "jeddah",
+      "title": "خدمات ركن التطور في جدة",
+      "aw": 560,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/cities/jeddah/",
+      "parent": 7465
+    },
+    {
+      "type": "page",
+      "id": 23072,
+      "slug": "makkah",
+      "title": "خدمات ركن التطور في مكة المكرمة",
+      "aw": 555,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/cities/makkah/",
+      "parent": 7465
+    },
+    {
+      "type": "page",
+      "id": 23073,
+      "slug": "madinah",
+      "title": "خدمات ركن التطور في المدينة المنورة",
+      "aw": 553,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/cities/madinah/",
+      "parent": 7465
+    },
+    {
+      "type": "page",
+      "id": 23074,
+      "slug": "dammam",
+      "title": "خدمات ركن التطور في الدمام",
+      "aw": 560,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/cities/dammam/",
+      "parent": 7465
+    },
+    {
+      "type": "page",
+      "id": 23075,
+      "slug": "khobar",
+      "title": "خدمات ركن التطور في الخبر",
+      "aw": 560,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/cities/khobar/",
+      "parent": 7465
+    },
+    {
+      "type": "page",
+      "id": 23076,
+      "slug": "taif",
+      "title": "خدمات ركن التطور في الطائف",
+      "aw": 560,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/cities/taif/",
+      "parent": 7465
+    },
+    {
+      "type": "page",
+      "id": 23077,
+      "slug": "abha",
+      "title": "خدمات ركن التطور في أبها",
+      "aw": 559,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/cities/abha/",
+      "parent": 7465
+    },
+    {
+      "type": "page",
+      "id": 23796,
+      "slug": "tabuk",
+      "title": "خدمات ركن التطور في تبوك",
+      "aw": 562,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/cities/tabuk/",
+      "parent": 7465
+    },
+    {
+      "type": "page",
+      "id": 23797,
+      "slug": "buraidah",
+      "title": "خدمات ركن التطور في بريدة",
+      "aw": 561,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/cities/buraidah/",
+      "parent": 7465
+    },
+    {
+      "type": "page",
+      "id": 23798,
+      "slug": "khamis-mushait",
+      "title": "خدمات ركن التطور في خميس مشيط",
+      "aw": 554,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/cities/khamis-mushait/",
+      "parent": 7465
+    },
+    {
+      "type": "page",
+      "id": 23799,
+      "slug": "jazan",
+      "title": "خدمات ركن التطور في جازان",
+      "aw": 560,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/cities/jazan/",
+      "parent": 7465
+    },
+    {
+      "type": "page",
+      "id": 23800,
+      "slug": "ahsa",
+      "title": "خدمات ركن التطور في الأحساء",
+      "aw": 561,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/cities/ahsa/",
+      "parent": 7465
+    },
+    {
+      "type": "page",
+      "id": 23801,
+      "slug": "hail",
+      "title": "خدمات ركن التطور في حائل",
+      "aw": 561,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/cities/hail/",
+      "parent": 7465
+    },
+    {
+      "type": "page",
+      "id": 23802,
+      "slug": "yanbu",
+      "title": "خدمات ركن التطور في ينبع",
+      "aw": 561,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/cities/yanbu/",
+      "parent": 7465
+    },
+    {
+      "type": "page",
+      "id": 23803,
+      "slug": "jubail",
+      "title": "خدمات ركن التطور في الجبيل",
+      "aw": 561,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/cities/jubail/",
+      "parent": 7465
+    }
+  ],
+  "hubs": [
+    {
+      "type": "page",
+      "id": 2453,
+      "slug": "blog",
+      "title": "المدونة",
+      "aw": 12,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/blog/",
+      "parent": 0
+    },
+    {
+      "type": "page",
+      "id": 7458,
+      "slug": "sitemap",
+      "title": "خريطة الموقع",
+      "aw": 60,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/sitemap/",
+      "parent": 0
+    },
+    {
+      "type": "page",
+      "id": 7460,
+      "slug": "about",
+      "title": "من نحن",
+      "aw": 351,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/about/",
+      "parent": 0
+    },
+    {
+      "type": "page",
+      "id": 7461,
+      "slug": "contact-us",
+      "title": "اتصل بنا",
+      "aw": 353,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/contact-us/",
+      "parent": 0
+    },
+    {
+      "type": "page",
+      "id": 7462,
+      "slug": "privacy-policy",
+      "title": "سياسة الخصوصية",
+      "aw": 94,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/privacy-policy/",
+      "parent": 0
+    },
+    {
+      "type": "page",
+      "id": 7463,
+      "slug": "services",
+      "title": "خدماتنا",
+      "aw": 359,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/services/",
+      "parent": 0
+    },
+    {
+      "type": "page",
+      "id": 7464,
+      "slug": "pricing",
+      "title": "الأسعار",
+      "aw": 321,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/pricing/",
+      "parent": 0
+    },
+    {
+      "type": "page",
+      "id": 7465,
+      "slug": "cities",
+      "title": "المدن",
+      "aw": 353,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/cities/",
+      "parent": 0
+    },
+    {
+      "type": "page",
+      "id": 7467,
+      "slug": "faq",
+      "title": "الأسئلة الشائعة",
+      "aw": 355,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/faq/",
+      "parent": 0
+    },
+    {
+      "type": "page",
+      "id": 23069,
+      "slug": "terms",
+      "title": "الشروط والأحكام",
+      "aw": 87,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/terms/",
+      "parent": 0
+    },
+    {
+      "type": "page",
+      "id": 23070,
+      "slug": "riyadh",
+      "title": "خدمات ركن التطور في الرياض",
+      "aw": 560,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/cities/riyadh/",
+      "parent": 7465
+    },
+    {
+      "type": "page",
+      "id": 23071,
+      "slug": "jeddah",
+      "title": "خدمات ركن التطور في جدة",
+      "aw": 560,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/cities/jeddah/",
+      "parent": 7465
+    },
+    {
+      "type": "page",
+      "id": 23072,
+      "slug": "makkah",
+      "title": "خدمات ركن التطور في مكة المكرمة",
+      "aw": 555,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/cities/makkah/",
+      "parent": 7465
+    },
+    {
+      "type": "page",
+      "id": 23073,
+      "slug": "madinah",
+      "title": "خدمات ركن التطور في المدينة المنورة",
+      "aw": 553,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/cities/madinah/",
+      "parent": 7465
+    },
+    {
+      "type": "page",
+      "id": 23074,
+      "slug": "dammam",
+      "title": "خدمات ركن التطور في الدمام",
+      "aw": 560,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/cities/dammam/",
+      "parent": 7465
+    },
+    {
+      "type": "page",
+      "id": 23075,
+      "slug": "khobar",
+      "title": "خدمات ركن التطور في الخبر",
+      "aw": 560,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/cities/khobar/",
+      "parent": 7465
+    },
+    {
+      "type": "page",
+      "id": 23076,
+      "slug": "taif",
+      "title": "خدمات ركن التطور في الطائف",
+      "aw": 560,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/cities/taif/",
+      "parent": 7465
+    },
+    {
+      "type": "page",
+      "id": 23077,
+      "slug": "abha",
+      "title": "خدمات ركن التطور في أبها",
+      "aw": 559,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/cities/abha/",
+      "parent": 7465
+    },
+    {
+      "type": "page",
+      "id": 23796,
+      "slug": "tabuk",
+      "title": "خدمات ركن التطور في تبوك",
+      "aw": 562,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/cities/tabuk/",
+      "parent": 7465
+    },
+    {
+      "type": "page",
+      "id": 23797,
+      "slug": "buraidah",
+      "title": "خدمات ركن التطور في بريدة",
+      "aw": 561,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/cities/buraidah/",
+      "parent": 7465
+    },
+    {
+      "type": "page",
+      "id": 23798,
+      "slug": "khamis-mushait",
+      "title": "خدمات ركن التطور في خميس مشيط",
+      "aw": 554,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/cities/khamis-mushait/",
+      "parent": 7465
+    },
+    {
+      "type": "page",
+      "id": 23799,
+      "slug": "jazan",
+      "title": "خدمات ركن التطور في جازان",
+      "aw": 560,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/cities/jazan/",
+      "parent": 7465
+    },
+    {
+      "type": "page",
+      "id": 23800,
+      "slug": "ahsa",
+      "title": "خدمات ركن التطور في الأحساء",
+      "aw": 561,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/cities/ahsa/",
+      "parent": 7465
+    },
+    {
+      "type": "page",
+      "id": 23801,
+      "slug": "hail",
+      "title": "خدمات ركن التطور في حائل",
+      "aw": 561,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/cities/hail/",
+      "parent": 7465
+    },
+    {
+      "type": "page",
+      "id": 23802,
+      "slug": "yanbu",
+      "title": "خدمات ركن التطور في ينبع",
+      "aw": 561,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/cities/yanbu/",
+      "parent": 7465
+    },
+    {
+      "type": "page",
+      "id": 23803,
+      "slug": "jubail",
+      "title": "خدمات ركن التطور في الجبيل",
+      "aw": 561,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/cities/jubail/",
+      "parent": 7465
+    },
+    {
+      "type": "service_cpt",
+      "id": 1868,
+      "slug": "construction-and-maintenance-of-swimming-pools",
+      "title": "خدمات إنشاء وصيانة المسابح",
+      "aw": 2101,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/services/construction-and-maintenance-of-swimming-pools/",
+      "parent": null
+    },
+    {
+      "type": "service_cpt",
+      "id": 1870,
+      "slug": "landscaping",
+      "title": "خدمات تنسيق الحدائق",
+      "aw": 2123,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/services/landscaping/",
+      "parent": null
+    },
+    {
+      "type": "service_cpt",
+      "id": 1872,
+      "slug": "parquet-installation",
+      "title": "خدمات تركيب الباركيه",
+      "aw": 2091,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/services/parquet-installation/",
+      "parent": null
+    },
+    {
+      "type": "service_cpt",
+      "id": 1874,
+      "slug": "gypsum-board-installation",
+      "title": "خدمات تركيب جبس بورد",
+      "aw": 2159,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/services/gypsum-board-installation/",
+      "parent": null
+    },
+    {
+      "type": "service_cpt",
+      "id": 1876,
+      "slug": "sound-insulation-installation",
+      "title": "خدمات تركيب عازل الصوت",
+      "aw": 2133,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/services/sound-insulation-installation/",
+      "parent": null
+    },
+    {
+      "type": "service_cpt",
+      "id": 1877,
+      "slug": "water-leak-detection",
+      "title": "خدمات كشف تسربات المياه",
+      "aw": 2184,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/services/water-leak-detection/",
+      "parent": null
+    },
+    {
+      "type": "service_cpt",
+      "id": 1879,
+      "slug": "insulation-of-roofs-and-cabinets",
+      "title": "خدمات عزل الأسطح والخزانات",
+      "aw": 2148,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/services/insulation-of-roofs-and-cabinets/",
+      "parent": null
+    },
+    {
+      "type": "service_cpt",
+      "id": 1881,
+      "slug": "sewer-wiring",
+      "title": "خدمات تسليك المجاري",
+      "aw": 2084,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/services/sewer-wiring/",
+      "parent": null
+    },
+    {
+      "type": "service_cpt",
+      "id": 1883,
+      "slug": "air-conditioner-maintenance-and-installation",
+      "title": "خدمات صيانة وتركيب المكيفات",
+      "aw": 2105,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/services/air-conditioner-maintenance-and-installation/",
+      "parent": null
+    },
+    {
+      "type": "service_cpt",
+      "id": 1885,
+      "slug": "cleaning-and-sterilization",
+      "title": "خدمات تنظيف عميق وتعقيم",
+      "aw": 2161,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/services/cleaning-and-sterilization/",
+      "parent": null
+    },
+    {
+      "type": "service_cpt",
+      "id": 1887,
+      "slug": "pest-control",
+      "title": "خدمات مكافحة الحشرات",
+      "aw": 2139,
+      "status": "publish",
+      "link": "https://www.rukn-eltatawer.com/sa/services/pest-control/",
+      "parent": null
+    }
+  ],
+  "frontend_smoke": {
+    "https://www.rukn-eltatawer.com/sa/": {
+      "status": 200,
+      "wa": [
+        "971586634710"
+      ],
+      "tel": [],
+      "has_011": false,
+      "has_056": false,
+      "has_971": true,
+      "title": "شركة ركن التطور | صيانة عامة وكشف تسربات المياه والعزل في السعودية"
+    },
+    "https://www.rukn-eltatawer.com/sa/cities/riyadh/": {
+      "status": 200,
+      "wa": [
+        "971586634710"
+      ],
+      "tel": [],
+      "has_011": false,
+      "has_056": false,
+      "has_971": true,
+      "title": "الرياض | ركن التطور السعودية"
+    },
+    "https://www.rukn-eltatawer.com/sa/cities/tabuk/": {
+      "status": 200,
+      "wa": [
+        "971586634710"
+      ],
+      "tel": [],
+      "has_011": false,
+      "has_056": false,
+      "has_971": true,
+      "title": "خدمات ركن التطور في تبوك ركن التطور 🇸🇦"
+    },
+    "https://www.rukn-eltatawer.com/sa/water-leak-detection-riyadh/": {
+      "status": 200,
+      "wa": [
+        "971586634710"
+      ],
+      "tel": [],
+      "has_011": false,
+      "has_056": false,
+      "has_971": true,
+      "title": "شركة كشف تسربات المياه بالرياض"
+    }
+  },
+  "missing_services": {
+    "core_fams_present": [
+      "ac",
+      "clean",
+      "elec",
+      "grass",
+      "insul",
+      "leak",
+      "move",
+      "pest",
+      "plumb"
+    ],
+    "core_fams_missing": [],
+    "niche_present": [
+      "camera_drain",
+      "tank_cleaning",
+      "septic",
+      "marble",
+      "curtain",
+      "kitchen_hood"
+    ],
+    "niche_missing_suggested": [
+      "solar",
+      "generator",
+      "smart_home"
+    ]
+  },
+  "placeholder_detail": [
+    {
+      "id": 10603,
+      "slug": "water-leak-detection-riyadh",
+      "tokens": [
+        "{COMPANY}",
+        "{YEAR}"
+      ]
+    },
+    {
+      "id": 10604,
+      "slug": "roof-insulation-riyadh",
+      "tokens": [
+        "{COMPANY}",
+        "{YEAR}"
+      ]
+    }
+  ],
+  "coverage_gap_highlight": {
+    "plumb_elec_grass_move_only_core8": true,
+    "leak_widest": true,
+    "thin_core_pages": [
+      "about",
+      "contact-us",
+      "services",
+      "cities",
+      "faq",
+      "pricing",
+      "blog"
+    ]
+  }
+}
