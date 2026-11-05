@@ -1,0 +1,3694 @@
+{
+  "at": "2026-11-05T18:31:21.920261+00:00",
+  "mode": "read_only_focus",
+  "posts_checked": 1792,
+  "by_fam": {
+    "leak": {
+      "label": "كشف التسربات",
+      "publish": 106,
+      "draft": 9,
+      "cities_count": 26,
+      "cities": [
+        "abha",
+        "ahsa",
+        "arar",
+        "baha",
+        "buraidah",
+        "dammam",
+        "dhahran",
+        "hail",
+        "hofuf",
+        "jazan",
+        "jeddah",
+        "jubail",
+        "khafji",
+        "khamis-mushait",
+        "kharj",
+        "khobar",
+        "makkah",
+        "mecca",
+        "medina",
+        "najran",
+        "qatif",
+        "riyadh",
+        "tabuk",
+        "taif",
+        "unaizah",
+        "yanbu"
+      ],
+      "missing_core8": [],
+      "missing_extended": [
+        "hafar-albatin"
+      ],
+      "thin_count": 1,
+      "thin_sample": [
+        {
+          "id": 9287,
+          "slug": "water-leak-detection-makkah-center",
+          "title": "كشف تسربات المياه في مكة",
+          "status": "publish",
+          "link": "https://www.rukn-eltatawer.com/sa/water-leak-detection-makkah-center/",
+          "city": "makkah",
+          "aw": 922,
+          "ew": 1783,
+          "has_post_call": true,
+          "short_excerpt": false,
+          "placeholders": false,
+          "polluted_title": false,
+          "fam": "leak",
+          "topic_hits": 29,
+          "anti_hits": 0,
+          "mismatch": false,
+          "thin": true,
+          "words": 922
+        }
+      ],
+      "mismatch_count": 0,
+      "mismatch_sample": [],
+      "placeholder_count": 1,
+      "placeholder_sample": [
+        {
+          "id": 10603,
+          "slug": "water-leak-detection-riyadh",
+          "title": "شركة كشف تسربات المياه بالرياض",
+          "status": "publish",
+          "link": "https://www.rukn-eltatawer.com/sa/water-leak-detection-riyadh/",
+          "city": "riyadh",
+          "aw": 3510,
+          "ew": 26,
+          "has_post_call": true,
+          "short_excerpt": false,
+          "placeholders": true,
+          "polluted_title": false,
+          "fam": "leak",
+          "topic_hits": 126,
+          "anti_hits": 0,
+          "mismatch": false,
+          "thin": false,
+          "words": 3510
+        }
+      ],
+      "no_post_call": 0,
+      "polluted_titles": 0,
+      "city_swap_clusters": [
+        {
+          "n": 8,
+          "fp": "تقديم كشف تسربات المياه في CITY عبر ركن التطور يبدأ من فهم العَرَض المحلي: تسرب خفي وارتفاع فاتورة المياه وبقع الرطوبة. ",
+          "items": [
+            {
+              "id": 9294,
+              "slug": "water-leak-detection-khamis-mushait",
+              "city": "khamis-mushait"
+            },
+            {
+              "id": 9296,
+              "slug": "water-leak-detection-tabuk",
+              "city": "tabuk"
+            },
+            {
+              "id": 9297,
+              "slug": "water-leak-detection-buraidah",
+              "city": "buraidah"
+            },
+            {
+              "id": 9299,
+              "slug": "water-leak-detection-hail",
+              "city": "hail"
+            },
+            {
+              "id": 9301,
+              "slug": "water-leak-detection-jazan",
+              "city": "jazan"
+            },
+            {
+              "id": 9305,
+              "slug": "water-leak-detection-yanbu",
+              "city": "yanbu"
+            },
+            {
+              "id": 9311,
+              "slug": "water-leak-detection-jubail",
+              "city": "jubail"
+            },
+            {
+              "id": 23824,
+              "slug": "water-leak-detection-ahsa",
+              "city": "ahsa"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "fp": "شركة كشف تسربات الغاز بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &nbsp;",
+          "items": [
+            {
+              "id": 11339,
+              "slug": "gas-leak-detection-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 11350,
+              "slug": "gas-leak-detection-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 11362,
+              "slug": "gas-leak-detection-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 11374,
+              "slug": "gas-leak-detection-medina",
+              "city": "medina"
+            },
+            {
+              "id": 11385,
+              "slug": "gas-leak-detection-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 11396,
+              "slug": "gas-leak-detection-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 11407,
+              "slug": "gas-leak-detection-taif",
+              "city": "taif"
+            },
+            {
+              "id": 11927,
+              "slug": "gas-leak-detection-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "fp": "شركة كشف تسربات التكييف بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &nbs",
+          "items": [
+            {
+              "id": 11340,
+              "slug": "ac-leak-detection-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 11351,
+              "slug": "ac-leak-detection-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 11363,
+              "slug": "ac-leak-detection-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 11375,
+              "slug": "ac-leak-detection-medina",
+              "city": "medina"
+            },
+            {
+              "id": 11386,
+              "slug": "ac-leak-detection-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 11397,
+              "slug": "ac-leak-detection-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 11408,
+              "slug": "ac-leak-detection-taif",
+              "city": "taif"
+            },
+            {
+              "id": 11935,
+              "slug": "ac-leak-detection-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "fp": "شركة صيانة ودهان بعد التسريبات بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 20",
+          "items": [
+            {
+              "id": 12952,
+              "slug": "post-leak-repaint-maintenance-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 12953,
+              "slug": "post-leak-repaint-maintenance-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 12954,
+              "slug": "post-leak-repaint-maintenance-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 12955,
+              "slug": "post-leak-repaint-maintenance-medina",
+              "city": "medina"
+            },
+            {
+              "id": 12956,
+              "slug": "post-leak-repaint-maintenance-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 12957,
+              "slug": "post-leak-repaint-maintenance-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 12958,
+              "slug": "post-leak-repaint-maintenance-taif",
+              "city": "taif"
+            },
+            {
+              "id": 12959,
+              "slug": "post-leak-repaint-maintenance-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "fp": "شركة كشف تسريبات مواسير مياه بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026",
+          "items": [
+            {
+              "id": 13008,
+              "slug": "water-pipe-leak-detection-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 13009,
+              "slug": "water-pipe-leak-detection-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 13010,
+              "slug": "water-pipe-leak-detection-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 13011,
+              "slug": "water-pipe-leak-detection-medina",
+              "city": "medina"
+            },
+            {
+              "id": 13012,
+              "slug": "water-pipe-leak-detection-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 13013,
+              "slug": "water-pipe-leak-detection-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 13014,
+              "slug": "water-pipe-leak-detection-taif",
+              "city": "taif"
+            },
+            {
+              "id": 13015,
+              "slug": "water-pipe-leak-detection-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "fp": "كشف تسربات المياه في CITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &nbsp;|&",
+          "items": [
+            {
+              "id": 9292,
+              "slug": "water-leak-detection-dhahran",
+              "city": "dhahran"
+            },
+            {
+              "id": 9298,
+              "slug": "water-leak-detection-unaizah",
+              "city": "unaizah"
+            },
+            {
+              "id": 9303,
+              "slug": "water-leak-detection-arar",
+              "city": "arar"
+            },
+            {
+              "id": 9304,
+              "slug": "water-leak-detection-al-baha",
+              "city": "baha"
+            },
+            {
+              "id": 9309,
+              "slug": "water-leak-detection-hofuf",
+              "city": "hofuf"
+            },
+            {
+              "id": 9312,
+              "slug": "water-leak-detection-qatif",
+              "city": "qatif"
+            },
+            {
+              "id": 9314,
+              "slug": "water-leak-detection-al-kharj",
+              "city": "kharj"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "fp": "شركة كشف تسربات المياه بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &nbsp",
+          "items": [
+            {
+              "id": 9290,
+              "slug": "water-leak-detection-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 9291,
+              "slug": "water-leak-detection-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 9295,
+              "slug": "water-leak-detection-taif",
+              "city": "taif"
+            },
+            {
+              "id": 11349,
+              "slug": "water-leak-detection-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 11361,
+              "slug": "water-leak-detection-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 11373,
+              "slug": "water-leak-detection-medina",
+              "city": "medina"
+            }
+          ]
+        }
+      ],
+      "city_swap_cluster_count": 7,
+      "sample_links": [
+        {
+          "id": 9278,
+          "slug": "water-leak-detection-riyadh-center",
+          "city": "riyadh",
+          "words": 1429
+        },
+        {
+          "id": 9287,
+          "slug": "water-leak-detection-makkah-center",
+          "city": "makkah",
+          "words": 922
+        },
+        {
+          "id": 9288,
+          "slug": "water-leak-detection-makkah-neighborhoods",
+          "city": "makkah",
+          "words": 1517
+        },
+        {
+          "id": 9290,
+          "slug": "water-leak-detection-dammam",
+          "city": "dammam",
+          "words": 1670
+        },
+        {
+          "id": 9291,
+          "slug": "water-leak-detection-khobar",
+          "city": "khobar",
+          "words": 1660
+        },
+        {
+          "id": 9292,
+          "slug": "water-leak-detection-dhahran",
+          "city": "dhahran",
+          "words": 1488
+        },
+        {
+          "id": 9293,
+          "slug": "water-leak-detection-abha",
+          "city": "abha",
+          "words": 1659
+        },
+        {
+          "id": 9294,
+          "slug": "water-leak-detection-khamis-mushait",
+          "city": "khamis-mushait",
+          "words": 1005
+        }
+      ]
+    },
+    "insul": {
+      "label": "عزل الأسطح",
+      "publish": 74,
+      "draft": 0,
+      "cities_count": 16,
+      "cities": [
+        "abha",
+        "ahsa",
+        "buraidah",
+        "dammam",
+        "hail",
+        "jazan",
+        "jeddah",
+        "jubail",
+        "khamis-mushait",
+        "khobar",
+        "mecca",
+        "medina",
+        "riyadh",
+        "tabuk",
+        "taif",
+        "yanbu"
+      ],
+      "missing_core8": [],
+      "missing_extended": [
+        "najran",
+        "khafji",
+        "qatif",
+        "dhahran",
+        "hafar-albatin",
+        "kharj",
+        "baha"
+      ],
+      "thin_count": 0,
+      "thin_sample": [],
+      "mismatch_count": 0,
+      "mismatch_sample": [],
+      "placeholder_count": 1,
+      "placeholder_sample": [
+        {
+          "id": 10604,
+          "slug": "roof-insulation-riyadh",
+          "title": "شركة عزل أسطح بالرياض",
+          "status": "publish",
+          "link": "https://www.rukn-eltatawer.com/sa/roof-insulation-riyadh/",
+          "city": "riyadh",
+          "aw": 3496,
+          "ew": 23,
+          "has_post_call": true,
+          "short_excerpt": false,
+          "placeholders": true,
+          "polluted_title": false,
+          "fam": "insul",
+          "topic_hits": 247,
+          "anti_hits": 0,
+          "mismatch": false,
+          "thin": false,
+          "words": 3496
+        }
+      ],
+      "no_post_call": 0,
+      "polluted_titles": 0,
+      "city_swap_clusters": [
+        {
+          "n": 8,
+          "fp": "شركة عزل خزانات بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &nbsp;|&nbsp",
+          "items": [
+            {
+              "id": 11341,
+              "slug": "tank-insulation-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 11353,
+              "slug": "tank-insulation-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 11365,
+              "slug": "tank-insulation-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 11377,
+              "slug": "tank-insulation-medina",
+              "city": "medina"
+            },
+            {
+              "id": 11388,
+              "slug": "tank-insulation-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 11399,
+              "slug": "tank-insulation-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 11410,
+              "slug": "tank-insulation-taif",
+              "city": "taif"
+            },
+            {
+              "id": 11951,
+              "slug": "tank-insulation-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "fp": "شركة عزل حمامات بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &nbsp;|&nbsp",
+          "items": [
+            {
+              "id": 11342,
+              "slug": "bathroom-insulation-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 11354,
+              "slug": "bathroom-insulation-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 11366,
+              "slug": "bathroom-insulation-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 11378,
+              "slug": "bathroom-insulation-medina",
+              "city": "medina"
+            },
+            {
+              "id": 11389,
+              "slug": "bathroom-insulation-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 11400,
+              "slug": "bathroom-insulation-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 11411,
+              "slug": "bathroom-insulation-taif",
+              "city": "taif"
+            },
+            {
+              "id": 11959,
+              "slug": "bathroom-insulation-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "fp": "شركة عزل مطابخ بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &nbsp;|&nbsp;",
+          "items": [
+            {
+              "id": 11343,
+              "slug": "kitchen-insulation-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 11355,
+              "slug": "kitchen-insulation-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 11367,
+              "slug": "kitchen-insulation-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 11379,
+              "slug": "kitchen-insulation-medina",
+              "city": "medina"
+            },
+            {
+              "id": 11390,
+              "slug": "kitchen-insulation-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 11401,
+              "slug": "kitchen-insulation-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 11412,
+              "slug": "kitchen-insulation-taif",
+              "city": "taif"
+            },
+            {
+              "id": 11967,
+              "slug": "kitchen-insulation-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "fp": "شركة عزل حراري بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &nbsp;|&nbsp;",
+          "items": [
+            {
+              "id": 11344,
+              "slug": "thermal-insulation-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 11356,
+              "slug": "thermal-insulation-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 11368,
+              "slug": "thermal-insulation-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 11380,
+              "slug": "thermal-insulation-medina",
+              "city": "medina"
+            },
+            {
+              "id": 11391,
+              "slug": "thermal-insulation-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 11402,
+              "slug": "thermal-insulation-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 11974,
+              "slug": "thermal-insulation-taif",
+              "city": "taif"
+            },
+            {
+              "id": 11975,
+              "slug": "thermal-insulation-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "fp": "شركة عزل مائي بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &nbsp;|&nbsp; ",
+          "items": [
+            {
+              "id": 11345,
+              "slug": "waterproofing-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 11357,
+              "slug": "waterproofing-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 11369,
+              "slug": "waterproofing-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 11381,
+              "slug": "waterproofing-medina",
+              "city": "medina"
+            },
+            {
+              "id": 11392,
+              "slug": "waterproofing-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 11403,
+              "slug": "waterproofing-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 11982,
+              "slug": "waterproofing-taif",
+              "city": "taif"
+            },
+            {
+              "id": 11983,
+              "slug": "waterproofing-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "fp": "شركة عزل صوتي بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &nbsp;|&nbsp; ",
+          "items": [
+            {
+              "id": 11346,
+              "slug": "soundproofing-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 11358,
+              "slug": "soundproofing-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 11370,
+              "slug": "soundproofing-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 11382,
+              "slug": "soundproofing-medina",
+              "city": "medina"
+            },
+            {
+              "id": 11393,
+              "slug": "soundproofing-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 11404,
+              "slug": "soundproofing-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 11990,
+              "slug": "soundproofing-taif",
+              "city": "taif"
+            },
+            {
+              "id": 11991,
+              "slug": "soundproofing-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "fp": "شركة عزل ودهان أسطح بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &nbsp;|&",
+          "items": [
+            {
+              "id": 12896,
+              "slug": "roof-insulation-painting-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 12897,
+              "slug": "roof-insulation-painting-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 12898,
+              "slug": "roof-insulation-painting-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 12899,
+              "slug": "roof-insulation-painting-medina",
+              "city": "medina"
+            },
+            {
+              "id": 12900,
+              "slug": "roof-insulation-painting-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 12901,
+              "slug": "roof-insulation-painting-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 12902,
+              "slug": "roof-insulation-painting-taif",
+              "city": "taif"
+            },
+            {
+              "id": 12903,
+              "slug": "roof-insulation-painting-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "fp": "تقديم عزل الأسطح في CITY عبر ركن التطور يبدأ من فهم العَرَض المحلي: ضعف العزل الحراري/المائي على الأسطح والخزانات. المنا",
+          "items": [
+            {
+              "id": 23808,
+              "slug": "roof-insulation-tabuk",
+              "city": "tabuk"
+            },
+            {
+              "id": 23813,
+              "slug": "roof-insulation-buraidah",
+              "city": "buraidah"
+            },
+            {
+              "id": 23818,
+              "slug": "roof-insulation-khamis-mushait",
+              "city": "khamis-mushait"
+            },
+            {
+              "id": 23823,
+              "slug": "roof-insulation-jazan",
+              "city": "jazan"
+            },
+            {
+              "id": 23828,
+              "slug": "roof-insulation-ahsa",
+              "city": "ahsa"
+            },
+            {
+              "id": 23833,
+              "slug": "roof-insulation-hail",
+              "city": "hail"
+            },
+            {
+              "id": 23838,
+              "slug": "roof-insulation-yanbu",
+              "city": "yanbu"
+            },
+            {
+              "id": 23843,
+              "slug": "roof-insulation-jubail",
+              "city": "jubail"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "fp": "شركة عزل أسطح بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &nbsp;|&nbsp; ",
+          "items": [
+            {
+              "id": 11352,
+              "slug": "roof-insulation-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 11364,
+              "slug": "roof-insulation-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 11376,
+              "slug": "roof-insulation-medina",
+              "city": "medina"
+            },
+            {
+              "id": 11387,
+              "slug": "roof-insulation-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 11398,
+              "slug": "roof-insulation-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 11409,
+              "slug": "roof-insulation-taif",
+              "city": "taif"
+            },
+            {
+              "id": 11943,
+              "slug": "roof-insulation-abha",
+              "city": "abha"
+            }
+          ]
+        }
+      ],
+      "city_swap_cluster_count": 9,
+      "sample_links": [
+        {
+          "id": 10405,
+          "slug": "azl-alasth",
+          "city": null,
+          "words": 1395
+        },
+        {
+          "id": 10604,
+          "slug": "roof-insulation-riyadh",
+          "city": "riyadh",
+          "words": 3496
+        },
+        {
+          "id": 11341,
+          "slug": "tank-insulation-riyadh",
+          "city": "riyadh",
+          "words": 1302
+        },
+        {
+          "id": 11342,
+          "slug": "bathroom-insulation-riyadh",
+          "city": "riyadh",
+          "words": 1277
+        },
+        {
+          "id": 11343,
+          "slug": "kitchen-insulation-riyadh",
+          "city": "riyadh",
+          "words": 1261
+        },
+        {
+          "id": 11344,
+          "slug": "thermal-insulation-riyadh",
+          "city": "riyadh",
+          "words": 1296
+        },
+        {
+          "id": 11345,
+          "slug": "waterproofing-riyadh",
+          "city": "riyadh",
+          "words": 1332
+        },
+        {
+          "id": 11346,
+          "slug": "soundproofing-riyadh",
+          "city": "riyadh",
+          "words": 1284
+        }
+      ]
+    },
+    "oven": {
+      "label": "تنظيف الأفران",
+      "publish": 8,
+      "draft": 0,
+      "cities_count": 8,
+      "cities": [
+        "abha",
+        "dammam",
+        "jeddah",
+        "khobar",
+        "mecca",
+        "medina",
+        "riyadh",
+        "taif"
+      ],
+      "missing_core8": [],
+      "missing_extended": [
+        "tabuk",
+        "buraidah",
+        "khamis-mushait",
+        "najran",
+        "jazan",
+        "yanbu",
+        "jubail",
+        "ahsa",
+        "hail",
+        "khafji",
+        "qatif",
+        "dhahran",
+        "hafar-albatin",
+        "kharj",
+        "baha"
+      ],
+      "thin_count": 0,
+      "thin_sample": [],
+      "mismatch_count": 0,
+      "mismatch_sample": [],
+      "placeholder_count": 0,
+      "placeholder_sample": [],
+      "no_post_call": 0,
+      "polluted_titles": 0,
+      "city_swap_clusters": [
+        {
+          "n": 8,
+          "fp": "شركة صيانة أفران بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &nbsp;|&nbs",
+          "items": [
+            {
+              "id": 11141,
+              "slug": "oven-maintenance-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 11167,
+              "slug": "oven-maintenance-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 11193,
+              "slug": "oven-maintenance-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 11219,
+              "slug": "oven-maintenance-medina",
+              "city": "medina"
+            },
+            {
+              "id": 11245,
+              "slug": "oven-maintenance-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 11271,
+              "slug": "oven-maintenance-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 11297,
+              "slug": "oven-maintenance-taif",
+              "city": "taif"
+            },
+            {
+              "id": 11323,
+              "slug": "oven-maintenance-abha",
+              "city": "abha"
+            }
+          ]
+        }
+      ],
+      "city_swap_cluster_count": 1,
+      "sample_links": [
+        {
+          "id": 11141,
+          "slug": "oven-maintenance-riyadh",
+          "city": "riyadh",
+          "words": 1303
+        },
+        {
+          "id": 11167,
+          "slug": "oven-maintenance-jeddah",
+          "city": "jeddah",
+          "words": 1286
+        },
+        {
+          "id": 11193,
+          "slug": "oven-maintenance-mecca",
+          "city": "mecca",
+          "words": 1315
+        },
+        {
+          "id": 11219,
+          "slug": "oven-maintenance-medina",
+          "city": "medina",
+          "words": 1333
+        },
+        {
+          "id": 11245,
+          "slug": "oven-maintenance-dammam",
+          "city": "dammam",
+          "words": 1287
+        },
+        {
+          "id": 11271,
+          "slug": "oven-maintenance-khobar",
+          "city": "khobar",
+          "words": 1277
+        },
+        {
+          "id": 11297,
+          "slug": "oven-maintenance-taif",
+          "city": "taif",
+          "words": 1279
+        },
+        {
+          "id": 11323,
+          "slug": "oven-maintenance-abha",
+          "city": "abha",
+          "words": 1276
+        }
+      ]
+    },
+    "ac": {
+      "label": "المكيفات (غسيل/صيانة/دكتات)",
+      "publish": 121,
+      "draft": 0,
+      "cities_count": 16,
+      "cities": [
+        "abha",
+        "ahsa",
+        "buraidah",
+        "dammam",
+        "hail",
+        "jazan",
+        "jeddah",
+        "jubail",
+        "khamis-mushait",
+        "khobar",
+        "mecca",
+        "medina",
+        "riyadh",
+        "tabuk",
+        "taif",
+        "yanbu"
+      ],
+      "missing_core8": [],
+      "missing_extended": [
+        "najran",
+        "khafji",
+        "qatif",
+        "dhahran",
+        "hafar-albatin",
+        "kharj",
+        "baha"
+      ],
+      "thin_count": 0,
+      "thin_sample": [],
+      "mismatch_count": 0,
+      "mismatch_sample": [],
+      "placeholder_count": 0,
+      "placeholder_sample": [],
+      "no_post_call": 0,
+      "polluted_titles": 0,
+      "city_swap_clusters": [
+        {
+          "n": 8,
+          "fp": "شركة صيانة تكييف مركزي بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &nbsp",
+          "items": [
+            {
+              "id": 11135,
+              "slug": "central-ac-maintenance-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 11161,
+              "slug": "central-ac-maintenance-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 11187,
+              "slug": "central-ac-maintenance-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 11213,
+              "slug": "central-ac-maintenance-medina",
+              "city": "medina"
+            },
+            {
+              "id": 11239,
+              "slug": "central-ac-maintenance-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 11265,
+              "slug": "central-ac-maintenance-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 11291,
+              "slug": "central-ac-maintenance-taif",
+              "city": "taif"
+            },
+            {
+              "id": 11317,
+              "slug": "central-ac-maintenance-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "fp": "شركة صيانة مكيفات سبليت بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &nbs",
+          "items": [
+            {
+              "id": 11136,
+              "slug": "split-ac-maintenance-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 11162,
+              "slug": "split-ac-maintenance-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 11188,
+              "slug": "split-ac-maintenance-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 11214,
+              "slug": "split-ac-maintenance-medina",
+              "city": "medina"
+            },
+            {
+              "id": 11240,
+              "slug": "split-ac-maintenance-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 11266,
+              "slug": "split-ac-maintenance-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 11292,
+              "slug": "split-ac-maintenance-taif",
+              "city": "taif"
+            },
+            {
+              "id": 11318,
+              "slug": "split-ac-maintenance-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "fp": "شركة كشف تسربات التكييف بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &nbs",
+          "items": [
+            {
+              "id": 11340,
+              "slug": "ac-leak-detection-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 11351,
+              "slug": "ac-leak-detection-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 11363,
+              "slug": "ac-leak-detection-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 11375,
+              "slug": "ac-leak-detection-medina",
+              "city": "medina"
+            },
+            {
+              "id": 11386,
+              "slug": "ac-leak-detection-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 11397,
+              "slug": "ac-leak-detection-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 11408,
+              "slug": "ac-leak-detection-taif",
+              "city": "taif"
+            },
+            {
+              "id": 11935,
+              "slug": "ac-leak-detection-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "fp": "شركة تركيب أجهزة تكييف طاقة شمسية بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر",
+          "items": [
+            {
+              "id": 12528,
+              "slug": "solar-ac-installation-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 12529,
+              "slug": "solar-ac-installation-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 12530,
+              "slug": "solar-ac-installation-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 12531,
+              "slug": "solar-ac-installation-medina",
+              "city": "medina"
+            },
+            {
+              "id": 12532,
+              "slug": "solar-ac-installation-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 12533,
+              "slug": "solar-ac-installation-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 12534,
+              "slug": "solar-ac-installation-taif",
+              "city": "taif"
+            },
+            {
+              "id": 12535,
+              "slug": "solar-ac-installation-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "fp": "فني تركيب وصيانة تكييف بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &nbsp",
+          "items": [
+            {
+              "id": 12752,
+              "slug": "ac-tech-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 12753,
+              "slug": "ac-tech-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 12754,
+              "slug": "ac-tech-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 12755,
+              "slug": "ac-tech-medina",
+              "city": "medina"
+            },
+            {
+              "id": 12756,
+              "slug": "ac-tech-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 12757,
+              "slug": "ac-tech-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 12758,
+              "slug": "ac-tech-taif",
+              "city": "taif"
+            },
+            {
+              "id": 12759,
+              "slug": "ac-tech-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "fp": "شركة تركيب مكيفات سبليت بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &nbs",
+          "items": [
+            {
+              "id": 13080,
+              "slug": "split-ac-installation-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 13081,
+              "slug": "split-ac-installation-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 13082,
+              "slug": "split-ac-installation-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 13083,
+              "slug": "split-ac-installation-medina",
+              "city": "medina"
+            },
+            {
+              "id": 13084,
+              "slug": "split-ac-installation-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 13085,
+              "slug": "split-ac-installation-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 13086,
+              "slug": "split-ac-installation-taif",
+              "city": "taif"
+            },
+            {
+              "id": 13087,
+              "slug": "split-ac-installation-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "fp": "شركة تركيب وحدات تكييف نافذة بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026",
+          "items": [
+            {
+              "id": 13088,
+              "slug": "window-ac-installation-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 13089,
+              "slug": "window-ac-installation-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 13090,
+              "slug": "window-ac-installation-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 13091,
+              "slug": "window-ac-installation-medina",
+              "city": "medina"
+            },
+            {
+              "id": 13092,
+              "slug": "window-ac-installation-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 13093,
+              "slug": "window-ac-installation-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 13094,
+              "slug": "window-ac-installation-taif",
+              "city": "taif"
+            },
+            {
+              "id": 13095,
+              "slug": "window-ac-installation-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "fp": "شركة تعبئة فريون مكيفات بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &nbs",
+          "items": [
+            {
+              "id": 13096,
+              "slug": "ac-freon-refill-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 13097,
+              "slug": "ac-freon-refill-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 13098,
+              "slug": "ac-freon-refill-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 13099,
+              "slug": "ac-freon-refill-medina",
+              "city": "medina"
+            },
+            {
+              "id": 13100,
+              "slug": "ac-freon-refill-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 13101,
+              "slug": "ac-freon-refill-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 13102,
+              "slug": "ac-freon-refill-taif",
+              "city": "taif"
+            },
+            {
+              "id": 13103,
+              "slug": "ac-freon-refill-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "fp": "شركة نقل وتركيب مكيفات بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &nbsp",
+          "items": [
+            {
+              "id": 13112,
+              "slug": "ac-relocation-installation-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 13113,
+              "slug": "ac-relocation-installation-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 13114,
+              "slug": "ac-relocation-installation-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 13115,
+              "slug": "ac-relocation-installation-medina",
+              "city": "medina"
+            },
+            {
+              "id": 13116,
+              "slug": "ac-relocation-installation-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 13117,
+              "slug": "ac-relocation-installation-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 13118,
+              "slug": "ac-relocation-installation-taif",
+              "city": "taif"
+            },
+            {
+              "id": 13119,
+              "slug": "ac-relocation-installation-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "fp": "شركة صيانة دكتات التكييف بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &nb",
+          "items": [
+            {
+              "id": 13120,
+              "slug": "ac-duct-maintenance-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 13121,
+              "slug": "ac-duct-maintenance-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 13122,
+              "slug": "ac-duct-maintenance-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 13123,
+              "slug": "ac-duct-maintenance-medina",
+              "city": "medina"
+            },
+            {
+              "id": 13124,
+              "slug": "ac-duct-maintenance-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 13125,
+              "slug": "ac-duct-maintenance-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 13126,
+              "slug": "ac-duct-maintenance-taif",
+              "city": "taif"
+            },
+            {
+              "id": 13127,
+              "slug": "ac-duct-maintenance-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "fp": "شركة تركيب تكييف مركزي جديد بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 ",
+          "items": [
+            {
+              "id": 13128,
+              "slug": "new-central-ac-installation-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 13129,
+              "slug": "new-central-ac-installation-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 13130,
+              "slug": "new-central-ac-installation-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 13131,
+              "slug": "new-central-ac-installation-medina",
+              "city": "medina"
+            },
+            {
+              "id": 13132,
+              "slug": "new-central-ac-installation-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 13133,
+              "slug": "new-central-ac-installation-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 13134,
+              "slug": "new-central-ac-installation-taif",
+              "city": "taif"
+            },
+            {
+              "id": 13135,
+              "slug": "new-central-ac-installation-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "fp": "شركة عقود صيانة تكييف دورية بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 ",
+          "items": [
+            {
+              "id": 13152,
+              "slug": "ac-periodic-maintenance-contracts-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 13153,
+              "slug": "ac-periodic-maintenance-contracts-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 13154,
+              "slug": "ac-periodic-maintenance-contracts-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 13155,
+              "slug": "ac-periodic-maintenance-contracts-medina",
+              "city": "medina"
+            },
+            {
+              "id": 13156,
+              "slug": "ac-periodic-maintenance-contracts-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 13157,
+              "slug": "ac-periodic-maintenance-contracts-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 13158,
+              "slug": "ac-periodic-maintenance-contracts-taif",
+              "city": "taif"
+            },
+            {
+              "id": 13159,
+              "slug": "ac-periodic-maintenance-contracts-abha",
+              "city": "abha"
+            }
+          ]
+        }
+      ],
+      "city_swap_cluster_count": 13,
+      "sample_links": [
+        {
+          "id": 10406,
+          "slug": "syanh-altkyyf",
+          "city": null,
+          "words": 1390
+        },
+        {
+          "id": 10880,
+          "slug": "duct-cleaning-riyadh",
+          "city": "riyadh",
+          "words": 1073
+        },
+        {
+          "id": 10906,
+          "slug": "duct-cleaning-jeddah",
+          "city": "jeddah",
+          "words": 1054
+        },
+        {
+          "id": 10932,
+          "slug": "duct-cleaning-mecca",
+          "city": "mecca",
+          "words": 1054
+        },
+        {
+          "id": 10958,
+          "slug": "duct-cleaning-medina",
+          "city": "medina",
+          "words": 1057
+        },
+        {
+          "id": 10984,
+          "slug": "duct-cleaning-dammam",
+          "city": "dammam",
+          "words": 1013
+        },
+        {
+          "id": 11010,
+          "slug": "duct-cleaning-khobar",
+          "city": "khobar",
+          "words": 1058
+        },
+        {
+          "id": 11036,
+          "slug": "duct-cleaning-taif",
+          "city": "taif",
+          "words": 1055
+        }
+      ]
+    },
+    "clean": {
+      "label": "التنظيف العام",
+      "publish": 259,
+      "draft": 3,
+      "cities_count": 17,
+      "cities": [
+        "abha",
+        "ahsa",
+        "baha",
+        "buraidah",
+        "dammam",
+        "hail",
+        "jazan",
+        "jeddah",
+        "jubail",
+        "khamis-mushait",
+        "khobar",
+        "mecca",
+        "medina",
+        "riyadh",
+        "tabuk",
+        "taif",
+        "yanbu"
+      ],
+      "missing_core8": [],
+      "missing_extended": [
+        "najran",
+        "khafji",
+        "qatif",
+        "dhahran",
+        "hafar-albatin",
+        "kharj"
+      ],
+      "thin_count": 0,
+      "thin_sample": [],
+      "mismatch_count": 0,
+      "mismatch_sample": [],
+      "placeholder_count": 0,
+      "placeholder_sample": [],
+      "no_post_call": 0,
+      "polluted_titles": 0,
+      "city_swap_clusters": [
+        {
+          "n": 8,
+          "fp": "شركة تركيب سجاد أرضيات بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &nbsp",
+          "items": [
+            {
+              "id": 12176,
+              "slug": "floor-carpeting-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 12177,
+              "slug": "floor-carpeting-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 12178,
+              "slug": "floor-carpeting-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 12179,
+              "slug": "floor-carpeting-medina",
+              "city": "medina"
+            },
+            {
+              "id": 12180,
+              "slug": "floor-carpeting-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 12181,
+              "slug": "floor-carpeting-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 12182,
+              "slug": "floor-carpeting-taif",
+              "city": "taif"
+            },
+            {
+              "id": 12183,
+              "slug": "floor-carpeting-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "fp": "شركة تنظيف وتزيين الحدائق بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &n",
+          "items": [
+            {
+              "id": 12368,
+              "slug": "garden-cleaning-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 12369,
+              "slug": "garden-cleaning-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 12370,
+              "slug": "garden-cleaning-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 12371,
+              "slug": "garden-cleaning-medina",
+              "city": "medina"
+            },
+            {
+              "id": 12372,
+              "slug": "garden-cleaning-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 12373,
+              "slug": "garden-cleaning-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 12374,
+              "slug": "garden-cleaning-taif",
+              "city": "taif"
+            },
+            {
+              "id": 12375,
+              "slug": "garden-cleaning-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "fp": "شركة التعقيم بالبخار بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &nbsp;|",
+          "items": [
+            {
+              "id": 12664,
+              "slug": "steam-disinfection-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 12665,
+              "slug": "steam-disinfection-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 12666,
+              "slug": "steam-disinfection-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 12667,
+              "slug": "steam-disinfection-medina",
+              "city": "medina"
+            },
+            {
+              "id": 12668,
+              "slug": "steam-disinfection-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 12669,
+              "slug": "steam-disinfection-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 12670,
+              "slug": "steam-disinfection-taif",
+              "city": "taif"
+            },
+            {
+              "id": 12671,
+              "slug": "steam-disinfection-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "fp": "شركة التعقيم بالكلور بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &nbsp;|",
+          "items": [
+            {
+              "id": 12672,
+              "slug": "chlorine-disinfection-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 12673,
+              "slug": "chlorine-disinfection-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 12674,
+              "slug": "chlorine-disinfection-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 12675,
+              "slug": "chlorine-disinfection-medina",
+              "city": "medina"
+            },
+            {
+              "id": 12676,
+              "slug": "chlorine-disinfection-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 12677,
+              "slug": "chlorine-disinfection-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 12678,
+              "slug": "chlorine-disinfection-taif",
+              "city": "taif"
+            },
+            {
+              "id": 12679,
+              "slug": "chlorine-disinfection-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "fp": "شركة التعقيم بالأوزون بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &nbsp;",
+          "items": [
+            {
+              "id": 12680,
+              "slug": "ozone-disinfection-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 12681,
+              "slug": "ozone-disinfection-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 12682,
+              "slug": "ozone-disinfection-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 12683,
+              "slug": "ozone-disinfection-medina",
+              "city": "medina"
+            },
+            {
+              "id": 12684,
+              "slug": "ozone-disinfection-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 12685,
+              "slug": "ozone-disinfection-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 12686,
+              "slug": "ozone-disinfection-taif",
+              "city": "taif"
+            },
+            {
+              "id": 12687,
+              "slug": "ozone-disinfection-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "fp": "شركة تنظيف مكاتب بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &nbsp;|&nbs",
+          "items": [
+            {
+              "id": 10860,
+              "slug": "office-cleaning-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 10886,
+              "slug": "office-cleaning-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 10912,
+              "slug": "office-cleaning-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 10938,
+              "slug": "office-cleaning-medina",
+              "city": "medina"
+            },
+            {
+              "id": 10964,
+              "slug": "office-cleaning-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 10990,
+              "slug": "office-cleaning-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 11016,
+              "slug": "office-cleaning-taif",
+              "city": "taif"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "fp": "شركة تنظيف مدارس وحضانات بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &nb",
+          "items": [
+            {
+              "id": 10862,
+              "slug": "school-nursery-cleaning-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 10888,
+              "slug": "school-nursery-cleaning-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 10914,
+              "slug": "school-nursery-cleaning-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 10940,
+              "slug": "school-nursery-cleaning-medina",
+              "city": "medina"
+            },
+            {
+              "id": 10966,
+              "slug": "school-nursery-cleaning-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 10992,
+              "slug": "school-nursery-cleaning-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 11018,
+              "slug": "school-nursery-cleaning-taif",
+              "city": "taif"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "fp": "شركة تنظيف مستشفيات وعيادات بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 ",
+          "items": [
+            {
+              "id": 10863,
+              "slug": "hospital-clinic-cleaning-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 10889,
+              "slug": "hospital-clinic-cleaning-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 10915,
+              "slug": "hospital-clinic-cleaning-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 10941,
+              "slug": "hospital-clinic-cleaning-medina",
+              "city": "medina"
+            },
+            {
+              "id": 10967,
+              "slug": "hospital-clinic-cleaning-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 10993,
+              "slug": "hospital-clinic-cleaning-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 11019,
+              "slug": "hospital-clinic-cleaning-taif",
+              "city": "taif"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "fp": "شركة تنظيف مطابخ بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &nbsp;|&nbs",
+          "items": [
+            {
+              "id": 10866,
+              "slug": "kitchen-cleaning-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 10892,
+              "slug": "kitchen-cleaning-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 10918,
+              "slug": "kitchen-cleaning-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 10944,
+              "slug": "kitchen-cleaning-medina",
+              "city": "medina"
+            },
+            {
+              "id": 10970,
+              "slug": "kitchen-cleaning-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 10996,
+              "slug": "kitchen-cleaning-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 11022,
+              "slug": "kitchen-cleaning-taif",
+              "city": "taif"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "fp": "شركة تنظيف موكيت بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &nbsp;|&nbs",
+          "items": [
+            {
+              "id": 10871,
+              "slug": "moquette-cleaning-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 10897,
+              "slug": "moquette-cleaning-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 10923,
+              "slug": "moquette-cleaning-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 10949,
+              "slug": "moquette-cleaning-medina",
+              "city": "medina"
+            },
+            {
+              "id": 10975,
+              "slug": "moquette-cleaning-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 11001,
+              "slug": "moquette-cleaning-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 11027,
+              "slug": "moquette-cleaning-taif",
+              "city": "taif"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "fp": "شركة تنظيف ستائر بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &nbsp;|&nbs",
+          "items": [
+            {
+              "id": 10873,
+              "slug": "curtain-cleaning-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 10899,
+              "slug": "curtain-cleaning-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 10951,
+              "slug": "curtain-cleaning-medina",
+              "city": "medina"
+            },
+            {
+              "id": 10977,
+              "slug": "curtain-cleaning-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 11003,
+              "slug": "curtain-cleaning-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 11029,
+              "slug": "curtain-cleaning-taif",
+              "city": "taif"
+            },
+            {
+              "id": 11055,
+              "slug": "curtain-cleaning-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "fp": "شركة تنظيف واجهات زجاجية بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &nb",
+          "items": [
+            {
+              "id": 10876,
+              "slug": "glass-facade-cleaning-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 10902,
+              "slug": "glass-facade-cleaning-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 10928,
+              "slug": "glass-facade-cleaning-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 10954,
+              "slug": "glass-facade-cleaning-medina",
+              "city": "medina"
+            },
+            {
+              "id": 10980,
+              "slug": "glass-facade-cleaning-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 11006,
+              "slug": "glass-facade-cleaning-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 11032,
+              "slug": "glass-facade-cleaning-taif",
+              "city": "taif"
+            }
+          ]
+        }
+      ],
+      "city_swap_cluster_count": 16,
+      "sample_links": [
+        {
+          "id": 10274,
+          "slug": "house-cleaning-in-riyadh",
+          "city": "riyadh",
+          "words": 3581
+        },
+        {
+          "id": 10275,
+          "slug": "afdal-sharikat-tanzif-manazil-bilriyadh",
+          "city": null,
+          "words": 1355
+        },
+        {
+          "id": 10276,
+          "slug": "asaar-tanzif-almanazil-bilriyadh",
+          "city": null,
+          "words": 1299
+        },
+        {
+          "id": 10277,
+          "slug": "tanzif-manazil-bilriyadh-maa-altaqim",
+          "city": null,
+          "words": 1645
+        },
+        {
+          "id": 10278,
+          "slug": "sharikat-tanzif-filla-bilriyadh",
+          "city": null,
+          "words": 1308
+        },
+        {
+          "id": 10279,
+          "slug": "tanzif-filla-fakhira-bilriyadh",
+          "city": null,
+          "words": 1303
+        },
+        {
+          "id": 10280,
+          "slug": "apartment-cleaning-in-riyadh",
+          "city": "riyadh",
+          "words": 1302
+        },
+        {
+          "id": 10281,
+          "slug": "tanzif-shamil-lilmanazil-bilriyadh",
+          "city": null,
+          "words": 1563
+        }
+      ]
+    },
+    "pest": {
+      "label": "مكافحة الحشرات",
+      "publish": 113,
+      "draft": 0,
+      "cities_count": 16,
+      "cities": [
+        "abha",
+        "ahsa",
+        "buraidah",
+        "dammam",
+        "hail",
+        "jazan",
+        "jeddah",
+        "jubail",
+        "khamis-mushait",
+        "khobar",
+        "mecca",
+        "medina",
+        "riyadh",
+        "tabuk",
+        "taif",
+        "yanbu"
+      ],
+      "missing_core8": [],
+      "missing_extended": [
+        "najran",
+        "khafji",
+        "qatif",
+        "dhahran",
+        "hafar-albatin",
+        "kharj",
+        "baha"
+      ],
+      "thin_count": 0,
+      "thin_sample": [],
+      "mismatch_count": 0,
+      "mismatch_sample": [],
+      "placeholder_count": 0,
+      "placeholder_sample": [],
+      "no_post_call": 0,
+      "polluted_titles": 0,
+      "city_swap_clusters": [
+        {
+          "n": 8,
+          "fp": "شركة مكافحة الحشرات الزاحفة بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 ",
+          "items": [
+            {
+              "id": 12536,
+              "slug": "crawling-pest-control-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 12537,
+              "slug": "crawling-pest-control-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 12538,
+              "slug": "crawling-pest-control-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 12539,
+              "slug": "crawling-pest-control-medina",
+              "city": "medina"
+            },
+            {
+              "id": 12540,
+              "slug": "crawling-pest-control-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 12541,
+              "slug": "crawling-pest-control-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 12542,
+              "slug": "crawling-pest-control-taif",
+              "city": "taif"
+            },
+            {
+              "id": 12543,
+              "slug": "crawling-pest-control-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "fp": "شركة مكافحة الحشرات الطائرة بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 ",
+          "items": [
+            {
+              "id": 12544,
+              "slug": "flying-pest-control-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 12545,
+              "slug": "flying-pest-control-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 12546,
+              "slug": "flying-pest-control-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 12547,
+              "slug": "flying-pest-control-medina",
+              "city": "medina"
+            },
+            {
+              "id": 12548,
+              "slug": "flying-pest-control-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 12549,
+              "slug": "flying-pest-control-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 12550,
+              "slug": "flying-pest-control-taif",
+              "city": "taif"
+            },
+            {
+              "id": 12551,
+              "slug": "flying-pest-control-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "fp": "شركة مكافحة النمل الأبيض (الرمة) بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر ",
+          "items": [
+            {
+              "id": 12552,
+              "slug": "termite-control-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 12553,
+              "slug": "termite-control-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 12554,
+              "slug": "termite-control-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 12555,
+              "slug": "termite-control-medina",
+              "city": "medina"
+            },
+            {
+              "id": 12556,
+              "slug": "termite-control-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 12557,
+              "slug": "termite-control-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 12558,
+              "slug": "termite-control-taif",
+              "city": "taif"
+            },
+            {
+              "id": 12559,
+              "slug": "termite-control-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "fp": "شركة مكافحة النمل الأسود والأحمر بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر ",
+          "items": [
+            {
+              "id": 12560,
+              "slug": "ant-control-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 12561,
+              "slug": "ant-control-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 12562,
+              "slug": "ant-control-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 12563,
+              "slug": "ant-control-medina",
+              "city": "medina"
+            },
+            {
+              "id": 12564,
+              "slug": "ant-control-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 12565,
+              "slug": "ant-control-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 12566,
+              "slug": "ant-control-taif",
+              "city": "taif"
+            },
+            {
+              "id": 12567,
+              "slug": "ant-control-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "fp": "شركة مكافحة الصراصير بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &nbsp;|",
+          "items": [
+            {
+              "id": 12568,
+              "slug": "cockroach-control-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 12569,
+              "slug": "cockroach-control-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 12570,
+              "slug": "cockroach-control-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 12571,
+              "slug": "cockroach-control-medina",
+              "city": "medina"
+            },
+            {
+              "id": 12572,
+              "slug": "cockroach-control-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 12573,
+              "slug": "cockroach-control-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 12574,
+              "slug": "cockroach-control-taif",
+              "city": "taif"
+            },
+            {
+              "id": 12575,
+              "slug": "cockroach-control-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "fp": "شركة مكافحة بق الفراش بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &nbsp;",
+          "items": [
+            {
+              "id": 12576,
+              "slug": "bed-bug-control-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 12577,
+              "slug": "bed-bug-control-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 12578,
+              "slug": "bed-bug-control-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 12579,
+              "slug": "bed-bug-control-medina",
+              "city": "medina"
+            },
+            {
+              "id": 12580,
+              "slug": "bed-bug-control-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 12581,
+              "slug": "bed-bug-control-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 12582,
+              "slug": "bed-bug-control-taif",
+              "city": "taif"
+            },
+            {
+              "id": 12583,
+              "slug": "bed-bug-control-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "fp": "شركة مكافحة الأفاعي بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &nbsp;|&",
+          "items": [
+            {
+              "id": 12592,
+              "slug": "snake-control-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 12593,
+              "slug": "snake-control-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 12594,
+              "slug": "snake-control-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 12595,
+              "slug": "snake-control-medina",
+              "city": "medina"
+            },
+            {
+              "id": 12596,
+              "slug": "snake-control-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 12597,
+              "slug": "snake-control-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 12598,
+              "slug": "snake-control-taif",
+              "city": "taif"
+            },
+            {
+              "id": 12599,
+              "slug": "snake-control-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "fp": "شركة مكافحة العقارب بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &nbsp;|&",
+          "items": [
+            {
+              "id": 12600,
+              "slug": "scorpion-control-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 12601,
+              "slug": "scorpion-control-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 12602,
+              "slug": "scorpion-control-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 12603,
+              "slug": "scorpion-control-medina",
+              "city": "medina"
+            },
+            {
+              "id": 12604,
+              "slug": "scorpion-control-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 12605,
+              "slug": "scorpion-control-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 12606,
+              "slug": "scorpion-control-taif",
+              "city": "taif"
+            },
+            {
+              "id": 12607,
+              "slug": "scorpion-control-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "fp": "شركة مكافحة البراغيث بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &nbsp;|",
+          "items": [
+            {
+              "id": 12608,
+              "slug": "flea-control-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 12609,
+              "slug": "flea-control-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 12610,
+              "slug": "flea-control-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 12611,
+              "slug": "flea-control-medina",
+              "city": "medina"
+            },
+            {
+              "id": 12612,
+              "slug": "flea-control-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 12613,
+              "slug": "flea-control-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 12614,
+              "slug": "flea-control-taif",
+              "city": "taif"
+            },
+            {
+              "id": 12615,
+              "slug": "flea-control-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "fp": "شركة مكافحة الوزغ (البرص) بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &n",
+          "items": [
+            {
+              "id": 12616,
+              "slug": "lizard-control-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 12617,
+              "slug": "lizard-control-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 12618,
+              "slug": "lizard-control-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 12619,
+              "slug": "lizard-control-medina",
+              "city": "medina"
+            },
+            {
+              "id": 12620,
+              "slug": "lizard-control-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 12621,
+              "slug": "lizard-control-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 12622,
+              "slug": "lizard-control-taif",
+              "city": "taif"
+            },
+            {
+              "id": 12623,
+              "slug": "lizard-control-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "fp": "شركة مكافحة الطيور بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &nbsp;|&n",
+          "items": [
+            {
+              "id": 12624,
+              "slug": "bird-control-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 12625,
+              "slug": "bird-control-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 12626,
+              "slug": "bird-control-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 12627,
+              "slug": "bird-control-medina",
+              "city": "medina"
+            },
+            {
+              "id": 12628,
+              "slug": "bird-control-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 12629,
+              "slug": "bird-control-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 12630,
+              "slug": "bird-control-taif",
+              "city": "taif"
+            },
+            {
+              "id": 12631,
+              "slug": "bird-control-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "fp": "شركة مكافحة البعوض والذباب بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &",
+          "items": [
+            {
+              "id": 12632,
+              "slug": "mosquito-fly-control-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 12633,
+              "slug": "mosquito-fly-control-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 12634,
+              "slug": "mosquito-fly-control-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 12635,
+              "slug": "mosquito-fly-control-medina",
+              "city": "medina"
+            },
+            {
+              "id": 12636,
+              "slug": "mosquito-fly-control-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 12637,
+              "slug": "mosquito-fly-control-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 12638,
+              "slug": "mosquito-fly-control-taif",
+              "city": "taif"
+            },
+            {
+              "id": 12639,
+              "slug": "mosquito-fly-control-abha",
+              "city": "abha"
+            }
+          ]
+        }
+      ],
+      "city_swap_cluster_count": 14,
+      "sample_links": [
+        {
+          "id": 10408,
+          "slug": "mkafhh-alhshrat",
+          "city": null,
+          "words": 1435
+        },
+        {
+          "id": 12536,
+          "slug": "crawling-pest-control-riyadh",
+          "city": "riyadh",
+          "words": 1323
+        },
+        {
+          "id": 12537,
+          "slug": "crawling-pest-control-jeddah",
+          "city": "jeddah",
+          "words": 1304
+        },
+        {
+          "id": 12538,
+          "slug": "crawling-pest-control-mecca",
+          "city": "mecca",
+          "words": 1342
+        },
+        {
+          "id": 12539,
+          "slug": "crawling-pest-control-medina",
+          "city": "medina",
+          "words": 1368
+        },
+        {
+          "id": 12540,
+          "slug": "crawling-pest-control-dammam",
+          "city": "dammam",
+          "words": 1309
+        },
+        {
+          "id": 12541,
+          "slug": "crawling-pest-control-khobar",
+          "city": "khobar",
+          "words": 1309
+        },
+        {
+          "id": 12542,
+          "slug": "crawling-pest-control-taif",
+          "city": "taif",
+          "words": 1305
+        }
+      ]
+    },
+    "solar": {
+      "label": "الطاقة الشمسية",
+      "publish": 24,
+      "draft": 0,
+      "cities_count": 8,
+      "cities": [
+        "abha",
+        "dammam",
+        "jeddah",
+        "khobar",
+        "mecca",
+        "medina",
+        "riyadh",
+        "taif"
+      ],
+      "missing_core8": [],
+      "missing_extended": [
+        "tabuk",
+        "buraidah",
+        "khamis-mushait",
+        "najran",
+        "jazan",
+        "yanbu",
+        "jubail",
+        "ahsa",
+        "hail",
+        "khafji",
+        "qatif",
+        "dhahran",
+        "hafar-albatin",
+        "kharj",
+        "baha"
+      ],
+      "thin_count": 0,
+      "thin_sample": [],
+      "mismatch_count": 0,
+      "mismatch_sample": [],
+      "placeholder_count": 0,
+      "placeholder_sample": [],
+      "no_post_call": 0,
+      "polluted_titles": 0,
+      "city_swap_clusters": [
+        {
+          "n": 8,
+          "fp": "شركة تركيب أنظمة طاقة شمسية بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 ",
+          "items": [
+            {
+              "id": 12512,
+              "slug": "solar-systems-installation-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 12513,
+              "slug": "solar-systems-installation-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 12514,
+              "slug": "solar-systems-installation-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 12515,
+              "slug": "solar-systems-installation-medina",
+              "city": "medina"
+            },
+            {
+              "id": 12516,
+              "slug": "solar-systems-installation-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 12517,
+              "slug": "solar-systems-installation-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 12518,
+              "slug": "solar-systems-installation-taif",
+              "city": "taif"
+            },
+            {
+              "id": 12519,
+              "slug": "solar-systems-installation-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "fp": "شركة تركيب سخانات طاقة شمسية بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026",
+          "items": [
+            {
+              "id": 12520,
+              "slug": "solar-water-heaters-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 12521,
+              "slug": "solar-water-heaters-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 12522,
+              "slug": "solar-water-heaters-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 12523,
+              "slug": "solar-water-heaters-medina",
+              "city": "medina"
+            },
+            {
+              "id": 12524,
+              "slug": "solar-water-heaters-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 12525,
+              "slug": "solar-water-heaters-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 12526,
+              "slug": "solar-water-heaters-taif",
+              "city": "taif"
+            },
+            {
+              "id": 12527,
+              "slug": "solar-water-heaters-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "fp": "شركة تركيب أجهزة تكييف طاقة شمسية بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر",
+          "items": [
+            {
+              "id": 12528,
+              "slug": "solar-ac-installation-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 12529,
+              "slug": "solar-ac-installation-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 12530,
+              "slug": "solar-ac-installation-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 12531,
+              "slug": "solar-ac-installation-medina",
+              "city": "medina"
+            },
+            {
+              "id": 12532,
+              "slug": "solar-ac-installation-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 12533,
+              "slug": "solar-ac-installation-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 12534,
+              "slug": "solar-ac-installation-taif",
+              "city": "taif"
+            },
+            {
+              "id": 12535,
+              "slug": "solar-ac-installation-abha",
+              "city": "abha"
+            }
+          ]
+        }
+      ],
+      "city_swap_cluster_count": 3,
+      "sample_links": [
+        {
+          "id": 12512,
+          "slug": "solar-systems-installation-riyadh",
+          "city": "riyadh",
+          "words": 1316
+        },
+        {
+          "id": 12513,
+          "slug": "solar-systems-installation-jeddah",
+          "city": "jeddah",
+          "words": 1315
+        },
+        {
+          "id": 12514,
+          "slug": "solar-systems-installation-mecca",
+          "city": "mecca",
+          "words": 1346
+        },
+        {
+          "id": 12515,
+          "slug": "solar-systems-installation-medina",
+          "city": "medina",
+          "words": 1356
+        },
+        {
+          "id": 12516,
+          "slug": "solar-systems-installation-dammam",
+          "city": "dammam",
+          "words": 1307
+        },
+        {
+          "id": 12517,
+          "slug": "solar-systems-installation-khobar",
+          "city": "khobar",
+          "words": 1287
+        },
+        {
+          "id": 12518,
+          "slug": "solar-systems-installation-taif",
+          "city": "taif",
+          "words": 1299
+        },
+        {
+          "id": 12519,
+          "slug": "solar-systems-installation-abha",
+          "city": "abha",
+          "words": 1294
+        }
+      ]
+    },
+    "move": {
+      "label": "نقل الأثاث",
+      "publish": 48,
+      "draft": 0,
+      "cities_count": 8,
+      "cities": [
+        "abha",
+        "dammam",
+        "jeddah",
+        "khobar",
+        "mecca",
+        "medina",
+        "riyadh",
+        "taif"
+      ],
+      "missing_core8": [],
+      "missing_extended": [
+        "tabuk",
+        "buraidah",
+        "khamis-mushait",
+        "najran",
+        "jazan",
+        "yanbu",
+        "jubail",
+        "ahsa",
+        "hail",
+        "khafji",
+        "qatif",
+        "dhahran",
+        "hafar-albatin",
+        "kharj",
+        "baha"
+      ],
+      "thin_count": 0,
+      "thin_sample": [],
+      "mismatch_count": 0,
+      "mismatch_sample": [],
+      "placeholder_count": 0,
+      "placeholder_sample": [],
+      "no_post_call": 0,
+      "polluted_titles": 0,
+      "city_swap_clusters": [
+        {
+          "n": 8,
+          "fp": "شركة نقل أثاث داخلي بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &nbsp;|&",
+          "items": [
+            {
+              "id": 12456,
+              "slug": "indoor-moving-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 12457,
+              "slug": "indoor-moving-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 12458,
+              "slug": "indoor-moving-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 12459,
+              "slug": "indoor-moving-medina",
+              "city": "medina"
+            },
+            {
+              "id": 12460,
+              "slug": "indoor-moving-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 12461,
+              "slug": "indoor-moving-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 12462,
+              "slug": "indoor-moving-taif",
+              "city": "taif"
+            },
+            {
+              "id": 12463,
+              "slug": "indoor-moving-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "fp": "شركة نقل أثاث خارجي بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &nbsp;|&",
+          "items": [
+            {
+              "id": 12464,
+              "slug": "outdoor-moving-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 12465,
+              "slug": "outdoor-moving-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 12466,
+              "slug": "outdoor-moving-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 12467,
+              "slug": "outdoor-moving-medina",
+              "city": "medina"
+            },
+            {
+              "id": 12468,
+              "slug": "outdoor-moving-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 12469,
+              "slug": "outdoor-moving-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 12470,
+              "slug": "outdoor-moving-taif",
+              "city": "taif"
+            },
+            {
+              "id": 12471,
+              "slug": "outdoor-moving-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "fp": "شركة نقل عفش مع التغليف بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &nbs",
+          "items": [
+            {
+              "id": 12472,
+              "slug": "furniture-moving-packaging-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 12473,
+              "slug": "furniture-moving-packaging-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 12474,
+              "slug": "furniture-moving-packaging-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 12475,
+              "slug": "furniture-moving-packaging-medina",
+              "city": "medina"
+            },
+            {
+              "id": 12476,
+              "slug": "furniture-moving-packaging-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 12477,
+              "slug": "furniture-moving-packaging-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 12478,
+              "slug": "furniture-moving-packaging-taif",
+              "city": "taif"
+            },
+            {
+              "id": 12479,
+              "slug": "furniture-moving-packaging-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "fp": "شركة نقل وتركيب مكيفات بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &nbsp",
+          "items": [
+            {
+              "id": 13112,
+              "slug": "ac-relocation-installation-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 13113,
+              "slug": "ac-relocation-installation-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 13114,
+              "slug": "ac-relocation-installation-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 13115,
+              "slug": "ac-relocation-installation-medina",
+              "city": "medina"
+            },
+            {
+              "id": 13116,
+              "slug": "ac-relocation-installation-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 13117,
+              "slug": "ac-relocation-installation-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 13118,
+              "slug": "ac-relocation-installation-taif",
+              "city": "taif"
+            },
+            {
+              "id": 13119,
+              "slug": "ac-relocation-installation-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "fp": "شركة نقل بيانو بCITY كتب هذا المقال: فريق المحتوى الفني في ركن التطور &nbsp;|&nbsp; آخر تحديث: سبتمبر 2026 &nbsp;|&nbsp;",
+          "items": [
+            {
+              "id": 12480,
+              "slug": "piano-moving-riyadh",
+              "city": "riyadh"
+            },
+            {
+              "id": 12482,
+              "slug": "piano-moving-mecca",
+              "city": "mecca"
+            },
+            {
+              "id": 12483,
+              "slug": "piano-moving-medina",
+              "city": "medina"
+            },
+            {
+              "id": 12487,
+              "slug": "piano-moving-abha",
+              "city": "abha"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "fp": "شركة نقل بيانو في CITY من ركن التطور متخصصة في فك البيانو وتغليفه ورفعه وتحميله وتركيبه في الموقع الجديد بأمان. المناخ (",
+          "items": [
+            {
+              "id": 12481,
+              "slug": "piano-moving-jeddah",
+              "city": "jeddah"
+            },
+            {
+              "id": 12484,
+              "slug": "piano-moving-dammam",
+              "city": "dammam"
+            },
+            {
+              "id": 12485,
+              "slug": "piano-moving-khobar",
+              "city": "khobar"
+            },
+            {
+              "id": 12486,
+              "slug": "piano-moving-taif",
+              "city": "taif"
+            }
+          ]
+        }
+      ],
+      "city_swap_cluster_count": 6,
+      "sample_links": [
+        {
+          "id": 12456,
+          "slug": "indoor-moving-riyadh",
+          "city": "riyadh",
+          "words": 1302
+        },
+        {
+          "id": 12457,
+          "slug": "indoor-moving-jeddah",
+          "city": "jeddah",
+          "words": 1298
+        },
+        {
+          "id": 12458,
+          "slug": "indoor-moving-mecca",
+          "city": "mecca",
+          "words": 1346
+        },
+        {
+          "id": 12459,
+          "slug": "indoor-moving-medina",
+          "city": "medina",
+          "words": 1355
+        },
+        {
+          "id": 12460,
+          "slug": "indoor-moving-dammam",
+          "city": "dammam",
+          "words": 1295
+        },
+        {
+          "id": 12461,
+          "slug": "indoor-moving-khobar",
+          "city": "khobar",
+          "words": 1284
+        },
+        {
+          "id": 12462,
+          "slug": "indoor-moving-taif",
+          "city": "taif",
+          "words": 1298
+        },
+        {
+          "id": 12463,
+          "slug": "indoor-moving-abha",
+          "city": "abha",
+          "words": 1300
+        }
+      ]
+    }
+  },
+  "unmatched_priority_hints": [],
+  "services_cpt": [
+    {
+      "id": 1868,
+      "slug": "construction-and-maintenance-of-swimming-pools",
+      "title": "خدمات إنشاء وصيانة المسابح",
+      "aw": 2101,
+      "fams": [],
+      "link": "https://www.rukn-eltatawer.com/sa/services/construction-and-maintenance-of-swimming-pools/"
+    },
+    {
+      "id": 1870,
+      "slug": "landscaping",
+      "title": "خدمات تنسيق الحدائق",
+      "aw": 2123,
+      "fams": [],
+      "link": "https://www.rukn-eltatawer.com/sa/services/landscaping/"
+    },
+    {
+      "id": 1872,
+      "slug": "parquet-installation",
+      "title": "خدمات تركيب الباركيه",
+      "aw": 2091,
+      "fams": [],
+      "link": "https://www.rukn-eltatawer.com/sa/services/parquet-installation/"
+    },
+    {
+      "id": 1874,
+      "slug": "gypsum-board-installation",
+      "title": "خدمات تركيب جبس بورد",
+      "aw": 2159,
+      "fams": [],
+      "link": "https://www.rukn-eltatawer.com/sa/services/gypsum-board-installation/"
+    },
+    {
+      "id": 1876,
+      "slug": "sound-insulation-installation",
+      "title": "خدمات تركيب عازل الصوت",
+      "aw": 2133,
+      "fams": [
+        "insul"
+      ],
+      "link": "https://www.rukn-eltatawer.com/sa/services/sound-insulation-installation/"
+    },
+    {
+      "id": 1877,
+      "slug": "water-leak-detection",
+      "title": "خدمات كشف تسربات المياه",
+      "aw": 2184,
+      "fams": [
+        "leak"
+      ],
+      "link": "https://www.rukn-eltatawer.com/sa/services/water-leak-detection/"
+    },
+    {
+      "id": 1879,
+      "slug": "insulation-of-roofs-and-cabinets",
+      "title": "خدمات عزل الأسطح والخزانات",
+      "aw": 2148,
+      "fams": [
+        "insul"
+      ],
+      "link": "https://www.rukn-eltatawer.com/sa/services/insulation-of-roofs-and-cabinets/"
+    },
+    {
+      "id": 1881,
+      "slug": "sewer-wiring",
+      "title": "خدمات تسليك المجاري",
+      "aw": 2084,
+      "fams": [],
+      "link": "https://www.rukn-eltatawer.com/sa/services/sewer-wiring/"
+    },
+    {
+      "id": 1883,
+      "slug": "air-conditioner-maintenance-and-installation",
+      "title": "خدمات صيانة وتركيب المكيفات",
+      "aw": 2105,
+      "fams": [
+        "ac"
+      ],
+      "link": "https://www.rukn-eltatawer.com/sa/services/air-conditioner-maintenance-and-installation/"
+    },
+    {
+      "id": 1885,
+      "slug": "cleaning-and-sterilization",
+      "title": "خدمات تنظيف عميق وتعقيم",
+      "aw": 2161,
+      "fams": [
+        "clean"
+      ],
+      "link": "https://www.rukn-eltatawer.com/sa/services/cleaning-and-sterilization/"
+    },
+    {
+      "id": 1887,
+      "slug": "pest-control",
+      "title": "خدمات مكافحة الحشرات",
+      "aw": 2139,
+      "fams": [
+        "pest"
+      ],
+      "link": "https://www.rukn-eltatawer.com/sa/services/pest-control/"
+    }
+  ]
+}
