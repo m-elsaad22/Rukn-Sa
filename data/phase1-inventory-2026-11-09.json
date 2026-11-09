@@ -1,0 +1,274 @@
+{
+  "phase": 1,
+  "target_words": 3000,
+  "note": "oven cleaning deferred to phase 2 per user",
+  "cities": [
+    "riyadh",
+    "jeddah",
+    "mecca",
+    "medina",
+    "dammam",
+    "khobar",
+    "taif",
+    "abha"
+  ],
+  "services": [
+    "leak",
+    "insul",
+    "ac",
+    "clean",
+    "pest"
+  ],
+  "targets": {
+    "leak": {
+      "riyadh": {
+        "id": 10603,
+        "slug": "water-leak-detection-riyadh",
+        "status": "publish",
+        "title": "شركة كشف تسربات المياه بالرياض"
+      },
+      "jeddah": {
+        "id": 11349,
+        "slug": "water-leak-detection-jeddah",
+        "status": "publish",
+        "title": "شركة كشف تسربات المياه بجدة"
+      },
+      "mecca": {
+        "id": 11361,
+        "slug": "water-leak-detection-mecca",
+        "status": "publish",
+        "title": "شركة كشف تسربات المياه بمكة المكرمة"
+      },
+      "medina": {
+        "id": 11373,
+        "slug": "water-leak-detection-medina",
+        "status": "publish",
+        "title": "شركة كشف تسربات المياه بالمدينة المنورة"
+      },
+      "dammam": {
+        "id": 9290,
+        "slug": "water-leak-detection-dammam",
+        "status": "publish",
+        "title": "شركة كشف تسربات المياه بالدمام"
+      },
+      "khobar": {
+        "id": 9291,
+        "slug": "water-leak-detection-khobar",
+        "status": "publish",
+        "title": "شركة كشف تسربات المياه بالخبر"
+      },
+      "taif": {
+        "id": 9295,
+        "slug": "water-leak-detection-taif",
+        "status": "publish",
+        "title": "شركة كشف تسربات المياه بالطائف"
+      },
+      "abha": {
+        "id": 9293,
+        "slug": "water-leak-detection-abha",
+        "status": "publish",
+        "title": "شركة كشف تسربات المياه بأبها"
+      }
+    },
+    "insul": {
+      "riyadh": {
+        "id": 10604,
+        "slug": "roof-insulation-riyadh",
+        "status": "publish",
+        "title": "شركة عزل أسطح بالرياض"
+      },
+      "jeddah": {
+        "id": 11352,
+        "slug": "roof-insulation-jeddah",
+        "status": "publish",
+        "title": "شركة عزل أسطح بجدة"
+      },
+      "mecca": {
+        "id": 11364,
+        "slug": "roof-insulation-mecca",
+        "status": "publish",
+        "title": "شركة عزل أسطح بمكة المكرمة"
+      },
+      "medina": {
+        "id": 11376,
+        "slug": "roof-insulation-medina",
+        "status": "publish",
+        "title": "شركة عزل أسطح بالمدينة المنورة"
+      },
+      "dammam": {
+        "id": 11387,
+        "slug": "roof-insulation-dammam",
+        "status": "publish",
+        "title": "شركة عزل أسطح بالدمام"
+      },
+      "khobar": {
+        "id": 11398,
+        "slug": "roof-insulation-khobar",
+        "status": "publish",
+        "title": "شركة عزل أسطح بالخبر"
+      },
+      "taif": {
+        "id": 11409,
+        "slug": "roof-insulation-taif",
+        "status": "publish",
+        "title": "شركة عزل أسطح بالطائف"
+      },
+      "abha": {
+        "id": 11943,
+        "slug": "roof-insulation-abha",
+        "status": "publish",
+        "title": "شركة عزل أسطح بأبها"
+      }
+    },
+    "ac": {
+      "riyadh": {
+        "id": 13104,
+        "slug": "ac-cleaning-washing-riyadh",
+        "status": "publish",
+        "title": "شركة غسيل وتنظيف مكيفات بالرياض"
+      },
+      "jeddah": {
+        "id": 13105,
+        "slug": "ac-cleaning-washing-jeddah",
+        "status": "publish",
+        "title": "شركة غسيل وتنظيف مكيفات بجدة"
+      },
+      "mecca": {
+        "id": 13106,
+        "slug": "ac-cleaning-washing-mecca",
+        "status": "publish",
+        "title": "شركة غسيل وتنظيف مكيفات بمكة المكرمة"
+      },
+      "medina": {
+        "id": 13107,
+        "slug": "ac-cleaning-washing-medina",
+        "status": "publish",
+        "title": "شركة غسيل وتنظيف مكيفات بالمدينة المنورة"
+      },
+      "dammam": {
+        "id": 13108,
+        "slug": "ac-cleaning-washing-dammam",
+        "status": "publish",
+        "title": "شركة غسيل وتنظيف مكيفات بالدمام"
+      },
+      "khobar": {
+        "id": 13109,
+        "slug": "ac-cleaning-washing-khobar",
+        "status": "publish",
+        "title": "شركة غسيل وتنظيف مكيفات بالخبر"
+      },
+      "taif": {
+        "id": 13110,
+        "slug": "ac-cleaning-washing-taif",
+        "status": "publish",
+        "title": "شركة غسيل وتنظيف مكيفات بالطائف"
+      },
+      "abha": {
+        "id": 13111,
+        "slug": "ac-cleaning-washing-abha",
+        "status": "publish",
+        "title": "شركة غسيل وتنظيف مكيفات بأبها"
+      }
+    },
+    "clean": {
+      "riyadh": {
+        "id": 10274,
+        "slug": "house-cleaning-in-riyadh",
+        "status": "publish",
+        "title": "شركة تنظيف منازل بالرياض"
+      },
+      "jeddah": {
+        "id": 10882,
+        "slug": "home-cleaning-jeddah",
+        "status": "publish",
+        "title": "شركة تنظيف منازل بجدة"
+      },
+      "mecca": {
+        "id": 10908,
+        "slug": "home-cleaning-mecca",
+        "status": "publish",
+        "title": "شركة تنظيف منازل بمكة المكرمة"
+      },
+      "medina": {
+        "id": 10934,
+        "slug": "home-cleaning-medina",
+        "status": "publish",
+        "title": "شركة تنظيف منازل بالمدينة المنورة"
+      },
+      "dammam": {
+        "id": 10960,
+        "slug": "home-cleaning-dammam",
+        "status": "publish",
+        "title": "شركة تنظيف منازل بالدمام"
+      },
+      "khobar": {
+        "id": 10986,
+        "slug": "home-cleaning-khobar",
+        "status": "publish",
+        "title": "شركة تنظيف منازل بالخبر"
+      },
+      "taif": {
+        "id": 11012,
+        "slug": "home-cleaning-taif",
+        "status": "publish",
+        "title": "شركة تنظيف منازل بالطائف"
+      },
+      "abha": {
+        "id": 11038,
+        "slug": "home-cleaning-abha",
+        "status": "publish",
+        "title": "شركة تنظيف منازل بأبها"
+      }
+    },
+    "pest": {
+      "riyadh": {
+        "id": 12568,
+        "slug": "cockroach-control-riyadh",
+        "status": "publish",
+        "title": "شركة مكافحة الصراصير بالرياض"
+      },
+      "jeddah": {
+        "id": 12569,
+        "slug": "cockroach-control-jeddah",
+        "status": "publish",
+        "title": "شركة مكافحة الصراصير بجدة"
+      },
+      "mecca": {
+        "id": 12570,
+        "slug": "cockroach-control-mecca",
+        "status": "publish",
+        "title": "شركة مكافحة الصراصير بمكة المكرمة"
+      },
+      "medina": {
+        "id": 12571,
+        "slug": "cockroach-control-medina",
+        "status": "publish",
+        "title": "شركة مكافحة الصراصير بالمدينة المنورة"
+      },
+      "dammam": {
+        "id": 12572,
+        "slug": "cockroach-control-dammam",
+        "status": "publish",
+        "title": "شركة مكافحة الصراصير بالدمام"
+      },
+      "khobar": {
+        "id": 12573,
+        "slug": "cockroach-control-khobar",
+        "status": "publish",
+        "title": "شركة مكافحة الصراصير بالخبر"
+      },
+      "taif": {
+        "id": 12574,
+        "slug": "cockroach-control-taif",
+        "status": "publish",
+        "title": "شركة مكافحة الصراصير بالطائف"
+      },
+      "abha": {
+        "id": 12575,
+        "slug": "cockroach-control-abha",
+        "status": "publish",
+        "title": "شركة مكافحة الصراصير بأبها"
+      }
+    }
+  }
+}
