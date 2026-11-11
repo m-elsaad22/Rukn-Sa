@@ -1,0 +1,20 @@
+{
+  "phone": "+966552481093",
+  "phone_local": "0552481093",
+  "whatsapp": "+971586634710",
+  "call_show": true,
+  "titles_updated_individual_approx": 1700,
+  "titles_finish_tail": 84,
+  "samples_verified": 8,
+  "dump_keys": {
+    "phonenumber": "+966552481093",
+    "whatsapp_number": "+971586634710",
+    "contact_number": "+966552481093",
+    "copyrights": "حقوق النشر {%YEAR%} © جميع الحقوق محفوظة لصالح \"شركة ركن التطور - السعودية\"",
+    "kayan_country_sa_phone": "+966552481093",
+    "kayan_country_sa_whatsapp": "971586634710",
+    "kayan_show_call_buttons": "1",
+    "hide__floating__call": "0",
+    "sitename": "شركة ركن التطور - السعودية"
+  }
+}
