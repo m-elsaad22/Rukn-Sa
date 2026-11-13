@@ -1,0 +1,115 @@
+{
+  "configured_nap_from_dump_keys": {
+    "phone_intl": "+966552481093",
+    "phone_local": "0552481093",
+    "phone_digits": "966552481093",
+    "wa_intl": "+971586634710",
+    "wa_digits": "971586634710",
+    "old_sa": "0568060309"
+  },
+  "note": "Configured WA is UAE (+971…). Call is SA (+966552481093). No numbers were replaced in phase 1.",
+  "occurrences": [
+    {
+      "type": "page",
+      "id": 23800,
+      "match": "wa.me/971586634710",
+      "digits": "971586634710",
+      "kind": "whatsapp_link",
+      "label": "UAE_configured_whatsapp",
+      "matches_current_config": true,
+      "context": "ing --> <!-- wp:paragraph --><p>راسلنا على <a href=\"https://wa.me/971586634710\">واتساب</a> واكتب: الأحساء + الحي + الخدمة + وصف قصير. نؤكد"
+    },
+    {
+      "type": "post",
+      "id": 9308,
+      "match": "0568060309",
+      "digits": "0568060309",
+      "kind": "phone",
+      "label": "SA_legacy_old",
+      "matches_current_config": false,
+      "context": "نياً في الأحساء (المنطقة الشرقية) مع وضوح النطاق ورقم موحّد 0568060309.</p> <p>حرارة عالية ورطوبة واحات مع مياه جوفية قريبة أحيانا"
+    },
+    {
+      "type": "post",
+      "id": 9308,
+      "match": "wa.me/966568060309",
+      "digits": "966568060309",
+      "kind": "whatsapp_link",
+      "label": "SA_legacy_old",
+      "matches_current_config": false,
+      "context": "lass=\"fa-solid fa-phone\"></i> اتصل الآن</a><a href=\"https://wa.me/966568060309\" style=\"background:#25D366;color:#fff;padding:12px 18px;bor"
+    },
+    {
+      "type": "post",
+      "id": 23824,
+      "match": "wa.me/971586634710",
+      "digits": "971586634710",
+      "kind": "whatsapp_link",
+      "label": "UAE_configured_whatsapp",
+      "matches_current_config": true,
+      "context": "ليها.</p> <h2>خطوات التواصل</h2> <p>واتساب <a href=\"https://wa.me/971586634710\">wa.me/971586634710</a> مع: المدينة (الأحساء)، الحي، نوع ال"
+    },
+    {
+      "type": "post",
+      "id": 23825,
+      "match": "wa.me/971586634710",
+      "digits": "971586634710",
+      "kind": "whatsapp_link",
+      "label": "UAE_configured_whatsapp",
+      "matches_current_config": true,
+      "context": "ليها.</p> <h2>خطوات التواصل</h2> <p>واتساب <a href=\"https://wa.me/971586634710\">wa.me/971586634710</a> مع: المدينة (الأحساء)، الحي، نوع ال"
+    },
+    {
+      "type": "post",
+      "id": 23826,
+      "match": "wa.me/971586634710",
+      "digits": "971586634710",
+      "kind": "whatsapp_link",
+      "label": "UAE_configured_whatsapp",
+      "matches_current_config": true,
+      "context": "ليها.</p> <h2>خطوات التواصل</h2> <p>واتساب <a href=\"https://wa.me/971586634710\">wa.me/971586634710</a> مع: المدينة (الأحساء)، الحي، نوع ال"
+    },
+    {
+      "type": "post",
+      "id": 23827,
+      "match": "wa.me/971586634710",
+      "digits": "971586634710",
+      "kind": "whatsapp_link",
+      "label": "UAE_configured_whatsapp",
+      "matches_current_config": true,
+      "context": "ليها.</p> <h2>خطوات التواصل</h2> <p>واتساب <a href=\"https://wa.me/971586634710\">wa.me/971586634710</a> مع: المدينة (الأحساء)، الحي، نوع ال"
+    },
+    {
+      "type": "post",
+      "id": 23828,
+      "match": "wa.me/971586634710",
+      "digits": "971586634710",
+      "kind": "whatsapp_link",
+      "label": "UAE_configured_whatsapp",
+      "matches_current_config": true,
+      "context": "ليها.</p> <h2>خطوات التواصل</h2> <p>واتساب <a href=\"https://wa.me/971586634710\">wa.me/971586634710</a> مع: المدينة (الأحساء)، الحي، نوع ال"
+    }
+  ],
+  "mismatches": [
+    {
+      "type": "post",
+      "id": 9308,
+      "match": "0568060309",
+      "digits": "0568060309",
+      "kind": "phone",
+      "label": "SA_legacy_old",
+      "matches_current_config": false,
+      "context": "نياً في الأحساء (المنطقة الشرقية) مع وضوح النطاق ورقم موحّد 0568060309.</p> <p>حرارة عالية ورطوبة واحات مع مياه جوفية قريبة أحيانا"
+    },
+    {
+      "type": "post",
+      "id": 9308,
+      "match": "wa.me/966568060309",
+      "digits": "966568060309",
+      "kind": "whatsapp_link",
+      "label": "SA_legacy_old",
+      "matches_current_config": false,
+      "context": "lass=\"fa-solid fa-phone\"></i> اتصل الآن</a><a href=\"https://wa.me/966568060309\" style=\"background:#25D366;color:#fff;padding:12px 18px;bor"
+    }
+  ]
+}
