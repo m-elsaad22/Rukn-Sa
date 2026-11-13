@@ -1,0 +1,290 @@
+{
+  "phase": 1,
+  "target_words": 3000,
+  "published": [
+    {
+      "id": 10603,
+      "fam": "leak",
+      "city": "riyadh",
+      "slug": "water-leak-detection-riyadh",
+      "words": 3044
+    },
+    {
+      "id": 11349,
+      "fam": "leak",
+      "city": "jeddah",
+      "slug": "water-leak-detection-jeddah",
+      "words": 3093
+    },
+    {
+      "id": 11361,
+      "fam": "leak",
+      "city": "mecca",
+      "slug": "water-leak-detection-mecca",
+      "words": 3088
+    },
+    {
+      "id": 11373,
+      "fam": "leak",
+      "city": "medina",
+      "slug": "water-leak-detection-medina",
+      "words": 3047
+    },
+    {
+      "id": 9290,
+      "fam": "leak",
+      "city": "dammam",
+      "slug": "water-leak-detection-dammam",
+      "words": 3091
+    },
+    {
+      "id": 9291,
+      "fam": "leak",
+      "city": "khobar",
+      "slug": "water-leak-detection-khobar",
+      "words": 3068
+    },
+    {
+      "id": 9295,
+      "fam": "leak",
+      "city": "taif",
+      "slug": "water-leak-detection-taif",
+      "words": 3079
+    },
+    {
+      "id": 9293,
+      "fam": "leak",
+      "city": "abha",
+      "slug": "water-leak-detection-abha",
+      "words": 3051
+    },
+    {
+      "id": 10604,
+      "fam": "insul",
+      "city": "riyadh",
+      "slug": "roof-insulation-riyadh",
+      "words": 3066
+    },
+    {
+      "id": 11352,
+      "fam": "insul",
+      "city": "jeddah",
+      "slug": "roof-insulation-jeddah",
+      "words": 3065
+    },
+    {
+      "id": 11364,
+      "fam": "insul",
+      "city": "mecca",
+      "slug": "roof-insulation-mecca",
+      "words": 3063
+    },
+    {
+      "id": 11376,
+      "fam": "insul",
+      "city": "medina",
+      "slug": "roof-insulation-medina",
+      "words": 3074
+    },
+    {
+      "id": 11387,
+      "fam": "insul",
+      "city": "dammam",
+      "slug": "roof-insulation-dammam",
+      "words": 3065
+    },
+    {
+      "id": 11398,
+      "fam": "insul",
+      "city": "khobar",
+      "slug": "roof-insulation-khobar",
+      "words": 3040
+    },
+    {
+      "id": 11409,
+      "fam": "insul",
+      "city": "taif",
+      "slug": "roof-insulation-taif",
+      "words": 3050
+    },
+    {
+      "id": 11943,
+      "fam": "insul",
+      "city": "abha",
+      "slug": "roof-insulation-abha",
+      "words": 3071
+    },
+    {
+      "id": 13104,
+      "fam": "ac",
+      "city": "riyadh",
+      "slug": "ac-cleaning-washing-riyadh",
+      "words": 3056
+    },
+    {
+      "id": 13105,
+      "fam": "ac",
+      "city": "jeddah",
+      "slug": "ac-cleaning-washing-jeddah",
+      "words": 3058
+    },
+    {
+      "id": 13106,
+      "fam": "ac",
+      "city": "mecca",
+      "slug": "ac-cleaning-washing-mecca",
+      "words": 3047
+    },
+    {
+      "id": 13107,
+      "fam": "ac",
+      "city": "medina",
+      "slug": "ac-cleaning-washing-medina",
+      "words": 3060
+    },
+    {
+      "id": 13108,
+      "fam": "ac",
+      "city": "dammam",
+      "slug": "ac-cleaning-washing-dammam",
+      "words": 3062
+    },
+    {
+      "id": 13109,
+      "fam": "ac",
+      "city": "khobar",
+      "slug": "ac-cleaning-washing-khobar",
+      "words": 3088
+    },
+    {
+      "id": 13110,
+      "fam": "ac",
+      "city": "taif",
+      "slug": "ac-cleaning-washing-taif",
+      "words": 3046
+    },
+    {
+      "id": 13111,
+      "fam": "ac",
+      "city": "abha",
+      "slug": "ac-cleaning-washing-abha",
+      "words": 3072
+    },
+    {
+      "id": 10274,
+      "fam": "clean",
+      "city": "riyadh",
+      "slug": "house-cleaning-in-riyadh",
+      "words": 3064
+    },
+    {
+      "id": 10882,
+      "fam": "clean",
+      "city": "jeddah",
+      "slug": "home-cleaning-jeddah",
+      "words": 3074
+    },
+    {
+      "id": 10908,
+      "fam": "clean",
+      "city": "mecca",
+      "slug": "home-cleaning-mecca",
+      "words": 3074
+    },
+    {
+      "id": 10934,
+      "fam": "clean",
+      "city": "medina",
+      "slug": "home-cleaning-medina",
+      "words": 3085
+    },
+    {
+      "id": 10960,
+      "fam": "clean",
+      "city": "dammam",
+      "slug": "home-cleaning-dammam",
+      "words": 3071
+    },
+    {
+      "id": 10986,
+      "fam": "clean",
+      "city": "khobar",
+      "slug": "home-cleaning-khobar",
+      "words": 3048
+    },
+    {
+      "id": 11012,
+      "fam": "clean",
+      "city": "taif",
+      "slug": "home-cleaning-taif",
+      "words": 3059
+    },
+    {
+      "id": 11038,
+      "fam": "clean",
+      "city": "abha",
+      "slug": "home-cleaning-abha",
+      "words": 3081
+    },
+    {
+      "id": 12568,
+      "fam": "pest",
+      "city": "riyadh",
+      "slug": "cockroach-control-riyadh",
+      "words": 3056
+    },
+    {
+      "id": 12569,
+      "fam": "pest",
+      "city": "jeddah",
+      "slug": "cockroach-control-jeddah",
+      "words": 3069
+    },
+    {
+      "id": 12570,
+      "fam": "pest",
+      "city": "mecca",
+      "slug": "cockroach-control-mecca",
+      "words": 3055
+    },
+    {
+      "id": 12571,
+      "fam": "pest",
+      "city": "medina",
+      "slug": "cockroach-control-medina",
+      "words": 3072
+    },
+    {
+      "id": 12572,
+      "fam": "pest",
+      "city": "dammam",
+      "slug": "cockroach-control-dammam",
+      "words": 3072
+    },
+    {
+      "id": 12573,
+      "fam": "pest",
+      "city": "khobar",
+      "slug": "cockroach-control-khobar",
+      "words": 3047
+    },
+    {
+      "id": 12574,
+      "fam": "pest",
+      "city": "taif",
+      "slug": "cockroach-control-taif",
+      "words": 3058
+    },
+    {
+      "id": 12575,
+      "fam": "pest",
+      "city": "abha",
+      "slug": "cockroach-control-abha",
+      "words": 3082
+    }
+  ],
+  "under_3000": [],
+  "similarity_fails": [],
+  "oven_cleaning": "deferred_to_phase_2",
+  "pass": true
+}

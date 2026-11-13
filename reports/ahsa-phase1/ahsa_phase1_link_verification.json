@@ -1,0 +1,55 @@
+{
+  "page_id": 23800,
+  "hrefs_after": [
+    "/sa/water-leak-detection-al-ahsa/",
+    "/sa/roof-insulation-ahsa/",
+    "/sa/ac-cleaning-washing-ahsa/",
+    "/sa/home-cleaning-ahsa/",
+    "/sa/pest-control-ahsa/",
+    "https://wa.me/971586634710",
+    "/sa/cities/",
+    "/sa/services/"
+  ],
+  "http_checks": [
+    {
+      "href": "/sa/water-leak-detection-al-ahsa/",
+      "final": "https://www.rukn-eltatawer.com/sa/water-leak-detection-al-ahsa/",
+      "status": 200
+    },
+    {
+      "href": "/sa/roof-insulation-ahsa/",
+      "final": "https://www.rukn-eltatawer.com/sa/roof-insulation-ahsa/",
+      "status": 200
+    },
+    {
+      "href": "/sa/ac-cleaning-washing-ahsa/",
+      "final": "https://www.rukn-eltatawer.com/sa/ac-cleaning-washing-ahsa/",
+      "status": 200
+    },
+    {
+      "href": "/sa/home-cleaning-ahsa/",
+      "final": "https://www.rukn-eltatawer.com/sa/home-cleaning-ahsa/",
+      "status": 200
+    },
+    {
+      "href": "/sa/pest-control-ahsa/",
+      "final": "https://www.rukn-eltatawer.com/sa/pest-control-ahsa/",
+      "status": 200
+    },
+    {
+      "href": "https://wa.me/971586634710",
+      "type": "whatsapp",
+      "status": "skip_head"
+    },
+    {
+      "href": "/sa/cities/",
+      "final": "https://www.rukn-eltatawer.com/sa/cities/",
+      "status": 200
+    },
+    {
+      "href": "/sa/services/",
+      "final": "https://www.rukn-eltatawer.com/sa/services/",
+      "status": 200
+    }
+  ]
+}
