@@ -1,0 +1,14 @@
+{
+  "auth_user": "cursor",
+  "drafted": 7,
+  "skipped": 1,
+  "word_counts": {
+    "non-destructive-water-leak-detection-ahsa": 1452,
+    "water-tank-leak-detection-ahsa": 1285,
+    "pool-leak-detection-ahsa": 1182,
+    "bathroom-leak-detection-ahsa": 1137,
+    "roof-leak-detection-ahsa": 1093,
+    "wall-moisture-treatment-ahsa": 1082,
+    "water-leak-treatment-ahsa": 1077
+  }
+}
