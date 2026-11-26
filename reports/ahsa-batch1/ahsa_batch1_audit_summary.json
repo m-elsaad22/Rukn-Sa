@@ -1,0 +1,112 @@
+{
+  "auth_user": "cursor",
+  "audited": 8,
+  "create_draft": 7,
+  "skipped": 1,
+  "rows": [
+    {
+      "service": "كشف تسربات المياه",
+      "exists": "yes",
+      "post_id": "9308",
+      "decision": "keep_existing_primary",
+      "existing_status": "publish",
+      "existing_slug": "water-leak-detection-al-ahsa",
+      "existing_title": "كشف تسربات المياه في الأحساء",
+      "focus_keyword": "كشف تسربات المياه في الأحساء",
+      "proposed_slug": "water-leak-detection-al-ahsa",
+      "match_reason": "Primary Ahsa leak page 9308 retained; conflicting twin 23824 (شركة كشف تسربات المياه بالأحساء) must not be recreated; no new general-leak draft.",
+      "notes": "Do not edit/delete/redirect 9308 or 23824 in this batch."
+    },
+    {
+      "service": "كشف تسربات المياه بدون تكسير",
+      "exists": "no",
+      "post_id": "",
+      "decision": "create_draft",
+      "existing_status": "",
+      "existing_slug": "",
+      "existing_title": "",
+      "focus_keyword": "كشف تسربات المياه بدون تكسير في الأحساء",
+      "proposed_slug": "non-destructive-water-leak-detection-ahsa",
+      "match_reason": "",
+      "notes": "Missing specialized Ahsa service page; draft only."
+    },
+    {
+      "service": "كشف تسربات الخزانات",
+      "exists": "no",
+      "post_id": "",
+      "decision": "create_draft",
+      "existing_status": "",
+      "existing_slug": "",
+      "existing_title": "",
+      "focus_keyword": "كشف تسربات الخزانات في الأحساء",
+      "proposed_slug": "water-tank-leak-detection-ahsa",
+      "match_reason": "",
+      "notes": "Missing specialized Ahsa service page; draft only."
+    },
+    {
+      "service": "كشف تسربات المسابح",
+      "exists": "no",
+      "post_id": "",
+      "decision": "create_draft",
+      "existing_status": "",
+      "existing_slug": "",
+      "existing_title": "",
+      "focus_keyword": "كشف تسربات المسابح في الأحساء",
+      "proposed_slug": "pool-leak-detection-ahsa",
+      "match_reason": "",
+      "notes": "Missing specialized Ahsa service page; draft only."
+    },
+    {
+      "service": "كشف تسربات الحمامات",
+      "exists": "no",
+      "post_id": "",
+      "decision": "create_draft",
+      "existing_status": "",
+      "existing_slug": "",
+      "existing_title": "",
+      "focus_keyword": "كشف تسربات الحمامات في الأحساء",
+      "proposed_slug": "bathroom-leak-detection-ahsa",
+      "match_reason": "",
+      "notes": "Missing specialized Ahsa service page; draft only."
+    },
+    {
+      "service": "كشف تسربات الأسطح",
+      "exists": "no",
+      "post_id": "",
+      "decision": "create_draft",
+      "existing_status": "",
+      "existing_slug": "",
+      "existing_title": "",
+      "focus_keyword": "كشف تسربات الأسطح في الأحساء",
+      "proposed_slug": "roof-leak-detection-ahsa",
+      "match_reason": "",
+      "notes": "Missing specialized Ahsa service page; draft only."
+    },
+    {
+      "service": "معالجة رطوبة الجدران",
+      "exists": "no",
+      "post_id": "",
+      "decision": "create_draft",
+      "existing_status": "",
+      "existing_slug": "",
+      "existing_title": "",
+      "focus_keyword": "معالجة رطوبة الجدران في الأحساء",
+      "proposed_slug": "wall-moisture-treatment-ahsa",
+      "match_reason": "",
+      "notes": "Missing specialized Ahsa service page; draft only."
+    },
+    {
+      "service": "معالجة تسربات المياه",
+      "exists": "no",
+      "post_id": "",
+      "decision": "create_draft",
+      "existing_status": "",
+      "existing_slug": "",
+      "existing_title": "",
+      "focus_keyword": "معالجة تسربات المياه في الأحساء",
+      "proposed_slug": "water-leak-treatment-ahsa",
+      "match_reason": "",
+      "notes": "Missing specialized Ahsa service page; draft only."
+    }
+  ]
+}

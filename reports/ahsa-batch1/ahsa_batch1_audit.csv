@@ -1,0 +1,9 @@
+﻿service,exists,post_id,decision,existing_status,existing_slug,existing_title,focus_keyword,proposed_slug,match_reason,notes
+كشف تسربات المياه,yes,9308,keep_existing_primary,publish,water-leak-detection-al-ahsa,كشف تسربات المياه في الأحساء,كشف تسربات المياه في الأحساء,water-leak-detection-al-ahsa,Primary Ahsa leak page 9308 retained; conflicting twin 23824 (شركة كشف تسربات المياه بالأحساء) must not be recreated; no new general-leak draft.,Do not edit/delete/redirect 9308 or 23824 in this batch.
+كشف تسربات المياه بدون تكسير,no,,create_draft,,,,كشف تسربات المياه بدون تكسير في الأحساء,non-destructive-water-leak-detection-ahsa,,Missing specialized Ahsa service page; draft only.
+كشف تسربات الخزانات,no,,create_draft,,,,كشف تسربات الخزانات في الأحساء,water-tank-leak-detection-ahsa,,Missing specialized Ahsa service page; draft only.
+كشف تسربات المسابح,no,,create_draft,,,,كشف تسربات المسابح في الأحساء,pool-leak-detection-ahsa,,Missing specialized Ahsa service page; draft only.
+كشف تسربات الحمامات,no,,create_draft,,,,كشف تسربات الحمامات في الأحساء,bathroom-leak-detection-ahsa,,Missing specialized Ahsa service page; draft only.
+كشف تسربات الأسطح,no,,create_draft,,,,كشف تسربات الأسطح في الأحساء,roof-leak-detection-ahsa,,Missing specialized Ahsa service page; draft only.
+معالجة رطوبة الجدران,no,,create_draft,,,,معالجة رطوبة الجدران في الأحساء,wall-moisture-treatment-ahsa,,Missing specialized Ahsa service page; draft only.
+معالجة تسربات المياه,no,,create_draft,,,,معالجة تسربات المياه في الأحساء,water-leak-treatment-ahsa,,Missing specialized Ahsa service page; draft only.
